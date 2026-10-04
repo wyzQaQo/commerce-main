@@ -1,0 +1,38 @@
+[
+  {
+    "id": "stat-products",
+    "value": "500+",
+    "label": {
+      "en": "SKUs",
+      "ru": "SKU",
+      "es": "SKUs"
+    }
+  },
+  {
+    "id": "stat-countries",
+    "value": "50+",
+    "label": {
+      "en": "Countries",
+      "ru": "Стран",
+      "es": "Países"
+    }
+  },
+  {
+    "id": "stat-capacity",
+    "value": "8000",
+    "label": {
+      "en": "m² / Month",
+      "ru": "м²/мес",
+      "es": "m² / mes"
+    }
+  },
+  {
+    "id": "stat-reply",
+    "value": "24h",
+    "label": {
+      "en": "Quote Reply",
+      "ru": "Ответ",
+      "es": "Respuesta"
+    }
+  }
+]

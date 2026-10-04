@@ -1,0 +1,71 @@
+[
+  {
+    "id": "blog-001",
+    "slug": "why-artificial-palms-for-hotels",
+    "title": {
+      "en": "Why Hotels Choose Artificial Palms Over Real Ones",
+      "ru": "Почему отели выбирают искусственные пальмы",
+      "es": "Por qué los hoteles eligen palmeras artificiales"
+    },
+    "excerpt": {
+      "en": "Discover the cost, maintenance, and aesthetic advantages of artificial palm trees for hospitality projects.",
+      "ru": "Узнайте о преимуществах искусственных пальм для гостиничных проектов.",
+      "es": "Descubra las ventajas de las palmeras artificiales para proyectos hoteleros."
+    },
+    "keywords": {
+      "en": "artificial palm trees, hotel landscaping, synthetic palms, resort decor, B2B wholesale",
+      "ru": "искусственные пальмы, ландшафт отеля, синтетические пальмы, опт",
+      "es": "palmeras artificiales, paisajismo hotel, palmas sintéticas, mayorista"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80",
+    "publishedAt": "2025-03-15",
+    "author": "PalmGrass Team",
+    "contentFile": "why-artificial-palms-for-hotels.md"
+  },
+  {
+    "id": "blog-002",
+    "slug": "uv-resistant-materials-guide",
+    "title": {
+      "en": "UV-Resistant Materials: A Buyer's Guide",
+      "ru": "UV-стойкие материалы: руководство покупателя",
+      "es": "Materiales resistentes a UV: guía del comprador"
+    },
+    "excerpt": {
+      "en": "Learn what UV ratings mean and how to choose the right materials for outdoor artificial landscaping.",
+      "ru": "Узнайте, что означают UV-рейтинги и как выбрать материалы для улицы.",
+      "es": "Aprenda qué significan las clasificaciones UV y cómo elegir materiales para exteriores."
+    },
+    "keywords": {
+      "en": "UV resistant thatch, artificial grass UV rating, outdoor synthetic materials, ASTM G154",
+      "ru": "UV-стойкость, искусственная трава, материалы для улицы",
+      "es": "resistencia UV, césped artificial, materiales exteriores"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+    "publishedAt": "2025-02-28",
+    "author": "PalmGrass Team",
+    "contentFile": "uv-resistant-materials-guide.md"
+  },
+  {
+    "id": "blog-003",
+    "slug": "wholesale-ordering-tips",
+    "title": {
+      "en": "5 Tips for Your First Wholesale Palm Order",
+      "ru": "5 советов для первого оптового заказа пальм",
+      "es": "5 consejos para su primer pedido mayorista"
+    },
+    "excerpt": {
+      "en": "MOQ, shipping, samples, and customs — everything you need to know before placing a bulk order.",
+      "ru": "MOQ, доставка, образцы и таможня — всё перед оптовым заказом.",
+      "es": "MOQ, envío, muestras y aduanas — todo antes de un pedido al por mayor."
+    },
+    "keywords": {
+      "en": "wholesale palm order, MOQ artificial thatch, bulk import, sea freight CBM",
+      "ru": "оптовый заказ, MOQ, морская доставка, CBM",
+      "es": "pedido mayorista, MOQ, envío marítimo, CBM"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&q=80",
+    "publishedAt": "2025-01-20",
+    "author": "PalmGrass Team",
+    "contentFile": "wholesale-ordering-tips.md"
+  }
+]

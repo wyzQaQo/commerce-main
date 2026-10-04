@@ -1,0 +1,86 @@
+[
+  {
+    "id": "proj-001",
+    "slug": "maldives-cadjan-villa",
+    "title": {
+      "en": "Maldives Overwater Villa Cadjan Roof",
+      "ru": "Maldives Overwater Villa Cadjan Roof",
+      "es": "Maldives Overwater Villa Cadjan Roof"
+    },
+    "region": {
+      "en": "Maldives",
+      "ru": "Maldives",
+      "es": "Maldives"
+    },
+    "summary": {
+      "en": "Full cadjan-style synthetic thatch roof for luxury overwater villas with B1 fire treatment.",
+      "ru": "Full cadjan-style synthetic thatch roof for luxury overwater villas with B1 fire treatment.",
+      "es": "Full cadjan-style synthetic thatch roof for luxury overwater villas with B1 fire treatment."
+    },
+    "image": "/images/projects/project-1.jpg",
+    "featured": true
+  },
+  {
+    "id": "proj-002",
+    "slug": "philippines-palm-diving-club",
+    "title": {
+      "en": "Philippines Palm Thatch Diving Club",
+      "ru": "Philippines Palm Thatch Diving Club",
+      "es": "Philippines Palm Thatch Diving Club"
+    },
+    "region": {
+      "en": "Philippines",
+      "ru": "Philippines",
+      "es": "Philippines"
+    },
+    "summary": {
+      "en": "Palm-profile panels for coastal club pergolas — salt-spray and UV resistant.",
+      "ru": "Palm-profile panels for coastal club pergolas — salt-spray and UV resistant.",
+      "es": "Palm-profile panels for coastal club pergolas — salt-spray and UV resistant."
+    },
+    "image": "/images/projects/project-2.jpg",
+    "featured": true
+  },
+  {
+    "id": "proj-003",
+    "slug": "malaysia-resort-restaurant",
+    "title": {
+      "en": "Malaysia Resort Restaurant Thatch",
+      "ru": "Malaysia Resort Restaurant Thatch",
+      "es": "Malaysia Resort Restaurant Thatch"
+    },
+    "region": {
+      "en": "Malaysia",
+      "ru": "Malaysia",
+      "es": "Malaysia"
+    },
+    "summary": {
+      "en": "820 m² palm thatch roofing for beachfront restaurant and villa gazebos.",
+      "ru": "820 m² palm thatch roofing for beachfront restaurant and villa gazebos.",
+      "es": "820 m² palm thatch roofing for beachfront restaurant and villa gazebos."
+    },
+    "image": "/images/projects/project-3.jpg",
+    "featured": true
+  },
+  {
+    "id": "proj-004",
+    "slug": "qatar-waterfront-pergola",
+    "title": {
+      "en": "Qatar Waterfront Park Pergola",
+      "ru": "Qatar Waterfront Park Pergola",
+      "es": "Qatar Waterfront Park Pergola"
+    },
+    "region": {
+      "en": "Qatar",
+      "ru": "Qatar",
+      "es": "Qatar"
+    },
+    "summary": {
+      "en": "Reed-profile PE thatch for public waterfront shade structures.",
+      "ru": "Reed-profile PE thatch for public waterfront shade structures.",
+      "es": "Reed-profile PE thatch for public waterfront shade structures."
+    },
+    "image": "/images/projects/project-4.jpg",
+    "featured": true
+  }
+]

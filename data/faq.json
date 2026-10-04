@@ -1,0 +1,86 @@
+[
+  {
+    "id": "faq-1",
+    "category": "general",
+    "question": {
+      "en": "What fire-retardant rating do your artificial thatch products meet?",
+      "ru": "Какой класс огнестойкости у вашей искусственной соломы?",
+      "es": "¿Qué clasificación ignífuga cumplen sus productos de paja artificial?"
+    },
+    "answer": {
+      "en": "Our standard artificial thatch tiles meet Class B1 (DIN 4102) fire-retardant requirements. Class A options with additional fire-retardant coating are available for hotel and public venue projects — contact us for test reports.",
+      "ru": "Стандартная плитка соответствует классу B1 (DIN 4102). Доступен класс A с дополнительным огнезащитным покрытием для отелей — предоставим протоколы испытаний.",
+      "es": "Nuestras tejas estándar cumplen Clase B1 (DIN 4102). Opción Clase A disponible para hoteles — solicite informes de prueba."
+    }
+  },
+  {
+    "id": "faq-2",
+    "category": "general",
+    "question": {
+      "en": "How long is the service life of synthetic thatch?",
+      "ru": "Какой срок службы синтетической соломы?",
+      "es": "¿Cuál es la vida útil de la paja sintética?"
+    },
+    "answer": {
+      "en": "With UV-stabilized PE/PP materials, our artificial thatch maintains color and structure for 8–15+ years outdoors depending on climate. Natural thatch typically requires replacement every 2–4 years.",
+      "ru": "С UV-стабилизированными материалами срок службы на улице 8–15+ лет в зависимости от климата. Натуральная солома требует замены каждые 2–4 года.",
+      "es": "Con materiales PE/PP estabilizados UV, la vida útil exterior es de 8–15+ años según el clima. La paja natural suele reemplazarse cada 2–4 años."
+    }
+  },
+  {
+    "id": "faq-3",
+    "category": "installation",
+    "question": {
+      "en": "How do you fix artificial thatch to steel structure roofs?",
+      "ru": "Как крепить искусственную солому на стальную кровлю?",
+      "es": "¿Cómo fijar la paja artificial en estructuras de acero?"
+    },
+    "answer": {
+      "en": "We recommend stainless steel screws with UV-resistant washers at 25–30 cm intervals on purlins, plus overlap of 10–15 cm between tile rows. For curved steel frames, use our flexible batten system — installation drawings provided with every bulk order.",
+      "ru": "Рекомендуем нержавеющие саморезы с UV-шайбами через 25–30 см на обрешётке, нахлёст рядов 10–15 см. Для криволинейных каркасов — гибкая обрешётка, чертежи в комплекте оптовых заказов.",
+      "es": "Recomendamos tornillos de acero inoxidable con arandelas UV cada 25–30 cm, solape de 10–15 cm. Para estructuras curvas, sistema de rastrel flexible — planos incluidos en pedidos al por mayor."
+    }
+  },
+  {
+    "id": "faq-4",
+    "category": "product",
+    "question": {
+      "en": "What is the MOQ for wholesale orders?",
+      "ru": "Какой MOQ для оптовых заказов?",
+      "es": "¿Cuál es el MOQ para pedidos mayoristas?"
+    },
+    "answer": {
+      "en": "Standard MOQ is 200 m² (approx. 800–1,000 tiles depending on profile). Mixed-color orders from 100 m² may be accepted for first-time partners. Sample boxes available before bulk commitment.",
+      "ru": "Стандартный MOQ — 200 м² (около 800–1000 плиток). Смешанные цвета от 100 м² для новых партнёров. Образцы перед оптовым заказом.",
+      "es": "MOQ estándar: 200 m² (aprox. 800–1.000 tejas). Pedidos mixtos desde 100 m² para nuevos socios. Muestras disponibles antes del pedido mayorista."
+    }
+  },
+  {
+    "id": "faq-5",
+    "category": "product",
+    "question": {
+      "en": "What wind resistance level can your thatch systems withstand?",
+      "ru": "Какой уровень ветроустойчивости?",
+      "es": "¿Qué resistencia al viento soportan sus sistemas?"
+    },
+    "answer": {
+      "en": "When installed per our guide, systems are rated for sustained winds up to 120 km/h (Category 1 typhoon). Coastal resort projects should use our reinforced fixing kit with extra anchor points.",
+      "ru": "При монтаже по инструкции — устойчивость до 120 км/ч. Для прибрежных курортов — усиленный крепёжный комплект.",
+      "es": "Instalado según guía, resiste vientos sostenidos hasta 120 km/h. Proyectos costeros: kit de fijación reforzado."
+    }
+  },
+  {
+    "id": "faq-6",
+    "category": "general",
+    "question": {
+      "en": "How do you calculate CBM for sea freight?",
+      "ru": "Как рассчитать CBM для морской перевозки?",
+      "es": "¿Cómo calcular CBM para envío marítimo?"
+    },
+    "answer": {
+      "en": "Use our product page CBM calculator: enter tile quantity and we compute total volume, weight, and approximate 20ft/40ft container utilization. Our sales team can optimize mixed-SKU loading for your project.",
+      "ru": "Используйте калькулятор CBM на странице товара: введите количество — получите объём, вес и загрузку 20/40 футовых контейнеров.",
+      "es": "Use el calculador CBM en la página del producto: ingrese cantidad y obtenga volumen, peso y uso de contenedor 20/40 pies."
+    }
+  }
+]

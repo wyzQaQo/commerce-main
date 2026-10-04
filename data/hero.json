@@ -1,0 +1,59 @@
+[
+  {
+    "id": "slide-1",
+    "image": "/images/hero/hero-1.jpg",
+    "title": {
+      "en": "Premium Synthetic Thatch for Global Resort Projects",
+      "ru": "Premium Synthetic Thatch for Global Resort Projects",
+      "es": "Premium Synthetic Thatch for Global Resort Projects"
+    },
+    "subtitle": {
+      "en": "Factory direct · Fire-retardant options · Fast container shipping",
+      "ru": "Factory direct · Fire-retardant options · Fast container shipping",
+      "es": "Factory direct · Fire-retardant options · Fast container shipping"
+    },
+    "cta": {
+      "en": "Get A Quote",
+      "ru": "Получить цену",
+      "es": "Cotizar"
+    }
+  },
+  {
+    "id": "slide-2",
+    "image": "/images/hero/hero-2.jpg",
+    "title": {
+      "en": "Trusted by Hotels & Developers in 50+ Countries",
+      "ru": "Trusted by Hotels & Developers in 50+ Countries",
+      "es": "Trusted by Hotels & Developers in 50+ Countries"
+    },
+    "subtitle": {
+      "en": "Cadjan, palm, nipa, reed & straw profiles · OEM sizes",
+      "ru": "Cadjan, palm, nipa, reed & straw profiles · OEM sizes",
+      "es": "Cadjan, palm, nipa, reed & straw profiles · OEM sizes"
+    },
+    "cta": {
+      "en": "Get A Quote",
+      "ru": "Получить цену",
+      "es": "Cotizar"
+    }
+  },
+  {
+    "id": "slide-3",
+    "image": "/images/hero/hero-3.jpg",
+    "title": {
+      "en": "Engineering-Grade Roof Systems with Tropical Authenticity",
+      "ru": "Engineering-Grade Roof Systems with Tropical Authenticity",
+      "es": "Engineering-Grade Roof Systems with Tropical Authenticity"
+    },
+    "subtitle": {
+      "en": "UV-tested · Low maintenance · Ideal for palapas & overwater villas",
+      "ru": "UV-tested · Low maintenance · Ideal for palapas & overwater villas",
+      "es": "UV-tested · Low maintenance · Ideal for palapas & overwater villas"
+    },
+    "cta": {
+      "en": "Get A Quote",
+      "ru": "Получить цену",
+      "es": "Cotizar"
+    }
+  }
+]

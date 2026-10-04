@@ -1,0 +1,144 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222 47% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    --primary: 218 45% 20%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 222 47% 11%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+    --accent: 199 89% 48%;
+    --accent-foreground: 218 45% 20%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214 32% 91%;
+    --ring: 199 89% 48%;
+    --radius: 0.5rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-bold tracking-tight text-brand-navy;
+  }
+}
+
+@layer utilities {
+  .section-padding {
+    @apply py-16 md:py-24;
+  }
+
+  .product-card-hover {
+    @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-card-hover;
+  }
+}
+
+/* Hide third-party live-chat widgets — use our WhatsApp button only */
+#crisp-chatbox,
+.crisp-client,
+.cc-1m2mf,
+[class*='crisp-'],
+#intercom-container,
+.intercom-lightweight-app,
+#tidio-chat,
+#tawkto-container,
+#hubspot-messages-iframe-container,
+#drift-widget-container,
+iframe[title*='chat' i],
+iframe[src*='crisp.chat'],
+iframe[src*='tawk.to'],
+iframe[src*='intercom'] {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+
+main {
+  width: 100%;
+}
+
+@keyframes coast-glow {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+    opacity: 0.55;
+  }
+  50% {
+    transform: translate(12px, -8px) scale(1.04);
+    opacity: 0.85;
+  }
+}
+
+@keyframes coast-glow-delayed {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+    opacity: 0.45;
+  }
+  50% {
+    transform: translate(-10px, 6px) scale(1.03);
+    opacity: 0.75;
+  }
+}
+
+@keyframes coast-wave-slide {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-coast-glow {
+  animation: coast-glow 14s ease-in-out infinite;
+}
+
+.animate-coast-glow-delayed {
+  animation: coast-glow-delayed 18s ease-in-out infinite;
+}
+
+.coast-wave {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 200%;
+  height: 100%;
+  background-repeat: repeat-x;
+  background-size: 50% 100%;
+  animation: coast-wave-slide 22s linear infinite;
+}
+
+.coast-wave-1 {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath fill='%2338bdf8' fill-opacity='0.14' d='M0,64 C200,100 400,20 600,64 C800,108 1000,28 1200,64 L1200,120 L0,120 Z'/%3E%3C/svg%3E");
+  opacity: 0.9;
+}
+
+.coast-wave-2 {
+  bottom: 8%;
+  animation-duration: 28s;
+  animation-direction: reverse;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath fill='%237dd3fc' fill-opacity='0.1' d='M0,72 C250,30 450,95 700,55 C950,15 1100,80 1200,72 L1200,120 L0,120 Z'/%3E%3C/svg%3E");
+}
+
+.coast-wave-3 {
+  bottom: 16%;
+  animation-duration: 34s;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath fill='%230ea5e9' fill-opacity='0.08' d='M0,80 C300,45 500,100 800,60 C1000,35 1100,90 1200,80 L1200,120 L0,120 Z'/%3E%3C/svg%3E");
+}

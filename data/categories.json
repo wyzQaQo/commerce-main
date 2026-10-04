@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cat-palm",
+    "slug": "palm-thatch",
+    "name": {
+      "en": "Palm Thatch",
+      "ru": "Palm Thatch",
+      "es": "Paja de Palma"
+    },
+    "description": {
+      "en": "Tropical palm leaf profiles for tiki bars, palapas and resort villas.",
+      "ru": "Tropical palm leaf profiles for tiki bars, palapas and resort villas.",
+      "es": "Perfiles de hoja de palma para bares tiki, palapas y villas."
+    },
+    "image": "/images/products/palm-thatch-roof-covering-manufacturer.jpg"
+  },
+  {
+    "id": "cat-nipa",
+    "slug": "nipa-thatch",
+    "name": {
+      "en": "Nipa Thatch",
+      "ru": "Nipa Thatch",
+      "es": "Paja Nipa"
+    },
+    "description": {
+      "en": "Southeast Asian nipa hut style panels for zoos, parks and beach clubs.",
+      "ru": "Southeast Asian nipa hut style panels for zoos, parks and beach clubs.",
+      "es": "Paneles estilo cabaña nipa para parques y clubes de playa."
+    },
+    "image": "/images/products/zoo-park-artificial-nipa-hut-thatch-roof-manufacturer.jpg"
+  },
+  {
+    "id": "cat-cadjan",
+    "slug": "cadjan-thatch",
+    "name": {
+      "en": "Cadjan / Kajan",
+      "ru": "Cadjan / Kajan",
+      "es": "Cadjan / Kajan"
+    },
+    "description": {
+      "en": "Sri Lankan cadjan weave look for overwater villas and eco-resorts.",
+      "ru": "Sri Lankan cadjan weave look for overwater villas and eco-resorts.",
+      "es": "Tejido cadjan para villas sobre el agua y eco-resorts."
+    },
+    "image": "/images/products/overwater-villa-artificial-kajan-thatch-roof.jpg"
+  },
+  {
+    "id": "cat-reed",
+    "slug": "reed-thatch",
+    "name": {
+      "en": "Reed Thatch",
+      "ru": "Reed Thatch",
+      "es": "Paja de Junco"
+    },
+    "description": {
+      "en": "European reed hut aesthetics with UV-stable synthetic fibres.",
+      "ru": "European reed hut aesthetics with UV-stable synthetic fibres.",
+      "es": "Estética de cabaña de junco con fibras sintéticas UV."
+    },
+    "image": "/images/products/island-country-tropical-style-artificial-thatch-roofing-mate.jpg"
+  },
+  {
+    "id": "cat-straw",
+    "slug": "straw-thatch",
+    "name": {
+      "en": "Straw Thatch",
+      "ru": "Straw Thatch",
+      "es": "Paja de Trigo"
+    },
+    "description": {
+      "en": "Safari and cottage straw roof tiles for gazebos and garden structures.",
+      "ru": "Safari and cottage straw roof tiles for gazebos and garden structures.",
+      "es": "Tejas de paja para cenadores y estructuras de jardín."
+    },
+    "image": "/images/products/fireproof-synthetic-safari-thatched-roof-covering-for-shed.jpg"
+  },
+  {
+    "id": "cat-makuti",
+    "slug": "makuti-thatch",
+    "name": {
+      "en": "Makuti / Coconut",
+      "ru": "Makuti / Coconut",
+      "es": "Makuti / Coco"
+    },
+    "description": {
+      "en": "East African makuti coconut thatch for lodges and themed venues.",
+      "ru": "East African makuti coconut thatch for lodges and themed venues.",
+      "es": "Makuti de coco para lodges y venues temáticos."
+    },
+    "image": "/images/products/plastic-coconut-thatch-roof-products-be-customized-for-your-.jpg"
+  }
+]

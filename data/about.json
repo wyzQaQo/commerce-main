@@ -1,0 +1,223 @@
+{
+  "introImage": "/images/hero/hero-1.jpg",
+  "timeline": [
+    {
+      "year": "2014",
+      "text": {
+        "en": "Founded in Guangzhou — began R&D on extruded synthetic palm and nipa thatch panels for export resorts.",
+        "ru": "Основание в Гуанчжоу — R&D синтетической соломы palm/nipa для экспортных курортов.",
+        "es": "Fundación en Guangzhou — I+D en paneles de paja sintética palm/nipa para resorts de exportación."
+      }
+    },
+    {
+      "year": "2017",
+      "text": {
+        "en": "Expanded to 5,000 m² factory; launched cadjan, reed and straw profile lines with OEM color matching.",
+        "ru": "Расширение фабрики до 5 000 м²; линии cadjan, reed и straw с OEM-подбором цвета.",
+        "es": "Ampliación a fábrica de 5.000 m²; líneas cadjan, reed y straw con color OEM."
+      }
+    },
+    {
+      "year": "2020",
+      "text": {
+        "en": "B1 fire-retardant formulations certified; exporting to 30+ countries across Asia-Pacific and Middle East.",
+        "ru": "Сертификация огнестойкости B1; экспорт в 30+ стран Азии и Ближнего Востока.",
+        "es": "Formulaciones ignífugas B1 certificadas; exportación a 30+ países en Asia-Pacífico y Medio Oriente."
+      }
+    },
+    {
+      "year": "2024",
+      "text": {
+        "en": "8,000 m² monthly panel capacity; 500+ SKUs serving hotel chains, developers and contractors in 50+ countries.",
+        "ru": "Мощность 8 000 м²/мес.; 500+ SKU для отелей и подрядчиков в 50+ странах.",
+        "es": "Capacidad de 8.000 m²/mes; 500+ SKU para hoteles y contratistas en 50+ países."
+      }
+    }
+  ],
+  "certificates": [
+    {
+      "id": "iso9001",
+      "title": {
+        "en": "ISO 9001",
+        "ru": "ISO 9001",
+        "es": "ISO 9001"
+      },
+      "description": {
+        "en": "Documented quality management for batch production, incoming QC and export packing.",
+        "ru": "Система менеджмента качества для партийного производства и экспортной упаковки.",
+        "es": "Gestión de calidad documentada para producción por lotes y embalaje de exportación."
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "en": "Class B1 Fire Rated",
+        "ru": "Класс B1",
+        "es": "Clase B1 ignífugo"
+      },
+      "description": {
+        "en": "Flame-retardant thatch options tested for hospitality and public-venue compliance.",
+        "ru": "Огнестойкие варианты соломы для отелей и общественных объектов.",
+        "es": "Opciones ignífugas para hoteles y espacios públicos."
+      }
+    },
+    {
+      "id": "sgs",
+      "title": {
+        "en": "SGS Testing",
+        "ru": "SGS",
+        "es": "SGS"
+      },
+      "description": {
+        "en": "Third-party UV ageing, salt-spray and colour stability reports available on request.",
+        "ru": "UV, солевой туман и стабильность цвета — отчёты SGS по запросу.",
+        "es": "Informes SGS de UV, niebla salina y estabilidad de color bajo solicitud."
+      }
+    },
+    {
+      "id": "ce",
+      "title": {
+        "en": "CE Conformity",
+        "ru": "CE",
+        "es": "Conformidad CE"
+      },
+      "description": {
+        "en": "Panels assessed for relevant EU market requirements on selected export SKUs.",
+        "ru": "Оценка панелей для требований рынка ЕС (выбранные SKU).",
+        "es": "Evaluación de paneles para requisitos del mercado UE (SKUs seleccionados)."
+      }
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/projects/project-1.jpg",
+      "caption": {
+        "en": "Maldives overwater villa — cadjan-profile synthetic thatch roof",
+        "ru": "Мальдивы — крыша cadjan из синтетической соломы",
+        "es": "Maldivas — techo cadjan de paja sintética en villa sobre el agua"
+      }
+    },
+    {
+      "src": "/images/projects/project-2.jpg",
+      "caption": {
+        "en": "Coastal resort pergola — palm thatch panels, salt-spray zone",
+        "ru": "Прибрежный курорт — панели palm, зона солевого тумана",
+        "es": "Resort costero — paneles palm en zona de salitre"
+      }
+    },
+    {
+      "src": "/images/products/palm-thatch-roof-covering-manufacturer.jpg",
+      "caption": {
+        "en": "In-house extrusion & hand-trimmed palm thatch production line",
+        "ru": "Собственная линия экструзии и ручной обработки palm",
+        "es": "Línea propia de extrusión y acabado manual palm"
+      }
+    },
+    {
+      "src": "/images/compare/synthetic-thatch.jpg",
+      "caption": {
+        "en": "Finished panel texture — UV-stable colour batch for export QC",
+        "ru": "Фактура готовой панели — UV-стабильная партия для экспорта",
+        "es": "Textura de panel terminado — lote UV-estable para exportación"
+      }
+    },
+    {
+      "src": "/images/projects/project-3.jpg",
+      "caption": {
+        "en": "Malaysia beachfront restaurant — 820 m² palm thatch roofing",
+        "ru": "Ресторан на берегу в Малайзии — 820 м² кровли palm",
+        "es": "Restaurante frente al mar en Malasia — 820 m² de techo palm"
+      }
+    },
+    {
+      "src": "/images/products/overwater-villa-artificial-kajan-thatch-roof.jpg",
+      "caption": {
+        "en": "Overwater villa cadjan profile — OEM colour matching for luxury resorts",
+        "ru": "Профиль cadjan для вилл на воде — OEM-подбор цвета",
+        "es": "Perfil cadjan en villa sobre el agua — color OEM para resorts de lujo"
+      }
+    }
+  ],
+  "factoryPhotos": [
+    {
+      "src": "/images/factory/factory-01.jpg",
+      "caption": {
+        "en": "Hand-assembly workshop — workers bundling palm-profile thatch panels for export orders",
+        "ru": "Ручная сборка — формирование панелей palm для экспортных заказов",
+        "es": "Taller de ensamblaje manual — paneles palm para pedidos de exportación"
+      }
+    },
+    {
+      "src": "/images/factory/factory-02.jpg",
+      "caption": {
+        "en": "Production hall overview — extrusion, trimming and packing under one roof",
+        "ru": "Производственный цех — экструзия, обрезка и упаковка под одной крышей",
+        "es": "Vista general del taller — extrusión, recorte y embalaje bajo un mismo techo"
+      }
+    },
+    {
+      "src": "/images/factory/factory-03.jpg",
+      "caption": {
+        "en": "Machine line — aligning synthetic thatch strips before panel forming",
+        "ru": "Линия станков — выравнивание полос перед формированием панелей",
+        "es": "Línea de máquinas — alineación de tiras antes del conformado de paneles"
+      }
+    },
+    {
+      "src": "/images/factory/factory-04.jpg",
+      "caption": {
+        "en": "QC station — fibre length and colour batch inspection before packing",
+        "ru": "Контроль качества — проверка длины волокна и цвета партии",
+        "es": "Control de calidad — inspección de longitud de fibra y color de lote"
+      }
+    },
+    {
+      "src": "/images/factory/factory-05.jpg",
+      "caption": {
+        "en": "Finished thatch bundles staged for carton packing and palletizing",
+        "ru": "Готовые пучки соломы перед упаковкой в короба и паллетированием",
+        "es": "Manojos terminados listos para embalaje en cartón y paletizado"
+      }
+    },
+    {
+      "src": "/images/factory/factory-06.jpg",
+      "caption": {
+        "en": "Export cartons on pallets — labelled cartons ready for container loading",
+        "ru": "Экспортные короба на паллетах — готовы к загрузке в контейнер",
+        "es": "Cartones de exportación en palés — listos para carga en contenedor"
+      }
+    },
+    {
+      "src": "/images/factory/factory-07.jpg",
+      "caption": {
+        "en": "Raw fibre storage — batch staging area for high-volume resort orders",
+        "ru": "Склад сырья — зона подготовки партий для крупных курортных заказов",
+        "es": "Almacén de fibra — zona de preparación de lotes para grandes pedidos"
+      }
+    },
+    {
+      "src": "/images/factory/factory-08.jpg",
+      "caption": {
+        "en": "Wide production floor — 8,000 m² monthly panel capacity in operation",
+        "ru": "Производственная площадка — мощность 8 000 м² панелей в месяц",
+        "es": "Planta de producción — capacidad de 8.000 m² de paneles al mes"
+      }
+    },
+    {
+      "src": "/images/factory/factory-09.jpg",
+      "caption": {
+        "en": "Hand-trimmed profile detail — texture check before export QC sign-off",
+        "ru": "Ручная обработка профиля — проверка текстуры перед экспортным QC",
+        "es": "Detalle de perfil recortado a mano — control de textura antes del QC"
+      }
+    },
+    {
+      "src": "/images/factory/factory-10.jpg",
+      "caption": {
+        "en": "Strip alignment station — synthetic thatch bundles fed before panel forming",
+        "ru": "Станция выравнивания — подача пучков соломы перед формированием панелей",
+        "es": "Estación de alineación — manojos de paja sintética antes del conformado"
+      }
+    }
+  ]
+}
