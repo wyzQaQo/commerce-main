@@ -6,7 +6,7 @@ initOpenNextCloudflareForDev();
 const withNextIntl = createNextIntlPlugin('./i18n/request.ts');
 
 /** @type {import('next').NextConfig} */
-const nextConfig = {
+const nextConfig = { output: "standalone",
   transpilePackages: ['three', 'framer-motion'],
   reactCompiler: true,
   experimental: {
