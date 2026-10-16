@@ -13,5 +13,11 @@
       "binding": "WORKER_SELF_REFERENCE",
       "service": "palmgrass-b2b"
     }
-  ]
+  ],
+  "vars": {
+    "NEXT_PUBLIC_SITE_URL": "https://100tiki.com",
+    "NEXT_PUBLIC_WHATSAPP_NUMBER": "8617843803954",
+    "CONTACT_EMAIL": "sales@palmgrasspro.com",
+    "INQUIRY_TO_EMAIL": "sales@palmgrasspro.com"
+  }
 }
