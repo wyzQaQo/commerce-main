@@ -5,7 +5,8 @@
     "label": {
       "en": "SKUs",
       "ru": "SKU",
-      "es": "SKUs"
+      "es": "SKUs",
+      "it": "SKUs"
     }
   },
   {
@@ -14,7 +15,8 @@
     "label": {
       "en": "Countries",
       "ru": "Стран",
-      "es": "Países"
+      "es": "Países",
+      "it": "Countries"
     }
   },
   {
@@ -23,7 +25,8 @@
     "label": {
       "en": "m² / Month",
       "ru": "м²/мес",
-      "es": "m² / mes"
+      "es": "m² / mes",
+      "it": "m² / Month"
     }
   },
   {
@@ -32,7 +35,8 @@
     "label": {
       "en": "Quote Reply",
       "ru": "Ответ",
-      "es": "Respuesta"
+      "es": "Respuesta",
+      "it": "Quote Reply"
     }
   }
 ]
