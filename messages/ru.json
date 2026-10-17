@@ -36,8 +36,8 @@
     "viewAllProducts": "Вся продукция"
   },
   "products": {
-    "title": "Products",
-    "description": "Browse synthetic thatch panels — palm, nipa, cadjan, reed, straw and makuti profiles",
+    "title": "Панели синтетической соломы и кровля | PalmGrass Pro",
+    "description": "Панели синтетической соломенной кровли напрямую с завода — пальма, нипа, каджан, тростник. Огнестойкие опции, размеры OEM, оптовые цены.",
     "filterCategory": "Category",
     "filterBrand": "Brand",
     "filterPrice": "Price Range",
@@ -95,19 +95,19 @@
     "dragHint": "Drag the handle to compare"
   },
   "projects": {
-    "title": "Projects",
-    "description": "Explore our global installation cases",
+    "title": "Проекты соломенной кровли | PalmGrass Pro",
+    "description": "Проекты соломенной кровли PalmGrass Pro по всему миру — резорты, отели, виллы над водой, тематические парки. Реальные кейсы установки.",
     "region": "Region"
   },
   "blog": {
-    "title": "Blog & News",
-    "description": "Industry insights and company updates",
+    "title": "Блог о синтетической соломе | PalmGrass Pro",
+    "description": "Новости и руководства по синтетической соломенной кровле от PalmGrass Pro — УФ-стойкость, оптовые заказы, искусственные пальмы.",
     "readMore": "Read More",
     "backToList": "Back to Blog"
   },
   "about": {
-    "title": "About Us",
-    "description": "Guangzhou-based synthetic thatch manufacturer — factory capacity, certifications, and global resort export experience since 2014.",
+    "title": "О PalmGrass Pro | Производитель соломенной кровли",
+    "description": "PalmGrass Pro — производитель синтетической соломенной кровли в Гуанчжоу. Мощности завода, сертификаты и экспорт для резортов с 2014 года.",
     "keywords": "synthetic thatch manufacturer, Guangzhou factory, B1 fire thatch, export roofing supplier, PalmGrass Pro",
     "founded": "Est. 2014 · Guangzhou, China",
     "legalName": "PalmGrass Pro Industrial Co., Ltd.",
@@ -151,8 +151,8 @@
     "contactCtaButton": "Contact Export Team"
   },
   "contact": {
-    "title": "Contact Us",
-    "description": "Get in touch for wholesale inquiries and custom orders",
+    "title": "Контакты PalmGrass Pro | Оптовая соломенная кровля",
+    "description": "Свяжитесь с PalmGrass Pro по вопросам оптовой соломенной кровли и индивидуальных заказов. Ответ в течение 24 часов.",
     "formTitle": "Send Inquiry",
     "name": "Full Name",
     "email": "Email Address",

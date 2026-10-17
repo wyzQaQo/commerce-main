@@ -115,7 +115,12 @@ export default async function BlogPostPage({
         </h1>
 
         <div className="prose prose-lg max-w-none prose-headings:text-brand-navy prose-a:text-brand-ocean">
-          <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
+          <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
+            components={{ h1: ({ node, ...props }) => <h2 {...props} /> }}
+          >
+            {content}
+          </ReactMarkdown>
         </div>
       </div>
     </article>

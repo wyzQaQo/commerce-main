@@ -1,5 +1,11 @@
 import type { Metadata } from 'next';
-import { SITE_NAME, SITE_URL } from '@/lib/constants';
+import {
+  SITE_NAME,
+  SITE_URL,
+  CONTACT_EMAIL,
+  CONTACT_PHONE,
+  CONTACT_ADDRESS
+} from '@/lib/constants';
 interface BuildMetadataOptions {
   title: string;
   description: string;
@@ -29,7 +35,15 @@ export function buildMetadata({
     title,
     description,
     keywords: keywordStr,
-    alternates: { canonical: url },
+    alternates: {
+      canonical: url,
+      languages: {
+        en: `${SITE_URL}/en${path ? `/${path.replace(/^\//, '')}` : ''}`,
+        ru: `${SITE_URL}/ru${path ? `/${path.replace(/^\//, '')}` : ''}`,
+        es: `${SITE_URL}/es${path ? `/${path.replace(/^\//, '')}` : ''}`,
+        'x-default': `${SITE_URL}/en${path ? `/${path.replace(/^\//, '')}` : ''}`
+      }
+    },
     openGraph: {
       title,
       description,
@@ -116,5 +130,83 @@ export function buildBreadcrumbJsonLd(items: { name: string; url: string }[]) {
       name: item.name,
       item: item.url
     }))
+  };
+}
+
+export function buildOrganizationJsonLd() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: SITE_NAME,
+    url: SITE_URL,
+    logo: `${SITE_URL}/images/hero/hero-1.jpg`,
+    email: CONTACT_EMAIL,
+    telephone: CONTACT_PHONE,
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: CONTACT_ADDRESS,
+      addressLocality: 'Guangzhou',
+      addressRegion: 'Guangdong',
+      addressCountry: 'CN'
+    }
+  };
+}
+
+export function buildWebSiteJsonLd(locale = 'en') {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: SITE_NAME,
+    url: `${SITE_URL}/${locale}`,
+    inLanguage: locale,
+    publisher: { '@type': 'Organization', name: SITE_NAME, url: SITE_URL }
+  };
+}
+
+export function buildCollectionPageJsonLd(opts: {
+  name: string;
+  description: string;
+  url: string;
+  locale?: string;
+  items?: { name: string; url: string }[];
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: opts.name,
+    description: opts.description,
+    url: opts.url,
+    ...(opts.locale ? { inLanguage: opts.locale } : {}),
+    ...(opts.items && opts.items.length
+      ? {
+          mainEntity: {
+            '@type': 'ItemList',
+            numberOfItems: opts.items.length,
+            itemListElement: opts.items.map((it, i) => ({
+              '@type': 'ListItem',
+              position: i + 1,
+              name: it.name,
+              url: it.url
+            }))
+          }
+        }
+      : {})
+  };
+}
+
+export function buildWebPageJsonLd(opts: {
+  type: string;
+  name: string;
+  description: string;
+  url: string;
+  locale?: string;
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': opts.type,
+    name: opts.name,
+    description: opts.description,
+    url: opts.url,
+    ...(opts.locale ? { inLanguage: opts.locale } : {})
   };
 }

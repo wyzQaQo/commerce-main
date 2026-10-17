@@ -36,8 +36,8 @@
     "viewAllProducts": "Ver todos"
   },
   "products": {
-    "title": "Productos",
-    "description": "Catálogo completo de palmas artificiales",
+    "title": "Paneles de Paja Sintética y Cubiertas | PalmGrass Pro",
+    "description": "Paneles de paja sintética directo de fábrica — perfiles de palmera, nipa, cadjan, cañizo y makuti. Opciones ignífugas, tallas OEM y precios mayoristas.",
     "filterCategory": "Categoría",
     "filterBrand": "Marca",
     "filterPrice": "Rango de precio",
@@ -95,19 +95,19 @@
     "dragHint": "Arrastre para comparar"
   },
   "projects": {
-    "title": "Proyectos",
-    "description": "Instalaciones en todo el mundo",
+    "title": "Proyectos de Instalación de Paja | PalmGrass Pro",
+    "description": "Explore proyectos de instalación de paja sintética PalmGrass Pro en todo el mundo — resorts, hoteles, villas sobre el agua y parques temáticos.",
     "region": "Región"
   },
   "blog": {
-    "title": "Blog y noticias",
-    "description": "Noticias del sector y actualizaciones",
+    "title": "Blog de Paja Sintética | PalmGrass Pro",
+    "description": "Noticias y guías sobre paja sintética de PalmGrass Pro — resistencia UV, pedidos mayoristas y paisajismo con palmeras artificiales.",
     "readMore": "Leer más",
     "backToList": "Volver al blog"
   },
   "about": {
-    "title": "Nosotros",
-    "description": "Fabricante de paja sintética en Guangzhou — capacidad, certificaciones y exportación a resorts desde 2014.",
+    "title": "Sobre PalmGrass Pro | Fabricante de Paja Sintética",
+    "description": "PalmGrass Pro es un fabricante de paja sintética en Guangzhou — capacidad de fábrica, certificaciones y exportación a resorts desde 2014.",
     "keywords": "fabricante paja sintética, fábrica Guangzhou, paja ignífuga B1, exportación cubiertas",
     "founded": "Desde 2014 · Guangzhou, China",
     "legalName": "PalmGrass Pro Industrial Co., Ltd.",
@@ -151,8 +151,8 @@
     "contactCtaButton": "Contactar exportación"
   },
   "contact": {
-    "title": "Contacto",
-    "description": "Contáctenos para pedidos mayoristas",
+    "title": "Contacto PalmGrass Pro | Paja Mayorista",
+    "description": "Contacte a PalmGrass Pro para consultas mayoristas de paja sintética, pedidos personalizados y cotizaciones directas de fábrica.",
     "formTitle": "Enviar consulta",
     "name": "Nombre",
     "email": "Correo",

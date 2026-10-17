@@ -2,8 +2,14 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { ProductsHero } from '@/components/products/products-hero';
 import { ProductsListPanel } from '@/components/products/products-list-panel';
 import { ProductsSidebar } from '@/components/products/products-sidebar';
-import { products } from '@/lib/data';
-import { buildMetadata } from '@/lib/metadata';
+import { products, getLocalized } from '@/lib/data';
+import {
+  buildMetadata,
+  buildCollectionPageJsonLd,
+  buildBreadcrumbJsonLd
+} from '@/lib/metadata';
+import { JsonLd } from '@/components/seo/json-ld';
+import { SITE_URL } from '@/lib/constants';
 import type { Locale } from '@/lib/types';
 
 export function generateStaticParams() {
@@ -34,9 +40,25 @@ export default async function ProductsPage({
   setRequestLocale(locale);
   const t = await getTranslations('products');
   const loc = locale as Locale;
+  const collectionLd = buildCollectionPageJsonLd({
+    name: t('title'),
+    description: t('description'),
+    url: `${SITE_URL}/${locale}/products`,
+    locale,
+    items: products.map((p) => ({
+      name: getLocalized(p.name, loc),
+      url: `${SITE_URL}/${locale}/products/${p.slug}`
+    }))
+  });
+  const breadcrumbLd = buildBreadcrumbJsonLd([
+    { name: 'Home', url: `${SITE_URL}/${locale}` },
+    { name: t('title'), url: `${SITE_URL}/${locale}/products` }
+  ]);
 
   return (
     <div className="min-h-screen w-full bg-gradient-to-b from-sky-50/40 to-white">
+      <JsonLd data={collectionLd} />
+      <JsonLd data={breadcrumbLd} />
       <ProductsHero title={t('title')} description={t('description')} />
 
       <div className="container w-full max-w-screen-2xl py-10 md:py-14">

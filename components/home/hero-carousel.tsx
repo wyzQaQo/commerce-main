@@ -110,7 +110,7 @@ export function HeroCarousel({ locale }: HeroCarouselProps) {
           >
             <Image
               src={s.image}
-              alt=""
+              alt={getLocalized(s.title, locale)}
               fill
               className="object-cover object-center"
               priority

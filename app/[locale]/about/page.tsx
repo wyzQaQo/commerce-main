@@ -1,5 +1,7 @@
 import { getTranslations, setRequestLocale } from 'next-intl/server';
-import { buildMetadata } from '@/lib/metadata';
+import { buildMetadata, buildWebPageJsonLd, buildBreadcrumbJsonLd } from '@/lib/metadata';
+import { JsonLd } from '@/components/seo/json-ld';
+import { SITE_URL } from '@/lib/constants';
 import { AboutHero } from '@/components/about/about-hero';
 import { AboutPageContent } from '@/components/about/about-page-content';
 import type { Locale } from '@/lib/types';
@@ -32,9 +34,22 @@ export default async function AboutPage({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations('about');
+  const aboutLd = buildWebPageJsonLd({
+    type: 'AboutPage',
+    name: t('title'),
+    description: t('description'),
+    url: `${SITE_URL}/${locale}/about`,
+    locale
+  });
+  const breadcrumbLd = buildBreadcrumbJsonLd([
+    { name: 'Home', url: `${SITE_URL}/${locale}` },
+    { name: t('title'), url: `${SITE_URL}/${locale}/about` }
+  ]);
 
   return (
     <>
+      <JsonLd data={aboutLd} />
+      <JsonLd data={breadcrumbLd} />
       <AboutHero
         founded={t('founded')}
         legalName={t('legalName')}

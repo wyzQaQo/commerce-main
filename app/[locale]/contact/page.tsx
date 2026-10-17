@@ -1,7 +1,9 @@
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { InquiryForm } from '@/components/inquiry-form';
 import { CONTACT_ADDRESS, CONTACT_EMAIL, CONTACT_PHONE } from '@/lib/constants';
-import { buildMetadata } from '@/lib/metadata';
+import { buildMetadata, buildWebPageJsonLd, buildBreadcrumbJsonLd } from '@/lib/metadata';
+import { JsonLd } from '@/components/seo/json-ld';
+import { SITE_URL } from '@/lib/constants';
 
 export function generateStaticParams() {
   return [{ locale: 'en' }, { locale: 'ru' }, { locale: 'es' }];
@@ -30,9 +32,22 @@ export default async function ContactPage({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations('contact');
+  const contactLd = buildWebPageJsonLd({
+    type: 'ContactPage',
+    name: t('title'),
+    description: t('description'),
+    url: `${SITE_URL}/${locale}/contact`,
+    locale
+  });
+  const breadcrumbLd = buildBreadcrumbJsonLd([
+    { name: 'Home', url: `${SITE_URL}/${locale}` },
+    { name: t('title'), url: `${SITE_URL}/${locale}/contact` }
+  ]);
 
   return (
     <div className="section-padding">
+      <JsonLd data={contactLd} />
+      <JsonLd data={breadcrumbLd} />
       <div className="container grid gap-12 lg:grid-cols-2">
         <div>
           <h1 className="mb-3 text-3xl font-bold md:text-4xl">{t('title')}</h1>
