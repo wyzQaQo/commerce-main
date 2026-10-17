@@ -39,6 +39,8 @@ export interface Product {
   shortDescription: LocalizedString;
   /** 可选 SEO 关键词 */
   seoKeywords?: LocalizedString;
+  /** 可选精简 SEO 标题（用于 <title>，H1 仍用 name） */
+  seoTitle?: LocalizedString;
   categoryId: string;
   brand: string;
   priceMin: number;

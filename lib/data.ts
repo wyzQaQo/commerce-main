@@ -127,9 +127,14 @@ export function getFeaturedProducts(limit = 12) {
 }
 
 export function getRelatedProducts(product: Product, limit = 4) {
-  return products
-    .filter((p) => p.categoryId === product.categoryId && p.id !== product.id)
-    .slice(0, limit);
+  const sameCategory = products.filter(
+    (p) => p.categoryId === product.categoryId && p.id !== product.id
+  );
+  const pool =
+    sameCategory.length > 0
+      ? sameCategory
+      : products.filter((p) => p.id !== product.id);
+  return pool.slice(0, limit);
 }
 
 export function getFeaturedProjects(limit = 4) {

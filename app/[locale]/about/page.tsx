@@ -53,7 +53,7 @@ export default async function AboutPage({
       <AboutHero
         founded={t('founded')}
         legalName={t('legalName')}
-        title={t('title')}
+        title={t('heading')}
         description={t('description')}
       />
       <AboutPageContent locale={locale as Locale} />

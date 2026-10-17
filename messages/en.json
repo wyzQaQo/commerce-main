@@ -62,7 +62,9 @@
     "tabSpecs": "Specifications",
     "tabInstallation": "Installation Guide",
     "tabCertifications": "Certifications",
-    "noSpecs": "No specifications listed."
+    "noSpecs": "No specifications listed.",
+    "heading": "Synthetic Thatch Panels & Roofing",
+    "listHeading": "Synthetic Thatch Panel Range"
   },
   "cbm": {
     "title": "CBM & Shipping Calculator",
@@ -97,13 +99,15 @@
   "projects": {
     "title": "Synthetic Thatch Installation Projects | PalmGrass Pro",
     "description": "Explore PalmGrass Pro synthetic thatch installation projects worldwide — resorts, hotels, water villas and theme parks. See real thatch roofing case studies.",
-    "region": "Region"
+    "region": "Region",
+    "heading": "Synthetic Thatch Installation Projects"
   },
   "blog": {
     "title": "Synthetic Thatch Blog & News | PalmGrass Pro",
     "description": "Synthetic thatch industry insights and buying guides from PalmGrass Pro — UV resistance, wholesale ordering tips and artificial palm landscaping.",
     "readMore": "Read More",
-    "backToList": "Back to Blog"
+    "backToList": "Back to Blog",
+    "heading": "Synthetic Thatch Blog & News"
   },
   "about": {
     "title": "About PalmGrass Pro | Synthetic Thatch Manufacturer",
@@ -148,7 +152,8 @@
     "addressLabel": "Factory Address",
     "emailLabel": "Sales Email",
     "phoneLabel": "Phone / WhatsApp",
-    "contactCtaButton": "Contact Export Team"
+    "contactCtaButton": "Contact Export Team",
+    "heading": "About PalmGrass Pro"
   },
   "contact": {
     "title": "Contact PalmGrass Pro | Thatch Roofing Wholesale",
@@ -175,7 +180,8 @@
     "emailLabel": "Email",
     "phoneLabel": "Phone",
     "addressLabel": "Address",
-    "chatWhatsApp": "Chat on WhatsApp"
+    "chatWhatsApp": "Chat on WhatsApp",
+    "heading": "Contact PalmGrass Pro"
   },
   "footer": {
     "quickLinks": "Quick Links",

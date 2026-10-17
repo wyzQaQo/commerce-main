@@ -62,7 +62,9 @@
     "tabSpecs": "Especificaciones",
     "tabInstallation": "Guía de instalación",
     "tabCertifications": "Certificaciones",
-    "noSpecs": "Sin especificaciones."
+    "noSpecs": "Sin especificaciones.",
+    "heading": "Paneles de Paja Sintética y Cubiertas",
+    "listHeading": "Catálogo de Paneles de Paja Sintética"
   },
   "cbm": {
     "title": "Calculadora CBM y envío",
@@ -97,13 +99,15 @@
   "projects": {
     "title": "Proyectos de Instalación de Paja | PalmGrass Pro",
     "description": "Explore proyectos de instalación de paja sintética PalmGrass Pro en todo el mundo — resorts, hoteles, villas sobre el agua y parques temáticos.",
-    "region": "Región"
+    "region": "Región",
+    "heading": "Proyectos de Instalación de Paja"
   },
   "blog": {
     "title": "Blog de Paja Sintética | PalmGrass Pro",
     "description": "Noticias y guías sobre paja sintética de PalmGrass Pro — resistencia UV, pedidos mayoristas y paisajismo con palmeras artificiales.",
     "readMore": "Leer más",
-    "backToList": "Volver al blog"
+    "backToList": "Volver al blog",
+    "heading": "Blog de Paja Sintética"
   },
   "about": {
     "title": "Sobre PalmGrass Pro | Fabricante de Paja Sintética",
@@ -148,7 +152,8 @@
     "addressLabel": "Dirección de fábrica",
     "emailLabel": "Email comercial",
     "phoneLabel": "Teléfono / WhatsApp",
-    "contactCtaButton": "Contactar exportación"
+    "contactCtaButton": "Contactar exportación",
+    "heading": "Sobre PalmGrass Pro"
   },
   "contact": {
     "title": "Contacto PalmGrass Pro | Paja Mayorista",
@@ -175,7 +180,8 @@
     "emailLabel": "Correo",
     "phoneLabel": "Teléfono",
     "addressLabel": "Dirección",
-    "chatWhatsApp": "WhatsApp"
+    "chatWhatsApp": "WhatsApp",
+    "heading": "Contacto PalmGrass Pro"
   },
   "footer": {
     "quickLinks": "Enlaces",

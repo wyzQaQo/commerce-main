@@ -34,6 +34,9 @@ export async function generateMetadata({
   const product = getProductBySlug(slug);
   if (!product) return {};
   const name = getLocalized(product.name, locale as Locale);
+  const seoTitle = product.seoTitle
+    ? getLocalized(product.seoTitle, locale as Locale)
+    : name;
   const description = getLocalized(product.shortDescription, locale as Locale);
   const keywordsRaw = product.seoKeywords
     ? getLocalized(product.seoKeywords, locale as Locale)
@@ -43,7 +46,7 @@ export async function generateMetadata({
     : undefined;
 
   return buildMetadata({
-    title: name,
+    title: seoTitle,
     description,
     path: `/products/${slug}`,
     locale,

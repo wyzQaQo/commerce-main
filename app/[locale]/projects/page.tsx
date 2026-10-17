@@ -55,7 +55,7 @@ export default async function ProjectsPage({
       <JsonLd data={breadcrumbLd} />
       <div className="container">
         <div className="mb-10">
-          <h1 className="mb-3 text-3xl font-bold md:text-4xl">{t('title')}</h1>
+          <h1 className="mb-3 text-3xl font-bold md:text-4xl">{t('heading')}</h1>
           <p className="text-muted-foreground">{t('description')}</p>
         </div>
         <div className="grid gap-8 sm:grid-cols-2">

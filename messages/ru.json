@@ -62,7 +62,9 @@
     "tabSpecs": "Specifications",
     "tabInstallation": "Installation Guide",
     "tabCertifications": "Certifications",
-    "noSpecs": "No specifications listed."
+    "noSpecs": "No specifications listed.",
+    "heading": "Панели синтетической соломы и кровля",
+    "listHeading": "Ассортимент панелей синтетической соломы"
   },
   "cbm": {
     "title": "CBM & Shipping Calculator",
@@ -97,13 +99,15 @@
   "projects": {
     "title": "Проекты соломенной кровли | PalmGrass Pro",
     "description": "Проекты соломенной кровли PalmGrass Pro по всему миру — резорты, отели, виллы над водой, тематические парки. Реальные кейсы установки.",
-    "region": "Region"
+    "region": "Region",
+    "heading": "Проекты соломенной кровли"
   },
   "blog": {
     "title": "Блог о синтетической соломе | PalmGrass Pro",
     "description": "Новости и руководства по синтетической соломенной кровле от PalmGrass Pro — УФ-стойкость, оптовые заказы, искусственные пальмы.",
     "readMore": "Read More",
-    "backToList": "Back to Blog"
+    "backToList": "Back to Blog",
+    "heading": "Блог о синтетической соломе"
   },
   "about": {
     "title": "О PalmGrass Pro | Производитель соломенной кровли",
@@ -148,7 +152,8 @@
     "addressLabel": "Factory Address",
     "emailLabel": "Sales Email",
     "phoneLabel": "Phone / WhatsApp",
-    "contactCtaButton": "Contact Export Team"
+    "contactCtaButton": "Contact Export Team",
+    "heading": "О PalmGrass Pro"
   },
   "contact": {
     "title": "Контакты PalmGrass Pro | Оптовая соломенная кровля",
@@ -175,7 +180,8 @@
     "emailLabel": "Email",
     "phoneLabel": "Phone",
     "addressLabel": "Address",
-    "chatWhatsApp": "Chat on WhatsApp"
+    "chatWhatsApp": "Chat on WhatsApp",
+    "heading": "Контакты PalmGrass Pro"
   },
   "footer": {
     "quickLinks": "Quick Links",

@@ -50,8 +50,9 @@ export default async function ContactPage({
       <JsonLd data={breadcrumbLd} />
       <div className="container grid gap-12 lg:grid-cols-2">
         <div>
-          <h1 className="mb-3 text-3xl font-bold md:text-4xl">{t('title')}</h1>
+          <h1 className="mb-3 text-3xl font-bold md:text-4xl">{t('heading')}</h1>
           <p className="mb-8 text-muted-foreground">{t('description')}</p>
+          <h2 className="mb-4 text-xl font-bold">{t('infoTitle')}</h2>
           <ul className="space-y-3 text-sm text-muted-foreground">
             <li>{CONTACT_ADDRESS}</li>
             <li>{CONTACT_EMAIL}</li>

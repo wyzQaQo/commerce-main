@@ -59,11 +59,14 @@ export default async function ProductsPage({
     <div className="min-h-screen w-full bg-gradient-to-b from-sky-50/40 to-white">
       <JsonLd data={collectionLd} />
       <JsonLd data={breadcrumbLd} />
-      <ProductsHero title={t('title')} description={t('description')} />
+      <ProductsHero title={t('heading')} description={t('description')} />
 
       <div className="container w-full max-w-screen-2xl py-10 md:py-14">
         <div className="flex w-full flex-col gap-8 xl:flex-row xl:items-start">
           <div className="min-w-0 flex-1">
+            <h2 className="mb-6 text-2xl font-bold text-brand-navy">
+              {t('listHeading')}
+            </h2>
             <ProductsListPanel items={products} locale={loc} />
           </div>
           <ProductsSidebar />

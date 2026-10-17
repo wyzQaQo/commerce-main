@@ -8,7 +8,7 @@ import { getBlogPostBySlug, getLocalized, getAllBlogSlugs } from '@/lib/data';
 import { getBlogContent } from '@/lib/blog-content';
 import { buildMetadata, buildArticleJsonLd, buildBreadcrumbJsonLd } from '@/lib/metadata';
 import { JsonLd } from '@/components/seo/json-ld';
-import { SITE_URL } from '@/lib/constants';
+import { SITE_URL, SITE_NAME } from '@/lib/constants';
 import type { Locale } from '@/lib/types';
 
 export function generateStaticParams() {
@@ -27,7 +27,8 @@ export async function generateMetadata({
   const post = getBlogPostBySlug(slug);
   if (!post) return {};
   const loc = locale as Locale;
-  const title = getLocalized(post.title, loc);
+  const baseTitle = getLocalized(post.title, loc);
+  const title = `${baseTitle} | ${SITE_NAME}`;
   const description = getLocalized(post.excerpt, loc);
   const keywordsRaw = post.keywords ? getLocalized(post.keywords, loc) : '';
   const keywords = keywordsRaw
