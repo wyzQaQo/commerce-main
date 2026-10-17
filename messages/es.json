@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "PalmGrass Pro | Palmas Artificiales B2B Mayorista",
-    "description": "Palmeras artificiales premium y soluciones de paisajismo tropical para hoteles, resorts y minoristas en todo el mundo.",
+    "title": "PalmGrass Pro | Fabricante de Cubiertas Sintéticas de Paja",
+    "description": "Fabricante de cubiertas sintéticas de paja directo de fábrica — paneles de palma, nipa, cadjan y cañizo para resorts, hoteles y villas. Mayorista y OEM.",
     "keywords": "césped artificial, paja sintética, mayorista B2B, paisajismo resort, palmeras artificiales"
   },
   "nav": {
@@ -36,8 +36,8 @@
     "viewAllProducts": "Ver todos"
   },
   "products": {
-    "title": "Paneles de Paja Sintética y Cubiertas | PalmGrass Pro",
-    "description": "Paneles de paja sintética directo de fábrica — perfiles de palmera, nipa, cadjan, cañizo y makuti. Opciones ignífugas, tallas OEM y precios mayoristas.",
+    "title": "Paneles Sintéticos de Paja | PalmGrass Pro",
+    "description": "Paneles sintéticos de paja directo de fábrica — palmera, nipa, cadjan, cañizo y makuti. Opciones ignífugas, tallas OEM y precios mayoristas.",
     "filterCategory": "Categoría",
     "filterBrand": "Marca",
     "filterPrice": "Rango de precio",
@@ -63,7 +63,7 @@
     "tabInstallation": "Guía de instalación",
     "tabCertifications": "Certificaciones",
     "noSpecs": "Sin especificaciones.",
-    "heading": "Paneles de Paja Sintética y Cubiertas",
+    "heading": "Paneles Sintéticos de Paja",
     "listHeading": "Catálogo de Paneles de Paja Sintética"
   },
   "cbm": {
@@ -98,20 +98,20 @@
   },
   "projects": {
     "title": "Proyectos de Instalación de Paja | PalmGrass Pro",
-    "description": "Explore proyectos de instalación de paja sintética PalmGrass Pro en todo el mundo — resorts, hoteles, villas sobre el agua y parques temáticos.",
+    "description": "Proyectos de instalación de paja en todo el mundo — resorts, hoteles, villas sobre el agua y parques temáticos. Casos reales de cubiertas de paja.",
     "region": "Región",
     "heading": "Proyectos de Instalación de Paja"
   },
   "blog": {
-    "title": "Blog de Paja Sintética | PalmGrass Pro",
-    "description": "Noticias y guías sobre paja sintética de PalmGrass Pro — resistencia UV, pedidos mayoristas y paisajismo con palmeras artificiales.",
+    "title": "Blog sobre Paja Artificial | PalmGrass Pro",
+    "description": "Blog sobre paja artificial — noticias, guías y consejos sobre cubiertas de paja sintética y palmeras artificiales de PalmGrass Pro.",
     "readMore": "Leer más",
     "backToList": "Volver al blog",
-    "heading": "Blog de Paja Sintética"
+    "heading": "Blog sobre Paja Artificial"
   },
   "about": {
-    "title": "Sobre PalmGrass Pro | Fabricante de Paja Sintética",
-    "description": "PalmGrass Pro es un fabricante de paja sintética en Guangzhou — capacidad de fábrica, certificaciones y exportación a resorts desde 2014.",
+    "title": "Sobre el Fabricante de Paja Sintética | PalmGrass Pro",
+    "description": "Sobre el fabricante de paja sintética PalmGrass Pro — fábrica en Guangzhou, capacidad, certificaciones y exportación a resorts desde 2014.",
     "keywords": "fabricante paja sintética, fábrica Guangzhou, paja ignífuga B1, exportación cubiertas",
     "founded": "Desde 2014 · Guangzhou, China",
     "legalName": "PalmGrass Pro Industrial Co., Ltd.",
@@ -153,11 +153,11 @@
     "emailLabel": "Email comercial",
     "phoneLabel": "Teléfono / WhatsApp",
     "contactCtaButton": "Contactar exportación",
-    "heading": "Sobre PalmGrass Pro"
+    "heading": "Sobre el Fabricante de Paja Sintética"
   },
   "contact": {
-    "title": "Contacto PalmGrass Pro | Paja Mayorista",
-    "description": "Contacte a PalmGrass Pro para consultas mayoristas de paja sintética, pedidos personalizados y cotizaciones directas de fábrica.",
+    "title": "Contactar Fabricante de Cubiertas de Paja | PalmGrass Pro",
+    "description": "Contacte al fabricante de cubiertas de paja PalmGrass Pro para consultas mayoristas, pedidos personalizados y cotizaciones directas de fábrica.",
     "formTitle": "Enviar consulta",
     "name": "Nombre",
     "email": "Correo",
@@ -181,7 +181,7 @@
     "phoneLabel": "Teléfono",
     "addressLabel": "Dirección",
     "chatWhatsApp": "WhatsApp",
-    "heading": "Contacto PalmGrass Pro"
+    "heading": "Contactar Fabricante de Cubiertas de Paja"
   },
   "footer": {
     "quickLinks": "Enlaces",

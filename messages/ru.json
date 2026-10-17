@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "PalmGrass Pro | Синтетическая соломенная кровля B2B",
-    "description": "Заводские искусственные пальмовые, нипа, cadjan, тростниковые и соломенные панели для курортов и отелей.",
+    "title": "PalmGrass Pro | Производитель искусственной соломенной кровли",
+    "description": "Производитель искусственной соломенной кровли напрямую с завода — панели пальма, нипа, каджан, тростник для резортов, отелей и вилл. Опт и OEM.",
     "keywords": "синтетическая солома, искусственная кровля, B2B опт, огнестойкая солома"
   },
   "nav": {
@@ -36,8 +36,8 @@
     "viewAllProducts": "Вся продукция"
   },
   "products": {
-    "title": "Панели синтетической соломы и кровля | PalmGrass Pro",
-    "description": "Панели синтетической соломенной кровли напрямую с завода — пальма, нипа, каджан, тростник. Огнестойкие опции, размеры OEM, оптовые цены.",
+    "title": "Панели искусственной соломенной кровли | PalmGrass Pro",
+    "description": "Панели искусственной соломенной кровли напрямую с завода — пальма, нипа, каджан, тростник. Огнестойкие опции, размеры OEM, оптовые цены.",
     "filterCategory": "Category",
     "filterBrand": "Brand",
     "filterPrice": "Price Range",
@@ -63,7 +63,7 @@
     "tabInstallation": "Installation Guide",
     "tabCertifications": "Certifications",
     "noSpecs": "No specifications listed.",
-    "heading": "Панели синтетической соломы и кровля",
+    "heading": "Панели искусственной соломенной кровли",
     "listHeading": "Ассортимент панелей синтетической соломы"
   },
   "cbm": {
@@ -103,15 +103,15 @@
     "heading": "Проекты соломенной кровли"
   },
   "blog": {
-    "title": "Блог о синтетической соломе | PalmGrass Pro",
-    "description": "Новости и руководства по синтетической соломенной кровле от PalmGrass Pro — УФ-стойкость, оптовые заказы, искусственные пальмы.",
+    "title": "Блог об искусственной соломе | PalmGrass Pro",
+    "description": "Блог об искусственной соломе — новости, руководства и советы по синтетической соломенной кровле и искусственным пальмам от PalmGrass Pro.",
     "readMore": "Read More",
     "backToList": "Back to Blog",
-    "heading": "Блог о синтетической соломе"
+    "heading": "Блог об искусственной соломе"
   },
   "about": {
-    "title": "О PalmGrass Pro | Производитель соломенной кровли",
-    "description": "PalmGrass Pro — производитель синтетической соломенной кровли в Гуанчжоу. Мощности завода, сертификаты и экспорт для резортов с 2014 года.",
+    "title": "О производителе соломенной кровли | PalmGrass Pro",
+    "description": "О производителе соломенной кровли PalmGrass Pro — завод в Гуанчжоу, мощности, сертификаты и экспорт для резортов с 2014 года.",
     "keywords": "synthetic thatch manufacturer, Guangzhou factory, B1 fire thatch, export roofing supplier, PalmGrass Pro",
     "founded": "Est. 2014 · Guangzhou, China",
     "legalName": "PalmGrass Pro Industrial Co., Ltd.",
@@ -153,11 +153,11 @@
     "emailLabel": "Sales Email",
     "phoneLabel": "Phone / WhatsApp",
     "contactCtaButton": "Contact Export Team",
-    "heading": "О PalmGrass Pro"
+    "heading": "О производителе соломенной кровли"
   },
   "contact": {
-    "title": "Контакты PalmGrass Pro | Оптовая соломенная кровля",
-    "description": "Свяжитесь с PalmGrass Pro по вопросам оптовой соломенной кровли и индивидуальных заказов. Ответ в течение 24 часов.",
+    "title": "Связаться с производителем соломенной кровли | PalmGrass Pro",
+    "description": "Свяжитесь с производителем соломенной кровли PalmGrass Pro: оптовые запросы, индивидуальные заказы и цены с завода. Ответ в течение 24 часов.",
     "formTitle": "Send Inquiry",
     "name": "Full Name",
     "email": "Email Address",
@@ -181,7 +181,7 @@
     "phoneLabel": "Phone",
     "addressLabel": "Address",
     "chatWhatsApp": "Chat on WhatsApp",
-    "heading": "Контакты PalmGrass Pro"
+    "heading": "Связаться с производителем соломенной кровли"
   },
   "footer": {
     "quickLinks": "Quick Links",
