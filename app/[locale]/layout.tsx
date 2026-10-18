@@ -1,4 +1,3 @@
-import { Inter } from 'next/font/google';
 import { notFound } from 'next/navigation';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
@@ -11,11 +10,9 @@ import { ScrollProgressBar } from '@/components/motion/scroll-progress-bar';
 import { TranslateGuard } from '@/components/layout/translate-guard';
 import '@/app/globals.css';
 
-const inter = Inter({
-  subsets: ['latin', 'cyrillic'],
+const inter = {
   variable: '--font-inter',
-  display: 'swap'
-});
+};
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -29,7 +26,7 @@ export default async function LocaleLayout({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  if (!routing.locales.includes(locale as 'en' | 'ru' | 'es')) {
+  if (!routing.locales.includes(locale as any)) {
     notFound();
   }
 
@@ -37,8 +34,8 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale} className={inter.variable} suppressHydrationWarning translate="no">
-      <body className="min-h-screen font-sans antialiased" suppressHydrationWarning>
+    <html lang={locale} className={inter.variable} suppressHydrationWarning={true}>
+      <body className="min-h-screen font-sans antialiased" suppressHydrationWarning={true}>
         <NextIntlClientProvider messages={messages}>
           <RfqProvider>
             <ScrollProgressBar />
