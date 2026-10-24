@@ -30,6 +30,26 @@ export interface ProductSpec {
   value: LocalizedString;
 }
 
+/** One "where would you use this" scenario, for answer-engine extraction. */
+export interface ProductUseCase {
+  scenario: LocalizedString;
+  detail: LocalizedString;
+}
+
+/** One row of an ours-vs-alternative comparison table. */
+export interface ProductComparisonRow {
+  dimension: LocalizedString;
+  ours: LocalizedString;
+  alternative: LocalizedString;
+}
+
+/** Ours-vs-alternative comparison, surfaced on the product detail page. */
+export interface ProductComparison {
+  ours_label: LocalizedString;
+  alternative_label: LocalizedString;
+  rows: ProductComparisonRow[];
+}
+
 export interface Product {
   id: string;
   slug: string;
@@ -52,6 +72,12 @@ export interface Product {
   certifications: Certification[];
   featured?: boolean;
   tags?: string[];
+  /** GEO: the answer-engine lead paragraph for this product. */
+  answer_lead?: LocalizedString;
+  /** GEO: use-case scenarios (scenic area, resort, park, ...). */
+  use_cases?: ProductUseCase[];
+  /** GEO: ours-vs-alternative comparison table. */
+  comparison?: ProductComparison;
 }
 
 export interface FaqItem {

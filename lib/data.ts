@@ -143,6 +143,21 @@ export function getRelatedProducts(product: Product, limit = 4) {
   return pool.slice(0, limit);
 }
 
+export function getSiblingProducts(
+  product: Product,
+  limit = 3,
+  excludeIds: string[] = []
+) {
+  const skip = new Set([product.id, ...excludeIds]);
+  const sameCategory = products.filter(
+    (p) => p.categoryId === product.categoryId && !skip.has(p.id)
+  );
+  const others = products.filter(
+    (p) => p.categoryId !== product.categoryId && !skip.has(p.id)
+  );
+  return [...sameCategory, ...others].slice(0, limit);
+}
+
 export function getFeaturedProjects(limit = 4) {
   return projects.filter((p) => p.featured).slice(0, limit);
 }
