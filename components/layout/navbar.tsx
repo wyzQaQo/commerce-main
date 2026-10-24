@@ -18,7 +18,7 @@ const NAV_LINKS = [
   { href: '/contact', key: 'contact' }
 ] as const;
 
-const LOCALES = ['en', 'ru', 'es', 'it'] as const;
+const LOCALES = ['en', 'ru', 'es'] as const;
 
 export function Navbar() {
   const t = useTranslations('nav');
@@ -87,19 +87,6 @@ export function Navbar() {
                 {t(link.key)}
               </Link>
             ))}
-            <div className="flex gap-2 pt-2">
-              {LOCALES.map((loc) => (
-                <Link
-                  key={loc}
-                  href={pathname}
-                  locale={loc}
-                  onClick={() => setOpen(false)}
-                  className="rounded px-2 py-1 text-xs uppercase hover:bg-white/10"
-                >
-                  {loc}
-                </Link>
-              ))}
-            </div>
             <QuoteButton variant="gold" size="sm" label={t('getQuote')} className="mt-2 w-full" />
           </nav>
         </div>

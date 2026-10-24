@@ -16,6 +16,7 @@ import { Anchor, Mail, MapPin, Phone } from 'lucide-react';
 
 export function Footer() {
   const t = useTranslations('nav');
+  const tf = useTranslations('footer');
 
   return (
     <footer className="relative mt-auto overflow-hidden bg-brand-navy text-white">
@@ -30,14 +31,17 @@ export function Footer() {
           <div className="mb-12 rounded-2xl border border-white/10 bg-white/5 p-8 backdrop-blur-md md:flex md:items-center md:justify-between md:gap-8">
             <div className="mb-6 md:mb-0">
               <p className="mb-2 text-xs font-semibold uppercase tracking-[0.2em] text-sky-300">
-                Overlooking the ocean, building globally
+                {tf('tagline')}
               </p>
-              <h3 className="text-2xl font-bold text-white md:text-3xl">
-                Ready for your next resort project?
-              </h3>
+              {/* The footer repeats on all 63 pages. As <h2> these four labels
+                  ("Ready for your next resort project?", the site name,
+                  "Explore", "Export Desk") pushed boilerplate into the heading
+                  outline of every product page. Styled <p> keeps the look. */}
+              <p className="text-2xl font-bold text-white md:text-3xl">
+                {tf('readyTitle')}
+              </p>
               <p className="mt-2 max-w-xl text-sm text-white/70">
-                Sample panels, fire certificates and container packing data — shipped from Guangzhou
-                to 50+ countries.
+                {tf('readyBody')}
               </p>
             </div>
             <div className="flex shrink-0 flex-col gap-3 sm:flex-row">
@@ -55,20 +59,19 @@ export function Footer() {
 
           <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-4">
             <div className="lg:col-span-2">
-              <h3 className="mb-3 flex items-center gap-2 text-xl font-bold text-sky-300">
+              <p className="mb-3 flex items-center gap-2 text-xl font-bold text-sky-300">
                 <Anchor className="h-5 w-5" />
                 {SITE_NAME}
-              </h3>
+              </p>
               <p className="max-w-md text-sm leading-relaxed text-white/70">
-                Synthetic palm, nipa, cadjan, reed and straw thatch for hotels, resorts, theme parks
-                and eco-tourism — engineered for leisure, built for export.
+                {tf('blurb')}
               </p>
             </div>
 
             <div>
-              <h4 className="mb-4 text-sm font-semibold uppercase tracking-wider text-sky-200/80">
-                Explore
-              </h4>
+              <p className="mb-4 text-sm font-semibold uppercase tracking-wider text-sky-200/80">
+                {tf('explore')}
+              </p>
               <ul className="space-y-2.5 text-sm text-white/70">
                 <li>
                   <Link href="/" className="transition-colors hover:text-sky-300">
@@ -99,9 +102,9 @@ export function Footer() {
             </div>
 
             <div>
-              <h4 className="mb-4 text-sm font-semibold uppercase tracking-wider text-sky-200/80">
-                Export Desk
-              </h4>
+              <p className="mb-4 text-sm font-semibold uppercase tracking-wider text-sky-200/80">
+                {tf('exportDesk')}
+              </p>
               <ul className="space-y-3 text-sm text-white/70">
                 <li className="flex gap-2">
                   <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-sky-400" />
@@ -124,7 +127,7 @@ export function Footer() {
       </div>
 
       <div className="relative z-10 border-t border-white/10 bg-[#0a1f36] py-5 text-center text-xs text-white/45">
-        © {new Date().getFullYear()} {SITE_NAME}. Synthetic thatch roofing for global resort projects.
+        © {new Date().getFullYear()} {SITE_NAME}. {tf('rights')}
       </div>
     </footer>
   );

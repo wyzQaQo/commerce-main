@@ -6,7 +6,7 @@
       "en": "SKUs",
       "ru": "SKU",
       "es": "SKUs",
-      "it": "SKUs"
+      "it": "SKU"
     }
   },
   {
@@ -16,7 +16,7 @@
       "en": "Countries",
       "ru": "Стран",
       "es": "Países",
-      "it": "Countries"
+      "it": "Paesi"
     }
   },
   {
@@ -26,7 +26,7 @@
       "en": "m² / Month",
       "ru": "м²/мес",
       "es": "m² / mes",
-      "it": "m² / Month"
+      "it": "m² / Mese"
     }
   },
   {
@@ -36,7 +36,7 @@
       "en": "Quote Reply",
       "ru": "Ответ",
       "es": "Respuesta",
-      "it": "Quote Reply"
+      "it": "Risposta preventivo"
     }
   }
 ]

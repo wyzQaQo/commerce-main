@@ -23,7 +23,7 @@ export async function AboutSection() {
             <h2 className="mb-4 text-3xl font-bold md:text-4xl">{t('aboutTitle')}</h2>
             <p className="mb-6 leading-relaxed text-muted-foreground">{t('aboutText')}</p>
             <Button variant="gold" asChild>
-              <Link href="/about">{t('learnMore')}</Link>
+              <Link href="/about">{t('aboutLink')}</Link>
             </Button>
           </div>
         </div>

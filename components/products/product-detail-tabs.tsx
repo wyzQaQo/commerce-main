@@ -66,7 +66,7 @@ export function ProductDetailTabs({
               key={cert.title}
               className="rounded-lg border border-brand-ocean/20 bg-secondary/30 p-4"
             >
-              <h4 className="mb-2 font-bold text-brand-navy">{cert.title}</h4>
+              <h3 className="mb-2 font-bold text-brand-navy">{cert.title}</h3>
               <p className="text-sm text-muted-foreground">{cert.description}</p>
             </div>
           ))}

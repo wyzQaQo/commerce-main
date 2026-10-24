@@ -8,7 +8,7 @@ import { getBlogPostBySlug, getLocalized, getAllBlogSlugs } from '@/lib/data';
 import { getBlogContent } from '@/lib/blog-content';
 import { buildMetadata, buildArticleJsonLd, buildBreadcrumbJsonLd } from '@/lib/metadata';
 import { JsonLd } from '@/components/seo/json-ld';
-import { SITE_URL, SITE_NAME } from '@/lib/constants';
+import { SITE_URL } from '@/lib/constants';
 import type { Locale } from '@/lib/types';
 
 export function generateStaticParams() {
@@ -27,8 +27,7 @@ export async function generateMetadata({
   const post = getBlogPostBySlug(slug);
   if (!post) return {};
   const loc = locale as Locale;
-  const baseTitle = getLocalized(post.title, loc);
-  const title = `${baseTitle} | ${SITE_NAME}`;
+  const title = getLocalized(post.title, loc);
   const description = getLocalized(post.excerpt, loc);
   const keywordsRaw = post.keywords ? getLocalized(post.keywords, loc) : '';
   const keywords = keywordsRaw
@@ -61,7 +60,7 @@ export default async function BlogPostPage({
 
   const t = await getTranslations('blog');
   const loc = locale as Locale;
-  const content = getBlogContent(slug);
+  const content = getBlogContent(slug, locale);
   const title = getLocalized(post.title, loc);
   const description = getLocalized(post.excerpt, loc);
   const pageUrl = `${SITE_URL}/${locale}/blog/${slug}`;
@@ -116,12 +115,7 @@ export default async function BlogPostPage({
         </h1>
 
         <div className="prose prose-lg max-w-none prose-headings:text-brand-navy prose-a:text-brand-ocean">
-          <ReactMarkdown
-            remarkPlugins={[remarkGfm]}
-            components={{ h1: ({ node, ...props }) => <h2 {...props} /> }}
-          >
-            {content}
-          </ReactMarkdown>
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
         </div>
       </div>
     </article>

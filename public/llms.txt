@@ -1,0 +1,37 @@
+# 100Tiki — Artificial Thatch Roofing for Resorts and Tiki Structures
+
+> 100Tiki manufactures artificial thatch roofing — synthetic palm, nipa, kajan, reed, and safari thatch panels — for resort villas, overwater bungalows, tiki huts, gazebos, and theme parks, with fire-retardant options and a service life of 20+ years.
+
+100Tiki supplies synthetic thatch as a direct replacement for natural palm and nipa roofing, which typically needs replacing every 3–5 years in humid coastal climates. Panels are UV-stabilised, mould-resistant, and available in fire-retardant grades for hospitality projects that must pass inspection. Products ship worldwide from China, with custom panel sizes and colours for project-scale orders.
+
+## Core pages
+
+- [100Tiki — Artificial Thatch Roofing](https://100tiki.com/en): Company overview and product range.
+- [Products](https://100tiki.com/en/products): All artificial thatch roofing products.
+- [About](https://100tiki.com/en/about): Company background and manufacturing.
+- [Projects](https://100tiki.com/en/projects): Completed resort and hospitality installations.
+- [Blog](https://100tiki.com/en/blog): Guides on thatch roofing materials, installation, and maintenance.
+- [Contact](https://100tiki.com/en/contact): Project enquiry and sample requests.
+
+## Products
+
+- [Island Country Tropical Style Artificial Thatch Roofing Material](https://100tiki.com/en/products/island-country-tropical-artificial-thatch-roofing-material): UV-stabilized synthetic palm thatch for island resorts.
+- [Overwater Villa Artificial Kajan Thatch Roof](https://100tiki.com/en/products/overwater-villa-artificial-kajan-thatch-roof): Synthetic cadjan thatch for overwater villas.
+- [Palm Thatch Roof Covering Manufacturer](https://100tiki.com/en/products/palm-thatch-roof-covering-manufacturer): Factory-direct palm thatch roof covering in 500×500 mm UV-stabilized panels, 2.5 m² per carton, OEM….
+- [Plastic Thatch Roof Tiles for Private Gazebo Construction in PNG](https://100tiki.com/en/products/plastic-thatch-roof-tiles-gazebo-construction-png): UV-stabilized plastic thatch tiles for private home gazebos in Papua New Guinea.
+- [Customizable Imitation Nipa Thatch Roof Panels](https://100tiki.com/en/products/customizable-imitation-nipa-thatch-roof-panels): Custom-size imitation nipa thatch panels in UV-stabilized PE/nylon.
+- [Artificial Palm Leaf Thatch Panels](https://100tiki.com/en/products/artificial-palm-leaf-thatch-panels): Artificial palm leaf thatch panels in UV-stabilized PE/nylon for pool bars and terraces.
+- [Custom Plastic Coconut Thatch Roof for Resort Seaview Villas](https://100tiki.com/en/products/custom-plastic-coconut-thatch-roof-resort-seaview-villa): Made-to-measure plastic coconut thatch for seaview villa roofs.
+- [Fire Retardant Artificial Palm Thatch Panels for Tiki Huts](https://100tiki.com/en/products/resort-hotel-tiki-hut-fire-retardant-palm-thatch-panels): Class B1 fire-retardant artificial palm thatch for resort tiki huts and pool bars.
+- [Zoo Park Artificial Nipa Hut Thatch Roof Manufacturer](https://100tiki.com/en/products/zoo-park-artificial-nipa-hut-thatch-roof-manufacturer): Artificial nipa thatch for zoo and wildlife-park shelters.
+- [Fireproof Synthetic Safari Thatched Roof Covering for Sheds](https://100tiki.com/en/products/fireproof-synthetic-safari-thatched-roof-covering-for-shed): Fireproof synthetic safari thatch for equipment and feed sheds.
+- [Modern Looking Garden Gazebo Thatch Roofing](https://100tiki.com/en/products/modern-looking-garden-gazebo-thatch-roofing): Modern garden gazebo thatch roofing with a trimmed straight fringe.
+- [Long Lifespan Synthetic Patio Thatch Roof Designs](https://100tiki.com/en/products/long-lifespan-synthetic-patio-thatch-roof-designs): Long-life synthetic patio thatch rated for 8–15+ years outdoors.
+
+## Languages
+
+The site is published in English, Russian, and Spanish. Each locale has its own path prefix (`/en`, `/ru`, `/es`).
+
+## Contact
+
+- Website: https://100tiki.com

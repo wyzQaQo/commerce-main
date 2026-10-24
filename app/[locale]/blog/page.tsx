@@ -2,13 +2,8 @@ import Image from 'next/image';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/routing';
 import { blogPosts, getLocalized } from '@/lib/data';
-import {
-  buildMetadata,
-  buildCollectionPageJsonLd,
-  buildBreadcrumbJsonLd
-} from '@/lib/metadata';
-import { JsonLd } from '@/components/seo/json-ld';
-import { SITE_URL } from '@/lib/constants';
+import { buildMetadata } from '@/lib/metadata';
+import { IndexGuide } from '@/components/sections/index-guide';
 import type { Locale } from '@/lib/types';
 
 export function generateStaticParams() {
@@ -39,28 +34,12 @@ export default async function BlogPage({
   setRequestLocale(locale);
   const t = await getTranslations('blog');
   const loc = locale as Locale;
-  const collectionLd = buildCollectionPageJsonLd({
-    name: t('title'),
-    description: t('description'),
-    url: `${SITE_URL}/${locale}/blog`,
-    locale,
-    items: blogPosts.map((p) => ({
-      name: getLocalized(p.title, loc),
-      url: `${SITE_URL}/${locale}/blog/${p.slug}`
-    }))
-  });
-  const breadcrumbLd = buildBreadcrumbJsonLd([
-    { name: 'Home', url: `${SITE_URL}/${locale}` },
-    { name: t('title'), url: `${SITE_URL}/${locale}/blog` }
-  ]);
 
   return (
     <div className="section-padding">
-      <JsonLd data={collectionLd} />
-      <JsonLd data={breadcrumbLd} />
       <div className="container">
         <div className="mb-10">
-          <h1 className="mb-3 text-3xl font-bold md:text-4xl">{t('heading')}</h1>
+          <h1 className="mb-3 text-3xl font-bold md:text-4xl">{t('h1')}</h1>
           <p className="text-muted-foreground">{t('description')}</p>
         </div>
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
@@ -91,6 +70,9 @@ export default async function BlogPage({
           ))}
         </div>
       </div>
+      <IndexGuide namespace="blog" />
+      {/* The listing plus one guide block measured 226 words in en, 204 in ru. */}
+      <IndexGuide namespace="blog" slot="guide2" />
     </div>
   );
 }

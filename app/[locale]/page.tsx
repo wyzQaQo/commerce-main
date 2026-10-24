@@ -7,8 +7,7 @@ import { FeaturedProducts } from '@/components/home/featured-products';
 import { ProjectsSection } from '@/components/home/projects-section';
 import { AboutSectionClient } from '@/components/home/about-section-client';
 import { FaqSectionServer } from '@/components/faq/faq-section-server';
-import { buildMetadata, buildOrganizationJsonLd, buildWebSiteJsonLd } from '@/lib/metadata';
-import { JsonLd } from '@/components/seo/json-ld';
+import { buildMetadata } from '@/lib/metadata';
 import type { Locale } from '@/lib/types';
 
 export function generateStaticParams() {
@@ -42,8 +41,6 @@ export default async function HomePage({
 
   return (
     <>
-      <JsonLd data={buildOrganizationJsonLd()} />
-      <JsonLd data={buildWebSiteJsonLd(locale)} />
       <HeroCarousel locale={loc} />
       <CompareScrollNarrative />
       <CategoryGrid locale={loc} />

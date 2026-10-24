@@ -31,7 +31,7 @@ export function ProductsSidebar() {
               Overwater villas · palapas · eco-lodges
             </p>
           </div>
-          <h3 className="mb-2 text-lg font-bold text-sky-200">Resort-Grade Supply</h3>
+          <h2 className="mb-2 text-lg font-bold text-sky-200">Resort-Grade Supply</h2>
           <p className="mb-4 text-sm leading-relaxed text-white/70">
             Factory-direct panels for hospitality developers — sample panels, CBM data and 24h
             quotations for tender packs.
