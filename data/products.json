@@ -91,6 +91,152 @@
       "ru": "Искусственная соломенная кровля для островов | PalmGrass Pro",
       "es": "Cubierta Sintética de Paja para Islas Tropicales | PalmGrass",
       "it": "Copertura in paglia tropicale da isola | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's tropical palm thatch roofing is a UV-stable synthetic panel that gives resort villas and tiki bars a natural thatch look for 15-20 years with zero maintenance.",
+      "ru": "Соломенная кровля PalmGrass Pro из пальмы — УФ-стабильная синтетическая панель для вилл и тики-баров с видом натуральной соломы на 15-20 лет без ухода.",
+      "es": "La cubierta de palma tropical de PalmGrass Pro es un panel sintético estable a UV que da a villas y bares tiki el aspecto de paja natural durante 15-20 años sin mantenimiento.",
+      "it": "La copertura in palma tropicale di PalmGrass Pro è un pannello sintetico stabile ai raggi UV che dà a ville e tiki bar l'aspetto della paglia naturale per 15-20 anni senza manutenzione."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Resort villas & beach huts",
+          "ru": "Виллы и пляжные хижины",
+          "es": "Villas y chozas de playa",
+          "it": "Ville e capanne sulla spiaggia"
+        },
+        "detail": {
+          "en": "Tropical palm-leaf fringe for tiki bars, palapas and sea-facing villas.",
+          "ru": "Тропическая пальмовая солома для тики-баров, палап и вилл у моря.",
+          "es": "Fringe de palma tropical para bares tiki, palapas y villas frente al mar.",
+          "it": "Frangia di palma tropicale per tiki bar, palapa e ville sul mare."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Theme parks & zoos",
+          "ru": "Тематические парки и зоопарки",
+          "es": "Parques temáticos y zoológicos",
+          "it": "Parchi tematici e zoo"
+        },
+        "detail": {
+          "en": "Dense, even coverage that reads as natural thatch from 20 m.",
+          "ru": "Плотное ровное покрытие, читается как натуральная солома с 20 м.",
+          "es": "Cobertura densa y uniforme que se lee como paja natural a 20 m.",
+          "it": "Copertura densa e uniforme che si legge come paglia naturale da 20 m."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Hotel atriums & pools",
+          "ru": "Атриумы и бассейны отелей",
+          "es": "Atrios y piscinas de hoteles",
+          "it": "Atri e piscine di hotel"
+        },
+        "detail": {
+          "en": "Lightweight panels cut roof load versus natural reed.",
+          "ru": "Лёгкие панели снижают нагрузку на кровлю против натурального тростника.",
+          "es": "Paneles ligeros reducen la carga frente al carrizo natural.",
+          "it": "Pannelli leggeri riducono il carico rispetto al giunco naturale."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -185,6 +331,152 @@
       "ru": "Соломенная кровля каджан для вилл над водой | PalmGrass",
       "es": "Cubierta de Paja Kajan para Villas sobre el Agua | PalmGrass",
       "it": "Copertura Kajan per ville sull'acqua | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's cadjan thatch roofing reproduces the woven alang-alang look of Indonesian pavilions and overwater villas, built for humid, high-rain climates.",
+      "ru": "Кровля каджан PalmGrass Pro воспроизводит плетёный вид аланг-аланг индонезийских павильонов и вилл на воде, рассчитана на влажный климат.",
+      "es": "La cubierta cadjan de PalmGrass Pro reproduce el aspecto trenzado alang-alang de pabellones indonesios y villas sobre el agua, para climas húmedos y lluviosos.",
+      "it": "La copertura cadjan di PalmGrass Pro riproduce l'aspetto intrecciato alang-alang di padiglioni indonesiani e ville sull'acqua, pensata per climi umidi e piovosi."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Joglo & Indonesian pavilions",
+          "ru": "Джогло и индонезийские павильоны",
+          "es": "Pabellones joglo e indonesios",
+          "it": "Padiglioni joglo e indonesiani"
+        },
+        "detail": {
+          "en": "Layered cadjan roofing in the alang-alang style.",
+          "ru": "Многослойная кровля каджан в стиле аланг-аланг.",
+          "es": "Cubierta cadjan en capas estilo alang-alang.",
+          "it": "Copertura cadjan a strati stile alang-alang."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Open pavilions",
+          "ru": "Открытые павильоны",
+          "es": "Pabellones abiertos",
+          "it": "Padiglioni aperti"
+        },
+        "detail": {
+          "en": "Deep overhang profile built for humid climates.",
+          "ru": "Глубокий профиль свеса для влажного климата.",
+          "es": "Perfil de alero profundo para climas húmedos.",
+          "it": "Profilo di gronda profondo per climi umidi."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Resort & hospitality",
+          "ru": "Резорты и гостеприимство",
+          "es": "Resorts y hostelería",
+          "it": "Resort e ospitalità"
+        },
+        "detail": {
+          "en": "Fire-retardant option for public venues.",
+          "ru": "Опция огнезащиты для общественных объектов.",
+          "es": "Opción ignífuga para locales públicos.",
+          "it": "Opzione ignifuga per locali pubblici."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -279,6 +571,152 @@
       "ru": "Производитель соломенной кровли из пальмы | PalmGrass",
       "es": "Fabricante de Cubierta de Paja de Palmera | PalmGrass Pro",
       "it": "Produttore di coperture in paglia di palma | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro manufactures factory-direct palm thatch roof covering in UV-grade PE/nylon panels with optional B1 fire rating, supplied to resorts and importers worldwide.",
+      "ru": "PalmGrass Pro производит пальмовую соломенную кровлю напрямую: панели из УФ-стойкого ПЭ/нейлона с опцией огнезащиты B1, поставки резортам и импортёрам.",
+      "es": "PalmGrass Pro fabrica cubierta de paja de palma directa de fábrica en paneles de PE/nylon grado UV con B1 opcional, para resorts e importadores.",
+      "it": "PalmGrass Pro produce coperture in paglia di palma direttamente dalla fabbrica in pannelli PE/nylon grado UV con B1 opzionale, per resort e importatori."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Resort villas & beach huts",
+          "ru": "Виллы и пляжные хижины",
+          "es": "Villas y chozas de playa",
+          "it": "Ville e capanne sulla spiaggia"
+        },
+        "detail": {
+          "en": "Tropical palm-leaf fringe for tiki bars, palapas and sea-facing villas.",
+          "ru": "Тропическая пальмовая солома для тики-баров, палап и вилл у моря.",
+          "es": "Fringe de palma tropical para bares tiki, palapas y villas frente al mar.",
+          "it": "Frangia di palma tropicale per tiki bar, palapa e ville sul mare."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Theme parks & zoos",
+          "ru": "Тематические парки и зоопарки",
+          "es": "Parques temáticos y zoológicos",
+          "it": "Parchi tematici e zoo"
+        },
+        "detail": {
+          "en": "Dense, even coverage that reads as natural thatch from 20 m.",
+          "ru": "Плотное ровное покрытие, читается как натуральная солома с 20 м.",
+          "es": "Cobertura densa y uniforme que se lee como paja natural a 20 m.",
+          "it": "Copertura densa e uniforme che si legge come paglia naturale da 20 m."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Hotel atriums & pools",
+          "ru": "Атриумы и бассейны отелей",
+          "es": "Atrios y piscinas de hoteles",
+          "it": "Atri e piscine di hotel"
+        },
+        "detail": {
+          "en": "Lightweight panels cut roof load versus natural reed.",
+          "ru": "Лёгкие панели снижают нагрузку на кровлю против натурального тростника.",
+          "es": "Paneles ligeros reducen la carga frente al carrizo natural.",
+          "it": "Pannelli leggeri riducono il carico rispetto al giunco naturale."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -373,6 +811,152 @@
       "ru": "Пластиковые соломенные черепицы для беседки | PalmGrass",
       "es": "Tejas Sintéticas de Paja para Gazebo | PalmGrass Pro",
       "it": "Tegole in paglia per gazebo | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's plastic thatch roof tiles are lightweight overlap tiles for private home gazebos, cut to standard sizes with a hidden fixing line.",
+      "ru": "Пластиковая черепица PalmGrass Pro — лёгкие плитки с нахлёстом для беседок, стандартных размеров со скрытым креплением.",
+      "es": "Las tejas de paja plástica de PalmGrass Pro son ligeras y de solape para cenadores, en tamaños estándar con fijación oculta.",
+      "it": "Le tegole in paglia plastica di PalmGrass Pro sono leggere e a sovrapposizione per pergolati, in misure standard con fissaggio nascosto."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Resort villas & beach huts",
+          "ru": "Виллы и пляжные хижины",
+          "es": "Villas y chozas de playa",
+          "it": "Ville e capanne sulla spiaggia"
+        },
+        "detail": {
+          "en": "Tropical palm-leaf fringe for tiki bars, palapas and sea-facing villas.",
+          "ru": "Тропическая пальмовая солома для тики-баров, палап и вилл у моря.",
+          "es": "Fringe de palma tropical para bares tiki, palapas y villas frente al mar.",
+          "it": "Frangia di palma tropicale per tiki bar, palapa e ville sul mare."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Theme parks & zoos",
+          "ru": "Тематические парки и зоопарки",
+          "es": "Parques temáticos y zoológicos",
+          "it": "Parchi tematici e zoo"
+        },
+        "detail": {
+          "en": "Dense, even coverage that reads as natural thatch from 20 m.",
+          "ru": "Плотное ровное покрытие, читается как натуральная солома с 20 м.",
+          "es": "Cobertura densa y uniforme que se lee como paja natural a 20 m.",
+          "it": "Copertura densa e uniforme che si legge come paglia naturale da 20 m."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Hotel atriums & pools",
+          "ru": "Атриумы и бассейны отелей",
+          "es": "Atrios y piscinas de hoteles",
+          "it": "Atri e piscine di hotel"
+        },
+        "detail": {
+          "en": "Lightweight panels cut roof load versus natural reed.",
+          "ru": "Лёгкие панели снижают нагрузку на кровлю против натурального тростника.",
+          "es": "Paneles ligeros reducen la carga frente al carrizo natural.",
+          "it": "Pannelli leggeri riducono il carico rispetto al giunco naturale."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -467,6 +1051,152 @@
       "ru": "Панели соломенной кровли нипа | PalmGrass Pro",
       "es": "Paneles de Cubierta de Paja Nipa | PalmGrass Pro",
       "it": "Pannelli in paglia nipa | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's imitation nipa thatch panels are woven synthetic mats for pergola ceilings and Indonesian-style pavilions, customizable in width and tone.",
+      "ru": "Имитация нипа PalmGrass Pro — плетёные синтетические маты для потолков пергола и павильонов в индонезийском стиле, настраиваемые по ширине и тону.",
+      "es": "Los paneles de nipa imitación de PalmGrass Pro son mallas sintéticas tejidas para techos de pérgola y pabellones indonesios, personalizables.",
+      "it": "I pannelli nipa imitazione di PalmGrass Pro sono tappeti sintetici intrecciati per soffitti pergola e padiglioni indonesiani, personalizzabili."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Indonesian & Filipino pavilions",
+          "ru": "Индонезийские и филиппинские павильоны",
+          "es": "Pabellones indonesios y filipinos",
+          "it": "Padiglioni indonesiani e filippini"
+        },
+        "detail": {
+          "en": "Woven nipa profile for joglo houses and beach structures.",
+          "ru": "Плетёный профиль нипа для домов джогло и пляжных построек.",
+          "es": "Perfil de nipa trenzada para casas joglo y estructuras de playa.",
+          "it": "Profilo nipa intrecciato per case joglo e strutture da spiaggia."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Garden pergolas & ceilings",
+          "ru": "Перголы и потолки в саду",
+          "es": "Pérgolas y techos de jardín",
+          "it": "Pergole e soffitti da giardino"
+        },
+        "detail": {
+          "en": "Flat woven mat for pergola ceilings and room dividers.",
+          "ru": "Плоский плетёный мат для потолков пергола и перегородок.",
+          "es": "Malla tejida plana para techos de pérgola y divisores.",
+          "it": "Tappeto intrecciato piano per soffitti pergola e divisori."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Coastal walkways",
+          "ru": "Приморские дорожки",
+          "es": "Paseos costeros",
+          "it": "Passeggiate costiere"
+        },
+        "detail": {
+          "en": "Salt-spray resistant, no matting in humidity.",
+          "ru": "Устойчиво к солевым брызгам, не сваливается от влажности.",
+          "es": "Resistente a salpicadura salina, no se apelmaza.",
+          "it": "Resistente alla salsedine, non si feltra."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -561,6 +1291,152 @@
       "ru": "Искусственные панели кровли из пальмовых листьев | PalmGrass",
       "es": "Paneles Sintéticos de Hojas de Palmera | PalmGrass Pro",
       "it": "Pannelli in foglie di palma artificiali | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's artificial palm leaf thatch panels give tiki bars and beach resorts a dense, even palm fringe that reads as natural thatch from the ground.",
+      "ru": "Искусственные панели PalmGrass Pro из пальмовых листьев дают тики-барам и пляжным резортам плотную пальмовую бахрому, читаемую как натуральная солома.",
+      "es": "Los paneles de hoja de palma artificial de PalmGrass Pro dan a bares tiki y resorts un fleco de palma denso que se lee como paja natural.",
+      "it": "I pannelli in foglie di palma artificiali di PalmGrass Pro danno a tiki bar e resort un fleco di palma denso che si legge come paglia naturale."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Resort villas & beach huts",
+          "ru": "Виллы и пляжные хижины",
+          "es": "Villas y chozas de playa",
+          "it": "Ville e capanne sulla spiaggia"
+        },
+        "detail": {
+          "en": "Tropical palm-leaf fringe for tiki bars, palapas and sea-facing villas.",
+          "ru": "Тропическая пальмовая солома для тики-баров, палап и вилл у моря.",
+          "es": "Fringe de palma tropical para bares tiki, palapas y villas frente al mar.",
+          "it": "Frangia di palma tropicale per tiki bar, palapa e ville sul mare."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Theme parks & zoos",
+          "ru": "Тематические парки и зоопарки",
+          "es": "Parques temáticos y zoológicos",
+          "it": "Parchi tematici e zoo"
+        },
+        "detail": {
+          "en": "Dense, even coverage that reads as natural thatch from 20 m.",
+          "ru": "Плотное ровное покрытие, читается как натуральная солома с 20 м.",
+          "es": "Cobertura densa y uniforme que se lee como paja natural a 20 m.",
+          "it": "Copertura densa e uniforme che si legge come paglia naturale da 20 m."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Hotel atriums & pools",
+          "ru": "Атриумы и бассейны отелей",
+          "es": "Atrios y piscinas de hoteles",
+          "it": "Atri e piscine di hotel"
+        },
+        "detail": {
+          "en": "Lightweight panels cut roof load versus natural reed.",
+          "ru": "Лёгкие панели снижают нагрузку на кровлю против натурального тростника.",
+          "es": "Paneles ligeros reducen la carga frente al carrizo natural.",
+          "it": "Pannelli leggeri riducono il carico rispetto al giunco naturale."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -655,6 +1531,152 @@
       "ru": "Пластиковая соломенная кровля из кокоса | PalmGrass Pro",
       "es": "Cubierta Sintética de Paja de Coco | PalmGrass Pro",
       "it": "Copertura in paglia di cocco | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's coconut thatch products are customizable synthetic tiles for resort villas and seaview structures, UV-stable and salt-spray resistant.",
+      "ru": "Кокосовая солома PalmGrass Pro — настраиваемые синтетические плитки для вилл и прибрежных построек, УФ-стабильные и устойчивые к соли.",
+      "es": "Los productos de paja de coco de PalmGrass Pro son baldosas sintéticas personalizables para villas y estructuras frente al mar, estables y resistentes a la sal.",
+      "it": "I prodotti in paglia di cocco di PalmGrass Pro sono tessere sintetiche personalizzabili per ville e strutture sul mare, stabili ai raggi UV e resistenti alla salsedine."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Resort villas & beach huts",
+          "ru": "Виллы и пляжные хижины",
+          "es": "Villas y chozas de playa",
+          "it": "Ville e capanne sulla spiaggia"
+        },
+        "detail": {
+          "en": "Tropical palm-leaf fringe for tiki bars, palapas and sea-facing villas.",
+          "ru": "Тропическая пальмовая солома для тики-баров, палап и вилл у моря.",
+          "es": "Fringe de palma tropical para bares tiki, palapas y villas frente al mar.",
+          "it": "Frangia di palma tropicale per tiki bar, palapa e ville sul mare."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Theme parks & zoos",
+          "ru": "Тематические парки и зоопарки",
+          "es": "Parques temáticos y zoológicos",
+          "it": "Parchi tematici e zoo"
+        },
+        "detail": {
+          "en": "Dense, even coverage that reads as natural thatch from 20 m.",
+          "ru": "Плотное ровное покрытие, читается как натуральная солома с 20 м.",
+          "es": "Cobertura densa y uniforme que se lee como paja natural a 20 m.",
+          "it": "Copertura densa e uniforme che si legge come paglia naturale da 20 m."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Hotel atriums & pools",
+          "ru": "Атриумы и бассейны отелей",
+          "es": "Atrios y piscinas de hoteles",
+          "it": "Atri e piscine di hotel"
+        },
+        "detail": {
+          "en": "Lightweight panels cut roof load versus natural reed.",
+          "ru": "Лёгкие панели снижают нагрузку на кровлю против натурального тростника.",
+          "es": "Paneles ligeros reducen la carga frente al carrizo natural.",
+          "it": "Pannelli leggeri riducono il carico rispetto al giunco naturale."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -749,6 +1771,152 @@
       "ru": "Огнезащитная соломенная кровля для тики-хат | PalmGrass",
       "es": "Cubierta de Paja Ignífuga para Tiki Hut | PalmGrass Pro",
       "it": "Copertura ignifuga per capanne tiki | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's fire-retardant artificial palm thatch panels carry a B1 (DIN 4102) rating built into the material, for resort hotels and tiki huts that need a certified roof.",
+      "ru": "Огнезащитные панели PalmGrass Pro из пальмовой соломы имеют рейтинг B1 (DIN 4102) внутри материала — для отелей и тики-хижин с сертифицированной кровлей.",
+      "es": "Los paneles de paja de palma ignífugos de PalmGrass Pro llevan B1 (DIN 4102) integrado, para hoteles y chozas tiki que necesitan techo certificado.",
+      "it": "I pannelli in paglia di palma ignifughi di PalmGrass Pro hanno B1 (DIN 4102) integrato, per hotel e tiki hut che richiedono un tetto certificato."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Resort villas & beach huts",
+          "ru": "Виллы и пляжные хижины",
+          "es": "Villas y chozas de playa",
+          "it": "Ville e capanne sulla spiaggia"
+        },
+        "detail": {
+          "en": "Tropical palm-leaf fringe for tiki bars, palapas and sea-facing villas.",
+          "ru": "Тропическая пальмовая солома для тики-баров, палап и вилл у моря.",
+          "es": "Fringe de palma tropical para bares tiki, palapas y villas frente al mar.",
+          "it": "Frangia di palma tropicale per tiki bar, palapa e ville sul mare."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Theme parks & zoos",
+          "ru": "Тематические парки и зоопарки",
+          "es": "Parques temáticos y zoológicos",
+          "it": "Parchi tematici e zoo"
+        },
+        "detail": {
+          "en": "Dense, even coverage that reads as natural thatch from 20 m.",
+          "ru": "Плотное ровное покрытие, читается как натуральная солома с 20 м.",
+          "es": "Cobertura densa y uniforme que se lee como paja natural a 20 m.",
+          "it": "Copertura densa e uniforme che si legge come paglia naturale da 20 m."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Hotel atriums & pools",
+          "ru": "Атриумы и бассейны отелей",
+          "es": "Atrios y piscinas de hoteles",
+          "it": "Atri e piscine di hotel"
+        },
+        "detail": {
+          "en": "Lightweight panels cut roof load versus natural reed.",
+          "ru": "Лёгкие панели снижают нагрузку на кровлю против натурального тростника.",
+          "es": "Paneles ligeros reducen la carga frente al carrizo natural.",
+          "it": "Pannelli leggeri riducono il carico rispetto al giunco naturale."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -843,6 +2011,152 @@
       "ru": "Производитель кровли нипа для зоопарков | PalmGrass Pro",
       "es": "Fabricante de Paja Nipa para Zoológicos | PalmGrass Pro",
       "it": "Produttore di coperture in paglia nipa | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro builds artificial nipa hut thatch roofs for zoos and parks, with a woven profile and insect-treated bundles that survive outdoor display.",
+      "ru": "PalmGrass Pro строит искусственные кровли нипа для хижин в зоопарках и парках — плетёный профиль и тюки с защитой от насекомых для улицы.",
+      "es": "PalmGrass Pro construye techos de nipa artificial para chozas en zoológicos y parques, con perfil trenzado y manojos tratados contra insectos.",
+      "it": "PalmGrass Pro realizza coperture in nipa artificiale per capanne in zoo e parchi, con profilo intrecciato e fasci trattati contro gli insetti."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Indonesian & Filipino pavilions",
+          "ru": "Индонезийские и филиппинские павильоны",
+          "es": "Pabellones indonesios y filipinos",
+          "it": "Padiglioni indonesiani e filippini"
+        },
+        "detail": {
+          "en": "Woven nipa profile for joglo houses and beach structures.",
+          "ru": "Плетёный профиль нипа для домов джогло и пляжных построек.",
+          "es": "Perfil de nipa trenzada para casas joglo y estructuras de playa.",
+          "it": "Profilo nipa intrecciato per case joglo e strutture da spiaggia."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Garden pergolas & ceilings",
+          "ru": "Перголы и потолки в саду",
+          "es": "Pérgolas y techos de jardín",
+          "it": "Pergole e soffitti da giardino"
+        },
+        "detail": {
+          "en": "Flat woven mat for pergola ceilings and room dividers.",
+          "ru": "Плоский плетёный мат для потолков пергола и перегородок.",
+          "es": "Malla tejida plana para techos de pérgola y divisores.",
+          "it": "Tappeto intrecciato piano per soffitti pergola e divisori."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Coastal walkways",
+          "ru": "Приморские дорожки",
+          "es": "Paseos costeros",
+          "it": "Passeggiate costiere"
+        },
+        "detail": {
+          "en": "Salt-spray resistant, no matting in humidity.",
+          "ru": "Устойчиво к солевым брызгам, не сваливается от влажности.",
+          "es": "Resistente a salpicadura salina, no se apelmaza.",
+          "it": "Resistente alla salsedine, non si feltra."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -937,6 +2251,152 @@
       "ru": "Огнестойкое синтетическое покрытие соломы | PalmGrass Pro",
       "es": "Cubierta de Paja Safari Resistente al Fuego | PalmGrass Pro",
       "it": "Copertura safari ignifuga | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalGrass Pro's fireproof synthetic safari thatch is a reed-style covering for sheds and safari structures, with B1 fire rating built into the material.",
+      "ru": "Огнестойкая синтетическая солома PalmGrass Pro в стиле тростника — для сараев и сафари-построек, с рейтингом B1 внутри материала.",
+      "es": "La paja sintética ignífuga safari de PalmGrass Pro es un cubrimiento de carrizo para cobertizos y estructuras safari, con B1 integrado.",
+      "it": "La paglia sintetica ignifuga safari di PalmGrass Pro è un coprifierro stile canna per capanni e strutture safari, con B1 integrato."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Makuti & alang-alang roofs",
+          "ru": "Кровли макути и аланг-аланг",
+          "es": "Techos makuti y alang-alang",
+          "it": "Tetti makuti e alang-alang"
+        },
+        "detail": {
+          "en": "Fine straight reed for dense, even makuti coverage.",
+          "ru": "Тонкий прямой тростник для плотного покрытия макути.",
+          "es": "Caña fina y recta para cobertura makuti densa.",
+          "it": "Canna fine e dritta per copertura makuti densa."
+        }
+      },
+      {
+        "scenario": {
+          "en": "African reed projects",
+          "ru": "Проекты из африканского тростника",
+          "es": "Proyectos de caña africana",
+          "it": "Progetti con canna africana"
+        },
+        "detail": {
+          "en": "Bundled to fixed weight so the course stays level.",
+          "ru": "Тюки фиксированного веса — ряд остаётся ровным.",
+          "es": "Manojos de peso fijo para hilada nivelada.",
+          "it": "Fasci a peso fisso per filone in piano."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Gazebos & sheds",
+          "ru": "Беседки и сараи",
+          "es": "Cenadores y cobertizos",
+          "it": "Pergolati e capanni"
+        },
+        "detail": {
+          "en": "Insect- and moisture-treated bundles, site-ready.",
+          "ru": "Тюки с защитой от насекомых и влаги, готовы к монтажу.",
+          "es": "Manojos tratados contra insectos y humedad, listos en obra.",
+          "it": "Fasci trattati contro insetti e umidità, pronti in cantiere."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -1031,6 +2491,152 @@
       "ru": "Соломенная кровля садовой беседки | PalmGrass Pro",
       "es": "Cubierta de Paja para Gazebo de Jardín | PalmGrass Pro",
       "it": "Copertura in paglia per gazebo da giardino | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's modern garden gazebo thatch roofing uses pre-aligned strip panels that close a roof in a day, in mixed natural tones.",
+      "ru": "Современная кровля PalmGrass Pro для беседок — готовые полосы, закрывающие кровлю за день, в смешанных натуральных оттенках.",
+      "es": "La cubierta de paja moderna para cenadores de PalmGrass Pro usa tiras prealineadas que cierran el techo en un día, en tonos naturales.",
+      "it": "La copertura in paglia moderna per pergolati di PalmGrass Pro usa strisce preallineate che chiudono il tetto in un giorno, in toni naturali misti."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Resort villas & beach huts",
+          "ru": "Виллы и пляжные хижины",
+          "es": "Villas y chozas de playa",
+          "it": "Ville e capanne sulla spiaggia"
+        },
+        "detail": {
+          "en": "Tropical palm-leaf fringe for tiki bars, palapas and sea-facing villas.",
+          "ru": "Тропическая пальмовая солома для тики-баров, палап и вилл у моря.",
+          "es": "Fringe de palma tropical para bares tiki, palapas y villas frente al mar.",
+          "it": "Frangia di palma tropicale per tiki bar, palapa e ville sul mare."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Theme parks & zoos",
+          "ru": "Тематические парки и зоопарки",
+          "es": "Parques temáticos y zoológicos",
+          "it": "Parchi tematici e zoo"
+        },
+        "detail": {
+          "en": "Dense, even coverage that reads as natural thatch from 20 m.",
+          "ru": "Плотное ровное покрытие, читается как натуральная солома с 20 м.",
+          "es": "Cobertura densa y uniforme que se lee como paja natural a 20 m.",
+          "it": "Copertura densa e uniforme che si legge come paglia naturale da 20 m."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Hotel atriums & pools",
+          "ru": "Атриумы и бассейны отелей",
+          "es": "Atrios y piscinas de hoteles",
+          "it": "Atri e piscine di hotel"
+        },
+        "detail": {
+          "en": "Lightweight panels cut roof load versus natural reed.",
+          "ru": "Лёгкие панели снижают нагрузку на кровлю против натурального тростника.",
+          "es": "Paneles ligeros reducen la carga frente al carrizo natural.",
+          "it": "Pannelli leggeri riducono il carico rispetto al giunco naturale."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -1125,6 +2731,152 @@
       "ru": "Долговечная соломенная кровля для патио | PalmGrass Pro",
       "es": "Cubierta de Paja Sintética Duradera para Patio | PalmGrass",
       "it": "Coperture in paglia per patio durevoli | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's long-lifespan synthetic patio thatch lasts 15-20 years outdoors with UV stabilization, for patios and poolside structures.",
+      "ru": "Долговечная синтетическая солома PalmGrass Pro для патио служит 15-20 лет на улице благодаря УФ-стабилизации — для патио и зон у бассейна.",
+      "es": "La paja sintética de patio de larga vida de PalmGrass Pro dura 15-20 años al aire libre con UV, para patios y zonas de piscina.",
+      "it": "La paglia sintetica per patio di lunga durata di PalmGrass Pro dura 15-20 anni all'aperto con UV, per patii e zone piscina."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Resort villas & beach huts",
+          "ru": "Виллы и пляжные хижины",
+          "es": "Villas y chozas de playa",
+          "it": "Ville e capanne sulla spiaggia"
+        },
+        "detail": {
+          "en": "Tropical palm-leaf fringe for tiki bars, palapas and sea-facing villas.",
+          "ru": "Тропическая пальмовая солома для тики-баров, палап и вилл у моря.",
+          "es": "Fringe de palma tropical para bares tiki, palapas y villas frente al mar.",
+          "it": "Frangia di palma tropicale per tiki bar, palapa e ville sul mare."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Theme parks & zoos",
+          "ru": "Тематические парки и зоопарки",
+          "es": "Parques temáticos y zoológicos",
+          "it": "Parchi tematici e zoo"
+        },
+        "detail": {
+          "en": "Dense, even coverage that reads as natural thatch from 20 m.",
+          "ru": "Плотное ровное покрытие, читается как натуральная солома с 20 м.",
+          "es": "Cobertura densa y uniforme que se lee como paja natural a 20 m.",
+          "it": "Copertura densa e uniforme che si legge come paglia naturale da 20 m."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Hotel atriums & pools",
+          "ru": "Атриумы и бассейны отелей",
+          "es": "Atrios y piscinas de hoteles",
+          "it": "Atri e piscine di hotel"
+        },
+        "detail": {
+          "en": "Lightweight panels cut roof load versus natural reed.",
+          "ru": "Лёгкие панели снижают нагрузку на кровлю против натурального тростника.",
+          "es": "Paneles ligeros reducen la carga frente al carrizo natural.",
+          "it": "Pannelli leggeri riducono il carico rispetto al giunco naturale."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -1229,6 +2981,152 @@
       "ru": "Тропическая пальмовая соломенная плитка для кровли тики-баров и резортов | PalmGrass Pro",
       "es": "Teja sintética de palma tropical para bares tiki y resorts | PalmGrass",
       "it": "Copertura in paglia di palma tropicale per tiki bar e resort | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's tropical palm thatch tile overlay is a layered synthetic panel for tiki bars and resort villas, weather-stable and colour-matched.",
+      "ru": "Плитка-накладка PalmGrass Pro из тропической пальмовой соломы — многослойная синтетическая панель для тики-баров и вилл, устойчивая к погоде.",
+      "es": "El revestimiento de teja de palma tropical de PalmGrass Pro es un panel sintético en capas para bares tiki y villas, estable a la intemperie.",
+      "it": "Il rivestimento in tegola di palma tropicale di PalmGrass Pro è un pannello sintetico a strati per tiki bar e ville, stabile alle intemperie."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Resort villas & beach huts",
+          "ru": "Виллы и пляжные хижины",
+          "es": "Villas y chozas de playa",
+          "it": "Ville e capanne sulla spiaggia"
+        },
+        "detail": {
+          "en": "Tropical palm-leaf fringe for tiki bars, palapas and sea-facing villas.",
+          "ru": "Тропическая пальмовая солома для тики-баров, палап и вилл у моря.",
+          "es": "Fringe de palma tropical para bares tiki, palapas y villas frente al mar.",
+          "it": "Frangia di palma tropicale per tiki bar, palapa e ville sul mare."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Theme parks & zoos",
+          "ru": "Тематические парки и зоопарки",
+          "es": "Parques temáticos y zoológicos",
+          "it": "Parchi tematici e zoo"
+        },
+        "detail": {
+          "en": "Dense, even coverage that reads as natural thatch from 20 m.",
+          "ru": "Плотное ровное покрытие, читается как натуральная солома с 20 м.",
+          "es": "Cobertura densa y uniforme que se lee como paja natural a 20 m.",
+          "it": "Copertura densa e uniforme che si legge come paglia naturale da 20 m."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Hotel atriums & pools",
+          "ru": "Атриумы и бассейны отелей",
+          "es": "Atrios y piscinas de hoteles",
+          "it": "Atri e piscine di hotel"
+        },
+        "detail": {
+          "en": "Lightweight panels cut roof load versus natural reed.",
+          "ru": "Лёгкие панели снижают нагрузку на кровлю против натурального тростника.",
+          "es": "Paneles ligeros reducen la carga frente al carrizo natural.",
+          "it": "Pannelli leggeri riducono il carico rispetto al giunco naturale."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -1336,6 +3234,152 @@
       "ru": "Панель из искусственной соломы для кровли хижин и павильонов | PalmGrass Pro",
       "es": "Panel de paja sintética para cubiertas de cabañas y pabellones | PalmGrass",
       "it": "Pannello in paglia sintetica per tetti di capanne e padiglioni | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's synthetic thatch strip panels are pre-aligned in mixed natural tones so a single installer can close a hut or pavilion roof in a day.",
+      "ru": "Полосы синтетической соломы PalmGrass Pro готовы к укладке в смешанных оттенках — один монтажник закрывает кровлю хижины или павильона за день.",
+      "es": "Los paneles de paja en tiras de PalmGrass Pro vienen prealineados en tonos naturales; un solo instalador cierra la cubierta en un día.",
+      "it": "I pannelli in paglia a strisce di PalmGrass Pro sono preallineati in toni naturali; un solo installatore chiude il tetto in un giorno."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Huts & pavilions",
+          "ru": "Хижины и павильоны",
+          "es": "Choza y pabellones",
+          "it": "Capanne e padiglioni"
+        },
+        "detail": {
+          "en": "Pre-aligned strip panels close a roof in a day.",
+          "ru": "Готовые полосы закрывают кровлю за день.",
+          "es": "Paneles en tiras cierran la cubierta en un día.",
+          "it": "Pannelli a strisce chiudono il tetto in un giorno."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Garden gazebos",
+          "ru": "Садовые беседки",
+          "es": "Cenadores de jardín",
+          "it": "Pergolati da giardino"
+        },
+        "detail": {
+          "en": "Overlapping fronds hide the fixing line.",
+          "ru": "Нахлёст скрывает линию крепления.",
+          "es": "El solape oculta la línea de fijación.",
+          "it": "La sovrapposizione nasconde la linea di fissaggio."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Pergolas & canopies",
+          "ru": "Перголы и навесы",
+          "es": "Pérgolas y marquesinas",
+          "it": "Pergole e pensiline"
+        },
+        "detail": {
+          "en": "Mixed natural tones, UV-stabilised.",
+          "ru": "Смешанные натуральные оттенки, УФ-стабилизировано.",
+          "es": "Tonos naturales mezclados, estabilizado UV.",
+          "it": "Toni naturali misti, stabilizzato ai raggi UV."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -1436,6 +3480,152 @@
       "ru": "Плетёный рулон соломы для потолков и навесов | PalmGrass Pro",
       "es": "Rollo de paja tejida para techos y marquesinas | PalmGrass",
       "it": "Rotolo di paglia tessuta per soffitti e pensiline | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's woven thatch mat roll gives a finished, even ceiling or canopy surface and bends around corners without creasing the weave.",
+      "ru": "Плетёный рулон соломы PalmGrass Pro даёт ровный потолок или навес и гнётся вокруг углов без заломов плетения.",
+      "es": "El rollo de malla tejida de PalmGrass Pro da un techo o marquesina liso y se curva en esquinas sin deformar la trama.",
+      "it": "Il rotolo di paglia tessuta di PalmGrass Pro dà un soffitto o pensilina liscio e si curva negli angoli senza deformare la trama."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Indonesian & Filipino pavilions",
+          "ru": "Индонезийские и филиппинские павильоны",
+          "es": "Pabellones indonesios y filipinos",
+          "it": "Padiglioni indonesiani e filippini"
+        },
+        "detail": {
+          "en": "Woven nipa profile for joglo houses and beach structures.",
+          "ru": "Плетёный профиль нипа для домов джогло и пляжных построек.",
+          "es": "Perfil de nipa trenzada para casas joglo y estructuras de playa.",
+          "it": "Profilo nipa intrecciato per case joglo e strutture da spiaggia."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Garden pergolas & ceilings",
+          "ru": "Перголы и потолки в саду",
+          "es": "Pérgolas y techos de jardín",
+          "it": "Pergole e soffitti da giardino"
+        },
+        "detail": {
+          "en": "Flat woven mat for pergola ceilings and room dividers.",
+          "ru": "Плоский плетёный мат для потолков пергола и перегородок.",
+          "es": "Malla tejida plana para techos de pérgola y divisores.",
+          "it": "Tappeto intrecciato piano per soffitti pergola e divisori."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Coastal walkways",
+          "ru": "Приморские дорожки",
+          "es": "Paseos costeros",
+          "it": "Passeggiate costiere"
+        },
+        "detail": {
+          "en": "Salt-spray resistant, no matting in humidity.",
+          "ru": "Устойчиво к солевым брызгам, не сваливается от влажности.",
+          "es": "Resistente a salpicadura salina, no se apelmaza.",
+          "it": "Resistente alla salsedine, non si feltra."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -1535,6 +3725,152 @@
       "ru": "Солома для кровли макути и аланг-аланг | PalmGrass Pro",
       "es": "Paja de caña para cubiertas makuti y alang-alang | PalmGrass",
       "it": "Paglia di canna per coperture makuti e alang-alang | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's reed thatch is bundled to a fixed weight so makuti and alang-alang roofs keep a level course from eave to ridge.",
+      "ru": "Тростниковая солома PalmGrass Pro набрана тюками фиксированного веса, поэтому макути и аланг-аланг держат ровный ряд от карниза до конька.",
+      "es": "La caña de paja de PalmGrass Pro se agrupa en manojos de peso fijo para mantener el hilado nivelado en makuti y alang-alang.",
+      "it": "La canna di paglia di PalmGrass Pro è legata in fasci a peso fisso per mantenere il filone in piano nei tetti makuti e alang-alang."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Makuti & alang-alang roofs",
+          "ru": "Кровли макути и аланг-аланг",
+          "es": "Techos makuti y alang-alang",
+          "it": "Tetti makuti e alang-alang"
+        },
+        "detail": {
+          "en": "Fine straight reed for dense, even makuti coverage.",
+          "ru": "Тонкий прямой тростник для плотного покрытия макути.",
+          "es": "Caña fina y recta para cobertura makuti densa.",
+          "it": "Canna fine e dritta per copertura makuti densa."
+        }
+      },
+      {
+        "scenario": {
+          "en": "African reed projects",
+          "ru": "Проекты из африканского тростника",
+          "es": "Proyectos de caña africana",
+          "it": "Progetti con canna africana"
+        },
+        "detail": {
+          "en": "Bundled to fixed weight so the course stays level.",
+          "ru": "Тюки фиксированного веса — ряд остаётся ровным.",
+          "es": "Manojos de peso fijo para hilada nivelada.",
+          "it": "Fasci a peso fisso per filone in piano."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Gazebos & sheds",
+          "ru": "Беседки и сараи",
+          "es": "Cenadores y cobertizos",
+          "it": "Pergolati e capanni"
+        },
+        "detail": {
+          "en": "Insect- and moisture-treated bundles, site-ready.",
+          "ru": "Тюки с защитой от насекомых и влаги, готовы к монтажу.",
+          "es": "Manojos tratados contra insectos y humedad, listos en obra.",
+          "it": "Fasci trattati contro insetti e umidità, pronti in cantiere."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -1638,6 +3974,152 @@
       "ru": "Кровля каджан для павильонов в индонезийском стиле | PalmGrass Pro",
       "es": "Cubierta de cadjan para pabellones de estilo indonesio | PalmGrass",
       "it": "Copertura in cadjan per padiglioni in stile indonesiano | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's cadjan thatch roofing is the woven alang-alang style of Indonesian pavilions, with a deep overhang profile built for humid climates.",
+      "ru": "Кровля каджан PalmGrass Pro — плетёный стиль аланг-аланг индонезийских павильонов с глубоким профилем свеса для влажного климата.",
+      "es": "La cubierta cadjan de PalmGrass Pro es el estilo trenzado alang-alang de pabellones indonesios, con alero profundo para climas húmedos.",
+      "it": "La copertura cadjan di PalmGrass Pro è lo stile intrecciato alang-alang dei padiglioni indonesiani, con gronda profonda per climi umidi."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Joglo & Indonesian pavilions",
+          "ru": "Джогло и индонезийские павильоны",
+          "es": "Pabellones joglo e indonesios",
+          "it": "Padiglioni joglo e indonesiani"
+        },
+        "detail": {
+          "en": "Layered cadjan roofing in the alang-alang style.",
+          "ru": "Многослойная кровля каджан в стиле аланг-аланг.",
+          "es": "Cubierta cadjan en capas estilo alang-alang.",
+          "it": "Copertura cadjan a strati stile alang-alang."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Open pavilions",
+          "ru": "Открытые павильоны",
+          "es": "Pabellones abiertos",
+          "it": "Padiglioni aperti"
+        },
+        "detail": {
+          "en": "Deep overhang profile built for humid climates.",
+          "ru": "Глубокий профиль свеса для влажного климата.",
+          "es": "Perfil de alero profundo para climas húmedos.",
+          "it": "Profilo di gronda profondo per climi umidi."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Resort & hospitality",
+          "ru": "Резорты и гостеприимство",
+          "es": "Resorts y hostelería",
+          "it": "Resort e ospitalità"
+        },
+        "detail": {
+          "en": "Fire-retardant option for public venues.",
+          "ru": "Опция огнезащиты для общественных объектов.",
+          "es": "Opción ignífuga para locales públicos.",
+          "it": "Opzione ignifuga per locali pubblici."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   },
   {
@@ -1739,6 +4221,152 @@
       "ru": "Плитка кровли макути из кокосового волокна для тропических построек | PalmGrass Pro",
       "es": "Baldosa de paja makuti de coco para estructuras tropicales | PalmGrass",
       "it": "Tessera in paglia makuti di cocco per strutture tropicali | PalmGrass Pro"
+    },
+    "answer_lead": {
+      "en": "PalmGrass Pro's coconut makuti thatch tile reproduces the dense fibrous fringe of tropical roofing on an easy-install overlap format.",
+      "ru": "Плитка макути из кокоса PalmGrass Pro воспроизводит плотный волокнистый конёк тропической кровли в удобном формате с нахлёстом.",
+      "es": "La baldosa makuti de coco de PalmGrass Pro reproduce el fleco denso de la cubierta tropical en formato de solape fácil de instalar.",
+      "it": "La tessera makuti di cocco di PalmGrass Pro riproduce il fleco denso della copertura tropicale in formato a sovrapposizione facile da montare."
+    },
+    "use_cases": [
+      {
+        "scenario": {
+          "en": "Tropical open structures",
+          "ru": "Тропические открытые конструкции",
+          "es": "Estructuras abiertas tropicales",
+          "it": "Strutture aperte tropicali"
+        },
+        "detail": {
+          "en": "Coconut-leaf overlap tiles for makuti roof structures.",
+          "ru": "Плитки из кокосовой соломы с нахлёстом для макути.",
+          "es": "Baldosas de coco con solape para estructuras makuti.",
+          "it": "Tessere di cocco con sovrapposizione per strutture makuti."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Coastal walkways & pavilions",
+          "ru": "Приморские дорожки и павильоны",
+          "es": "Paseos y pabellones costeros",
+          "it": "Passeggiate e padiglioni costieri"
+        },
+        "detail": {
+          "en": "Salt-spray resistant; single bays replaceable.",
+          "ru": "Устойчиво к солевым брызгам; бай заменяется поштучно.",
+          "es": "Resistente a salpicadura salina; bays sustituibles.",
+          "it": "Resistente alla salsedine; bays sostituibili singolarmente."
+        }
+      },
+      {
+        "scenario": {
+          "en": "Resort roofs",
+          "ru": "Кровли резортов",
+          "es": "Techos de resort",
+          "it": "Tetti di resort"
+        },
+        "detail": {
+          "en": "Natural, brown and weathered tones available.",
+          "ru": "Доступны натуральный, коричневый и выцветший тона.",
+          "es": "Tonos natural, marrón y envejecido disponibles.",
+          "it": "Toni naturale, marrone e invecchiato disponibili."
+        }
+      }
+    ],
+    "comparison": {
+      "ours_label": {
+        "en": "Synthetic / PalmGrass",
+        "ru": "Синтетика / PalmGrass",
+        "es": "Sintético / PalmGrass",
+        "it": "Sintetico / PalmGrass"
+      },
+      "alternative_label": {
+        "en": "Natural thatch",
+        "ru": "Натуральная солома",
+        "es": "Paja natural",
+        "it": "Paglia naturale"
+      },
+      "rows": [
+        {
+          "dimension": {
+            "en": "Lifespan",
+            "ru": "Срок службы",
+            "es": "Vida útil",
+            "it": "Durata"
+          },
+          "ours": {
+            "en": "15-20 years",
+            "ru": "15-20 лет",
+            "es": "15-20 años",
+            "it": "15-20 anni"
+          },
+          "alternative": {
+            "en": "3-7 years, then re-thatch",
+            "ru": "3-7 лет, затем перекрытие",
+            "es": "3-7 años, luego retejar",
+            "it": "3-7 anni, poi ricoprire"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Fire rating",
+            "ru": "Огнестойкость",
+            "es": "Clasificación de fuego",
+            "it": "Resistenza al fuoco"
+          },
+          "ours": {
+            "en": "B1 (DIN 4102) built-in, Class A optional",
+            "ru": "B1 (DIN 4102) встроенно, Class A опция",
+            "es": "B1 (DIN 4102) integrado, Clase A opcional",
+            "it": "B1 (DIN 4102) integrato, Classe A opzionale"
+          },
+          "alternative": {
+            "en": "Needs annual retardant spray",
+            "ru": "нужна ежегодная пропитка",
+            "es": "requiere spray retardante anual",
+            "it": "richiede spray ritardante annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "Maintenance",
+            "ru": "Обслуживание",
+            "es": "Mantenimiento",
+            "it": "Manutenzione"
+          },
+          "ours": {
+            "en": "None",
+            "ru": "Нет",
+            "es": "Ninguno",
+            "it": "Nessuna"
+          },
+          "alternative": {
+            "en": "Annual re-thatching",
+            "ru": "ежегодное перекрытие",
+            "es": "retejado anual",
+            "it": "ricopertura annuale"
+          }
+        },
+        {
+          "dimension": {
+            "en": "10-year cost per m²",
+            "ru": "Стоимость за 10 лет/м²",
+            "es": "Coste 10 años/m²",
+            "it": "Costo 10 anni/m²"
+          },
+          "ours": {
+            "en": "$9-12 including labour",
+            "ru": "$9-12 с работой",
+            "es": "$9-12 con mano de obra",
+            "it": "$9-12 con manodopera"
+          },
+          "alternative": {
+            "en": "$18-25 including labour",
+            "ru": "$18-25 с работой",
+            "es": "$18-25 con mano de obra",
+            "it": "$18-25 con manodopera"
+          }
+        }
+      ]
     }
   }
 ]

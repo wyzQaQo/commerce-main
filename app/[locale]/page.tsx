@@ -7,6 +7,7 @@ import { FeaturedProducts } from '@/components/home/featured-products';
 import { ProjectsSection } from '@/components/home/projects-section';
 import { AboutSectionClient } from '@/components/home/about-section-client';
 import { FaqSectionServer } from '@/components/faq/faq-section-server';
+import { PillarLinks } from '@/components/layout/pillar-links';
 import { buildMetadata } from '@/lib/metadata';
 import type { Locale } from '@/lib/types';
 
@@ -49,6 +50,10 @@ export default async function HomePage({
       <ProjectsSection locale={loc} />
       <AboutSectionClient />
       <FaqSectionServer locale={loc} />
+      <section className="container mt-16">
+        <h2 className="mb-4 text-2xl font-bold">Buyer guides</h2>
+        <PillarLinks locale={loc} />
+      </section>
     </>
   );
 }

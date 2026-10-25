@@ -1,8 +1,9 @@
 import { MetadataRoute } from 'next';
 import { SITE_URL } from '@/lib/constants';
 import { getAllProductSlugs, getAllBlogSlugs, blogPosts } from '@/lib/data';
+import { getAllPillarSlugs } from '@/lib/pillars';
 
-const locales = ['en', 'ru', 'es'] as const;
+const locales = ['en', 'ru', 'es', 'it'] as const;
 
 const staticPages = ['', '/products', '/projects', '/blog', '/about', '/contact'];
 
@@ -43,6 +44,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: new Date(),
         changeFrequency: 'weekly',
         priority: 0.9,
+        alternates: languageAlternates(path)
+      });
+    }
+
+    for (const slug of getAllPillarSlugs()) {
+      const path = `/guides/${slug}`;
+      entries.push({
+        url: `${SITE_URL}/${locale}${path}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.85,
         alternates: languageAlternates(path)
       });
     }

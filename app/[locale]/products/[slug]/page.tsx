@@ -7,6 +7,7 @@ import { ProductDetailTabs } from '@/components/products/product-detail-tabs';
 import { ProductDetailActions } from '@/components/products/product-detail-client';
 import { CbmCalculator } from '@/components/products/cbm-calculator';
 import { FaqSectionServer } from '@/components/faq/faq-section-server';
+import { PillarLinks } from '@/components/layout/pillar-links';
 import { Badge } from '@/components/ui/badge';
 import {
   GeoAnswerLead,
@@ -35,7 +36,7 @@ import { formatPrice } from '@/lib/utils';
 import type { Locale } from '@/lib/types';
 
 export function generateStaticParams() {
-  const locales: Locale[] = ['en', 'ru', 'es'];
+  const locales: Locale[] = ['en', 'ru', 'es', 'it'];
   return locales.flatMap((locale) =>
     getAllProductSlugs().map((slug) => ({ locale, slug }))
   );
@@ -421,6 +422,11 @@ export default async function ProductDetailPage({
           </section>
         )}
       </div>
+
+      <section className="mt-12">
+        <h2 className="mb-3 text-2xl font-bold">Buyer guides</h2>
+        <PillarLinks locale={loc} />
+      </section>
 
       <div className="mt-16">
         <FaqSectionServer locale={loc} />

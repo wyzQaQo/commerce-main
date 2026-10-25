@@ -18,7 +18,7 @@ const NAV_LINKS = [
   { href: '/contact', key: 'contact' }
 ] as const;
 
-const LOCALES = ['en', 'ru', 'es'] as const;
+const LOCALES = ['en', 'ru', 'es', 'it'] as const;
 
 export function Navbar() {
   const t = useTranslations('nav');
