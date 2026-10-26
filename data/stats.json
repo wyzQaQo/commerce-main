@@ -6,7 +6,11 @@
       "en": "SKUs",
       "ru": "SKU",
       "es": "SKUs",
-      "it": "SKU"
+      "it": "SKU",
+      "id": "SKU",
+      "ja": "SKU数",
+      "fr": "Références",
+      "de": "Artikel"
     }
   },
   {
@@ -16,7 +20,11 @@
       "en": "Countries",
       "ru": "Стран",
       "es": "Países",
-      "it": "Paesi"
+      "it": "Paesi",
+      "id": "Negara",
+      "ja": "国",
+      "fr": "Pays",
+      "de": "Länder"
     }
   },
   {
@@ -26,7 +34,11 @@
       "en": "m² / Month",
       "ru": "м²/мес",
       "es": "m² / mes",
-      "it": "m² / Mese"
+      "it": "m² / Mese",
+      "id": "m² / Bulan",
+      "ja": "m²/月",
+      "fr": "m² / Mois",
+      "de": "m² / Monat"
     }
   },
   {
@@ -36,7 +48,11 @@
       "en": "Quote Reply",
       "ru": "Ответ",
       "es": "Respuesta",
-      "it": "Risposta preventivo"
+      "it": "Risposta preventivo",
+      "id": "Balasan Penawaran",
+      "ja": "見積もり返信",
+      "fr": "Réponse devis",
+      "de": "Angebotsantwort"
     }
   }
 ]

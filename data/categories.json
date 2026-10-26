@@ -6,13 +6,21 @@
       "en": "Palm Thatch",
       "ru": "Palm Thatch",
       "es": "Paja de Palma",
-      "it": "Paglia di palma"
+      "it": "Paglia di palma",
+      "id": "Atap Jerami Palem",
+      "ja": "パーム茅葺き",
+      "fr": "Chaume de palmier",
+      "de": "Palmreeth"
     },
     "description": {
       "en": "Tropical palm leaf profiles for tiki bars, palapas and resort villas.",
       "ru": "Tropical palm leaf profiles for tiki bars, palapas and resort villas.",
       "es": "Perfiles de hoja de palma para bares tiki, palapas y villas.",
-      "it": "Profili di foglie di palma tropicali per tiki bar, palapa e ville dei resort."
+      "it": "Profili di foglie di palma tropicali per tiki bar, palapa e ville dei resort.",
+      "id": "Profil daun palem tropis untuk bar tiki, palapa dan vila resor.",
+      "ja": "ティキバー、パラパ、リゾートヴィラ向けの熱帯パームリーフプロファイル。",
+      "fr": "Profils de feuilles de palmier tropical pour bars tiki, palapas et villas de resort.",
+      "de": "Tropische Palmblattprofile für Tiki-Bars, Palapas und Resort-Villen."
     },
     "image": "/images/products/palm-thatch-roof-covering-manufacturer.jpg"
   },
@@ -23,13 +31,21 @@
       "en": "Nipa Thatch",
       "ru": "Nipa Thatch",
       "es": "Paja Nipa",
-      "it": "Paglia Nipa"
+      "it": "Paglia Nipa",
+      "id": "Atap Jerami Nipa",
+      "ja": "ニパ茅葺き",
+      "fr": "Chaume nipa",
+      "de": "Nipa-Reet"
     },
     "description": {
       "en": "Southeast Asian nipa hut style panels for zoos, parks and beach clubs.",
       "ru": "Southeast Asian nipa hut style panels for zoos, parks and beach clubs.",
       "es": "Paneles estilo cabaña nipa para parques y clubes de playa.",
-      "it": "Pannelli in stile capanna nipa del Sud-Est asiatico per zoo, parchi e beach club."
+      "it": "Pannelli in stile capanna nipa del Sud-Est asiatico per zoo, parchi e beach club.",
+      "id": "Panel bergaya pondok nipa Asia Tenggara untuk kebun binatang, taman dan klub pantai.",
+      "ja": "動物園、公園、ビーチクラブ向けの東南アジア風ニパハットパネル。",
+      "fr": "Panneaux style hutte nipa d'Asie du Sud-Est pour zoos, parcs et clubs de plage.",
+      "de": "Paneele im südostasiatischen Nipa-Hütten-Stil für Zoos, Parks und Strandclubs."
     },
     "image": "/images/products/zoo-park-artificial-nipa-hut-thatch-roof-manufacturer.jpg"
   },
@@ -40,13 +56,21 @@
       "en": "Cadjan / Kajan",
       "ru": "Cadjan / Kajan",
       "es": "Cadjan / Kajan",
-      "it": "Cadjan / Kajan"
+      "it": "Cadjan / Kajan",
+      "id": "Cadjan / Kajan",
+      "ja": "カジャン茅葺き",
+      "fr": "Cadjan / Kajan",
+      "de": "Cadjan / Kajan"
     },
     "description": {
       "en": "Sri Lankan cadjan weave look for overwater villas and eco-resorts.",
       "ru": "Sri Lankan cadjan weave look for overwater villas and eco-resorts.",
       "es": "Tejido cadjan para villas sobre el agua y eco-resorts.",
-      "it": "Trama cadjan dello Sri Lanka per ville sull'acqua ed eco-resort."
+      "it": "Trama cadjan dello Sri Lanka per ville sull'acqua ed eco-resort.",
+      "id": "Anyaman cadjan khas Sri Lanka untuk vila overwater dan eco-resort.",
+      "ja": "スリランカのカジャン織りの風合い。水上ヴィラやエコリゾートに最適。",
+      "fr": "Tissage cadjan sri-lankais pour villas sur pilotis et éco-resorts.",
+      "de": "Sri-lankische Cadjan-Flechtoptik für Wasservillen und Öko-Resorts."
     },
     "image": "/images/products/overwater-villa-artificial-kajan-thatch-roof.jpg"
   },
@@ -57,13 +81,21 @@
       "en": "Reed Thatch",
       "ru": "Reed Thatch",
       "es": "Paja de Junco",
-      "it": "Paglia di canna"
+      "it": "Paglia di canna",
+      "id": "Atap Jerami Reed",
+      "ja": "リード茅葺き",
+      "fr": "Chaume de roseau",
+      "de": "Schilfreet"
     },
     "description": {
       "en": "European reed hut aesthetics with UV-stable synthetic fibres.",
       "ru": "European reed hut aesthetics with UV-stable synthetic fibres.",
       "es": "Estética de cabaña de junco con fibras sintéticas UV.",
-      "it": "Estetica capanna europea in canna con fibre sintetiche stabili ai raggi UV."
+      "it": "Estetica capanna europea in canna con fibre sintetiche stabili ai raggi UV.",
+      "id": "Estetika pondok reed Eropa dengan serat sintetis tahan UV.",
+      "ja": "UV安定性合成繊維によるヨーロッパのリードハットの風合い。",
+      "fr": "Esthétique de hutte en roseaux européenne avec fibres synthétiques stables aux UV.",
+      "de": "Europäische Schilfhütten-Optik mit UV-stabilen Kunstfasern."
     },
     "image": "/images/products/island-country-tropical-style-artificial-thatch-roofing-mate.jpg"
   },
@@ -74,13 +106,21 @@
       "en": "Straw Thatch",
       "ru": "Straw Thatch",
       "es": "Paja de Trigo",
-      "it": "Paglia"
+      "it": "Paglia",
+      "id": "Atap Jerami Straw",
+      "ja": "ストロー茅葺き",
+      "fr": "Chaume de paille",
+      "de": "Strohreet"
     },
     "description": {
       "en": "Safari and cottage straw roof tiles for gazebos and garden structures.",
       "ru": "Safari and cottage straw roof tiles for gazebos and garden structures.",
       "es": "Tejas de paja para cenadores y estructuras de jardín.",
-      "it": "Tegole in paglia stile safari e cottage per gazebo e strutture da giardino."
+      "it": "Tegole in paglia stile safari e cottage per gazebo e strutture da giardino.",
+      "id": "Panel atap jerami safari dan cottage untuk gazebo serta struktur taman.",
+      "ja": "ガゼボや庭園構造物向けのサファリ・コテージ風ストロー屋根パネル。",
+      "fr": "Tuiles de chaume safari et cottage pour belvédères et structures de jardin.",
+      "de": "Safari- und Cottage-Strohdachziegel für Pavillons und Gartenbauten."
     },
     "image": "/images/products/fireproof-synthetic-safari-thatched-roof-covering-for-shed.jpg"
   },
@@ -91,13 +131,21 @@
       "en": "Makuti / Coconut",
       "ru": "Makuti / Coconut",
       "es": "Makuti / Coco",
-      "it": "Makuti / Cocco"
+      "it": "Makuti / Cocco",
+      "id": "Makuti / Kelapa",
+      "ja": "マクティ / ココナッツ",
+      "fr": "Makuti / Coco",
+      "de": "Makuti / Kokosnuss"
     },
     "description": {
       "en": "East African makuti coconut thatch for lodges and themed venues.",
       "ru": "East African makuti coconut thatch for lodges and themed venues.",
       "es": "Makuti de coco para lodges y venues temáticos.",
-      "it": "Paglia di cocco makuti dell'Africa orientale per lodge e location a tema."
+      "it": "Paglia di cocco makuti dell'Africa orientale per lodge e location a tema.",
+      "id": "Jerami kelapa makuti Afrika Timur untuk lodge dan venue bertema.",
+      "ja": "ロッジやテーマ会場向けの東アフリカ産マクティココナッツ茅葺き。",
+      "fr": "Chaume de coco makuti d'Afrique de l'Est pour lodges et lieux à thème.",
+      "de": "Ostafrikanisches Makuti-Kokosreeth für Lodges und Themenanlagen."
     },
     "image": "/images/products/plastic-coconut-thatch-roof-products-be-customized-for-your-.jpg"
   }

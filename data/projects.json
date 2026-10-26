@@ -6,19 +6,31 @@
       "en": "Maldives Overwater Villa Cadjan Roof",
       "ru": "Maldives Overwater Villa Cadjan Roof",
       "es": "Maldives Overwater Villa Cadjan Roof",
-      "it": "Tetto cadjan su ville sull'acqua alle Maldive"
+      "it": "Tetto cadjan su ville sull'acqua alle Maldive",
+      "id": "Atap Cadjan Vila Overwater Maladewa",
+      "ja": "モルディブ水上ヴィラのカジャン屋根",
+      "fr": "Toit cadjan pour villa sur pilotis aux Maldives",
+      "de": "Cadjan-Dach für Wasservilla auf den Malediven"
     },
     "region": {
       "en": "Maldives",
       "ru": "Maldives",
       "es": "Maldives",
-      "it": "Maldive"
+      "it": "Maldive",
+      "id": "Maladewa",
+      "ja": "モルディブ",
+      "fr": "Maldives",
+      "de": "Malediven"
     },
     "summary": {
       "en": "Full cadjan-style synthetic thatch roof for luxury overwater villas with B1 fire treatment.",
       "ru": "Full cadjan-style synthetic thatch roof for luxury overwater villas with B1 fire treatment.",
       "es": "Full cadjan-style synthetic thatch roof for luxury overwater villas with B1 fire treatment.",
-      "it": "Tetto completo in paglia sintetica stile cadjan per ville di lusso sull'acqua con trattamento ignifugo B1."
+      "it": "Tetto completo in paglia sintetica stile cadjan per ville di lusso sull'acqua con trattamento ignifugo B1.",
+      "id": "Atap jerami sintetis bergaya cadjan penuh untuk vila overwater mewah dengan perawatan tahan api B1.",
+      "ja": "B1防火処理を施した、高級水上ヴィラ向けの本格カジャンスタイル合成茅葺き屋根。",
+      "fr": "Toiture en chaume synthétique style cadjan intégrale pour villas de luxe sur pilotis, avec traitement ignifuge B1.",
+      "de": "Komplettes synthetisches Reetdach im Cadjan-Stil für luxuriöse Wasservillen mit B1-Brandschutzbehandlung."
     },
     "image": "/images/projects/project-1.jpg",
     "featured": true
@@ -30,19 +42,31 @@
       "en": "Philippines Palm Thatch Diving Club",
       "ru": "Philippines Palm Thatch Diving Club",
       "es": "Philippines Palm Thatch Diving Club",
-      "it": "Paglia di palma del Diving Club delle Filippine"
+      "it": "Paglia di palma del Diving Club delle Filippine",
+      "id": "Klub Selam Palm Thatch Filipina",
+      "ja": "フィリピン パーム茅葺きダイビングクラブ",
+      "fr": "Club de plongée au chaume de palmier – Philippines",
+      "de": "Philippinen Palmreeth-Tauchclub"
     },
     "region": {
       "en": "Philippines",
       "ru": "Philippines",
       "es": "Philippines",
-      "it": "Filippine"
+      "it": "Filippine",
+      "id": "Filipina",
+      "ja": "フィリピン",
+      "fr": "Philippines",
+      "de": "Philippinen"
     },
     "summary": {
       "en": "Palm-profile panels for coastal club pergolas — salt-spray and UV resistant.",
       "ru": "Palm-profile panels for coastal club pergolas — salt-spray and UV resistant.",
       "es": "Palm-profile panels for coastal club pergolas — salt-spray and UV resistant.",
-      "it": "Pannelli a profilo palma per pergole di club costieri: resistenti a spruzzi salini e raggi UV."
+      "it": "Pannelli a profilo palma per pergole di club costieri: resistenti a spruzzi salini e raggi UV.",
+      "id": "Panel profil palem untuk pergola klub pantai — tahan semprotan garam dan UV.",
+      "ja": "海沿いクラブのパーゴラ向けパームプロファイルパネル — 塩害・UV耐性。",
+      "fr": "Panneaux profilés palmier pour pergolas de club côtier — résistants aux embruns et aux UV.",
+      "de": "Palmprofil-Paneele für Pergolen im Küstenclub — salzwasser- und UV-beständig."
     },
     "image": "/images/projects/project-2.jpg",
     "featured": true
@@ -54,19 +78,31 @@
       "en": "Malaysia Resort Restaurant Thatch",
       "ru": "Malaysia Resort Restaurant Thatch",
       "es": "Malaysia Resort Restaurant Thatch",
-      "it": "Paglia del ristorante resort in Malesia"
+      "it": "Paglia del ristorante resort in Malesia",
+      "id": "Restoran Resor Malaysia Thatch",
+      "ja": "マレーシア リゾートレストランの茅葺き",
+      "fr": "Restaurant de resort en chaume – Malaisie",
+      "de": "Malaysia Resort-Restaurant Reetdach"
     },
     "region": {
       "en": "Malaysia",
       "ru": "Malaysia",
       "es": "Malaysia",
-      "it": "Malesia"
+      "it": "Malesia",
+      "id": "Malaysia",
+      "ja": "マレーシア",
+      "fr": "Malaisie",
+      "de": "Malaysia"
     },
     "summary": {
       "en": "820 m² palm thatch roofing for beachfront restaurant and villa gazebos.",
       "ru": "820 m² palm thatch roofing for beachfront restaurant and villa gazebos.",
       "es": "820 m² palm thatch roofing for beachfront restaurant and villa gazebos.",
-      "it": "820 m² di copertura in paglia di palma per ristorante fronte spiaggia e gazebo di ville."
+      "it": "820 m² di copertura in paglia di palma per ristorante fronte spiaggia e gazebo di ville.",
+      "id": "Atap jerami palem 820 m² untuk restoran tepi pantai dan gazebo vila.",
+      "ja": "ビーチフロントのレストランとヴィラのガゼボに、820m²のパーム茅葺き屋根を施工。",
+      "fr": "Toiture en chaume de palmier de 820 m² pour un restaurant en bord de mer et des gazebos de villas.",
+      "de": "820 m² Palmenreetdach für Strandrestaurant und Villen-Pavillons."
     },
     "image": "/images/projects/project-3.jpg",
     "featured": true
@@ -78,19 +114,31 @@
       "en": "Qatar Waterfront Park Pergola",
       "ru": "Qatar Waterfront Park Pergola",
       "es": "Qatar Waterfront Park Pergola",
-      "it": "Pergola del parco lungomare del Qatar"
+      "it": "Pergola del parco lungomare del Qatar",
+      "id": "Pergola Taman Waterfront Qatar",
+      "ja": "カタール ウォーターフロントパークのパーゴラ",
+      "fr": "Pergola du parc en front de mer – Qatar",
+      "de": "Katar Uferpark-Pergola"
     },
     "region": {
       "en": "Qatar",
       "ru": "Qatar",
       "es": "Qatar",
-      "it": "Qatar"
+      "it": "Qatar",
+      "id": "Qatar",
+      "ja": "カタール",
+      "fr": "Qatar",
+      "de": "Katar"
     },
     "summary": {
       "en": "Reed-profile PE thatch for public waterfront shade structures.",
       "ru": "Reed-profile PE thatch for public waterfront shade structures.",
       "es": "Reed-profile PE thatch for public waterfront shade structures.",
-      "it": "Paglia di canna PE per strutture d'ombra pubbliche sul lungomare."
+      "it": "Paglia di canna PE per strutture d'ombra pubbliche sul lungomare.",
+      "id": "Jerami PE profil reed untuk struktur teduh publik di tepi laut.",
+      "ja": "公共ウォーターフロントの日除け構造向け、リードプロファイルPE茅葺き。",
+      "fr": "Chaume PE profilé roseau pour les structures d'ombrage publiques en front de mer.",
+      "de": "PE-Reet mit Schilfprofil für öffentliche Schattenstrukturen am Ufer."
     },
     "image": "/images/projects/project-4.jpg",
     "featured": true

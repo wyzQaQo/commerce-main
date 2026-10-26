@@ -6,13 +6,21 @@
       "en": "What fire-retardant rating do your artificial thatch products meet?",
       "ru": "Какой класс огнестойкости у вашей искусственной соломы?",
       "es": "¿Qué clasificación ignífuga cumplen sus productos de paja artificial?",
-      "it": "Quale classe di reazione al fuoco hanno i vostri prodotti in paglia artificiale?"
+      "it": "Quale classe di reazione al fuoco hanno i vostri prodotti in paglia artificiale?",
+      "id": "Peringkat tahan api apa yang dipenuhi produk jerami sintetis Anda?",
+      "ja": "人工茅葺き製品はどの防火等級に適合していますか？",
+      "fr": "Quelle classe de résistance au feu vos produits de chaume artificiel respectent-ils ?",
+      "de": "Welche Brandschutzklasse erfüllen Ihre synthetischen Reetprodukte?"
     },
     "answer": {
       "en": "Our standard artificial thatch tiles meet Class B1 (DIN 4102) fire-retardant requirements. Class A options with additional fire-retardant coating are available for hotel and public venue projects — contact us for test reports.",
       "ru": "Стандартная плитка соответствует классу B1 (DIN 4102). Доступен класс A с дополнительным огнезащитным покрытием для отелей — предоставим протоколы испытаний.",
       "es": "Nuestras tejas estándar cumplen Clase B1 (DIN 4102). Opción Clase A disponible para hoteles — solicite informes de prueba.",
-      "it": "Le nostre tegole in paglia artificiale standard soddisfano i requisiti ignifughi di Classe B1 (DIN 4102). Opzioni Classe A con ulteriori trattamenti disponibili su richiesta per progetti con requisiti stringenti."
+      "it": "Le nostre tegole in paglia artificiale standard soddisfano i requisiti ignifughi di Classe B1 (DIN 4102). Opzioni Classe A con ulteriori trattamenti disponibili su richiesta per progetti con requisiti stringenti.",
+      "id": "Panel jerami sintetis standar kami memenuhi persyaratan tahan api Kelas B1 (DIN 4102). Opsi Kelas A dengan lapisan tahan api tambahan tersedia untuk proyek hotel dan fasilitas publik — hubungi kami untuk laporan uji.",
+      "ja": "標準の人工茅葺きパネルはクラスB1（DIN 4102）の難燃要件に適合しています。ホテルや公共施設のプロジェクトには、追加の難燃コーティングを施したクラスA仕様もご用意しています。試験報告書はお問い合わせください。",
+      "fr": "Nos panneaux de chaume artificiel standard répondent aux exigences ignifuges de classe B1 (DIN 4102). Des options de classe A avec revêtement ignifuge supplémentaire sont disponibles pour les projets hôteliers et les lieux publics — contactez-nous pour les rapports d'essai.",
+      "de": "Unsere Standard-Reetpaneele aus Kunststoff erfüllen die Anforderungen der Brandschutzklasse B1 (DIN 4102). Für Hotel- und öffentliche Projekte sind Optionen der Klasse A mit zusätzlicher feuerhemmender Beschichtung erhältlich — kontaktieren Sie uns für Prüfberichte."
     }
   },
   {
@@ -22,13 +30,21 @@
       "en": "How long is the service life of synthetic thatch?",
       "ru": "Какой срок службы синтетической соломы?",
       "es": "¿Cuál es la vida útil de la paja sintética?",
-      "it": "Quanto dura la paglia sintetica?"
+      "it": "Quanto dura la paglia sintetica?",
+      "id": "Berapa lama masa pakai jerami sintetis?",
+      "ja": "合成茅葺きの耐用年数はどのくらいですか？",
+      "fr": "Quelle est la durée de vie du chaume synthétique ?",
+      "de": "Wie lang ist die Lebensdauer von synthetischem Reet?"
     },
     "answer": {
       "en": "With UV-stabilized PE/PP materials, our artificial thatch maintains color and structure for 8–15+ years outdoors depending on climate. Natural thatch typically requires replacement every 2–4 years.",
       "ru": "С UV-стабилизированными материалами срок службы на улице 8–15+ лет в зависимости от климата. Натуральная солома требует замены каждые 2–4 года.",
       "es": "Con materiales PE/PP estabilizados UV, la vida útil exterior es de 8–15+ años según el clima. La paja natural suele reemplazarse cada 2–4 años.",
-      "it": "Con materiali PE/PP stabilizzati ai raggi UV, la nostra paglia artificiale mantiene colore e struttura per 8-15+ anni all'aperto, contro i 2-4 anni della paglia naturale."
+      "it": "Con materiali PE/PP stabilizzati ai raggi UV, la nostra paglia artificiale mantiene colore e struttura per 8-15+ anni all'aperto, contro i 2-4 anni della paglia naturale.",
+      "id": "Dengan material PE/PP yang distabilkan UV, jerami sintetis kami mempertahankan warna dan struktur selama 8–15+ tahun di luar ruangan, tergantung iklim. Jerami alami biasanya harus diganti setiap 2–4 tahun.",
+      "ja": "UV安定化されたPE/PP素材により、当社の人工茅葺きは気候に応じて屋外で8〜15年以上、色と構造を維持します。天然茅葺きは通常2〜4年ごとの交換が必要です。",
+      "fr": "Grâce à des matériaux PE/PP stabilisés aux UV, notre chaume artificiel conserve sa couleur et sa structure pendant 8 à 15 ans et plus en extérieur selon le climat. Le chaume naturel doit généralement être remplacé tous les 2 à 4 ans.",
+      "de": "Mit UV-stabilisierten PE/PP-Materialien behält unser künstliches Reet je nach Klima 8–15+ Jahre lang Farbe und Struktur im Freien. Natürliches Reet muss in der Regel alle 2–4 Jahre ersetzt werden."
     }
   },
   {
@@ -38,13 +54,21 @@
       "en": "How do you fix artificial thatch to steel structure roofs?",
       "ru": "Как крепить искусственную солому на стальную кровлю?",
       "es": "¿Cómo fijar la paja artificial en estructuras de acero?",
-      "it": "Come si fissa la paglia artificiale alle coperture in acciaio?"
+      "it": "Come si fissa la paglia artificiale alle coperture in acciaio?",
+      "id": "Bagaimana cara memasang jerami sintetis pada atap struktur baja?",
+      "ja": "人工茅葺きを鉄骨構造の屋根に施工する方法は？",
+      "fr": "Comment fixer le chaume artificiel sur les toits à structure métallique ?",
+      "de": "Wie wird künstliches Reet auf Stahlkonstruktionsdächern befestigt?"
     },
     "answer": {
       "en": "We recommend stainless steel screws with UV-resistant washers at 25–30 cm intervals on purlins, plus overlap of 10–15 cm between tile rows. For curved steel frames, use our flexible batten system — installation drawings provided with every bulk order.",
       "ru": "Рекомендуем нержавеющие саморезы с UV-шайбами через 25–30 см на обрешётке, нахлёст рядов 10–15 см. Для криволинейных каркасов — гибкая обрешётка, чертежи в комплекте оптовых заказов.",
       "es": "Recomendamos tornillos de acero inoxidable con arandelas UV cada 25–30 cm, solape de 10–15 cm. Para estructuras curvas, sistema de rastrel flexible — planos incluidos en pedidos al por mayor.",
-      "it": "Consigliamo viti in acciaio inossidabile con rondelle resistenti ai raggi UV a intervalli di 25-30 cm sugli arcarecci, più la sovrapposizione dei pannelli per la tenuta all'acqua."
+      "it": "Consigliamo viti in acciaio inossidabile con rondelle resistenti ai raggi UV a intervalli di 25-30 cm sugli arcarecci, più la sovrapposizione dei pannelli per la tenuta all'acqua.",
+      "id": "Kami merekomendasikan sekrup stainless steel dengan ring washer tahan UV pada interval 25–30 cm pada purlin, dengan tumpang tindih 10–15 cm antar baris panel. Untuk rangka baja melengkung, gunakan sistem reng fleksibel kami — gambar kerja disertakan pada setiap pesanan massal.",
+      "ja": "母屋に25〜30cm間隔でステンレス製ネジとUV耐性ワッシャーを使用し、パネル列の重ね代を10〜15cm確保することを推奨します。曲線の鉄骨フレームには当社のフレキシブル下地システムをご使用ください — 大口注文には施工図面を添付します。",
+      "fr": "Nous recommandons des vis en acier inoxydable avec rondelles résistantes aux UV tous les 25 à 30 cm sur les pannes, avec un chevauchement de 10 à 15 cm entre les rangées de tuiles. Pour les structures métalliques courbes, utilisez notre système de liteaux flexibles — plans d'installation fournis avec chaque commande en gros.",
+      "de": "Wir empfehlen Edelstahlschrauben mit UV-beständigen Unterlegscheiben im Abstand von 25–30 cm auf den Pfetten sowie eine Überlappung von 10–15 cm zwischen den Paneelreihen. Für gebogene Stahlrahmen verwenden Sie unser flexibles Lattensystem — Montagezeichnungen werden mit jeder Großbestellung geliefert."
     }
   },
   {
@@ -54,13 +78,21 @@
       "en": "What is the MOQ for wholesale orders?",
       "ru": "Какой MOQ для оптовых заказов?",
       "es": "¿Cuál es el MOQ para pedidos mayoristas?",
-      "it": "Qual è la quantità minima (MOQ) per ordini all'ingrosso?"
+      "it": "Qual è la quantità minima (MOQ) per ordini all'ingrosso?",
+      "id": "Berapa MOQ untuk pesanan grosir?",
+      "ja": "卸売注文の最小発注数量（MOQ）は？",
+      "fr": "Quel est le MOQ pour les commandes en gros ?",
+      "de": "Wie hoch ist die Mindestbestellmenge für Großhandelsbestellungen?"
     },
     "answer": {
       "en": "Standard MOQ is 200 m² (approx. 800–1,000 tiles depending on profile). Mixed-color orders from 100 m² may be accepted for first-time partners. Sample boxes available before bulk commitment.",
       "ru": "Стандартный MOQ — 200 м² (около 800–1000 плиток). Смешанные цвета от 100 м² для новых партнёров. Образцы перед оптовым заказом.",
       "es": "MOQ estándar: 200 m² (aprox. 800–1.000 tejas). Pedidos mixtos desde 100 m² para nuevos socios. Muestras disponibles antes del pedido mayorista.",
-      "it": "Il MOQ standard è di 200 m² (circa 800-1.000 tegole a seconda del profilo). Ordini con colori misti da 100 m² possono essere accettati previo accordo."
+      "it": "Il MOQ standard è di 200 m² (circa 800-1.000 tegole a seconda del profilo). Ordini con colori misti da 100 m² possono essere accettati previo accordo.",
+      "id": "MOQ standar adalah 200 m² (sekitar 800–1.000 panel, tergantung profil). Pesanan warna campuran mulai 100 m² dapat diterima untuk mitra baru. Kotak sampel tersedia sebelum pemesanan massal.",
+      "ja": "標準MOQは200㎡（プロファイルにより約800〜1,000枚）。初回のお取引先様には100㎡からのミックスカラー注文も承ります。大量ご発注前にサンプルボックスをご用意できます。",
+      "fr": "Le MOQ standard est de 200 m² (environ 800 à 1 000 tuiles selon le profil). Les commandes multicolores à partir de 100 m² peuvent être acceptées pour les nouveaux partenaires. Boîtes d'échantillons disponibles avant commande en gros.",
+      "de": "Die Standard-MOQ beträgt 200 m² (ca. 800–1.000 Paneele je nach Profil). Für Erstpartner sind Mischfarbenbestellungen ab 100 m² möglich. Musterboxen sind vor der Großbestellung erhältlich."
     }
   },
   {
@@ -70,13 +102,21 @@
       "en": "What wind resistance level can your thatch systems withstand?",
       "ru": "Какой уровень ветроустойчивости?",
       "es": "¿Qué resistencia al viento soportan sus sistemas?",
-      "it": "Quale livello di resistenza al vento possono sopportare i vostri sistemi?"
+      "it": "Quale livello di resistenza al vento possono sopportare i vostri sistemi?",
+      "id": "Ketahanan angin seperti apa yang dapat ditahan sistem jerami Anda?",
+      "ja": "茅葺きシステムはどの程度の風圧に耐えられますか？",
+      "fr": "Quel niveau de résistance au vent vos systèmes de chaume peuvent-ils supporter ?",
+      "de": "Welcher Windlast können Ihre Reetsysteme standhalten?"
     },
     "answer": {
       "en": "When installed per our guide, systems are rated for sustained winds up to 120 km/h (Category 1 typhoon). Coastal resort projects should use our reinforced fixing kit with extra anchor points.",
       "ru": "При монтаже по инструкции — устойчивость до 120 км/ч. Для прибрежных курортов — усиленный крепёжный комплект.",
       "es": "Instalado según guía, resiste vientos sostenidos hasta 120 km/h. Proyectos costeros: kit de fijación reforzado.",
-      "it": "Se installato secondo la nostra guida, i sistemi sopportano venti sostenuti fino a 120 km/h (tifone categoria 1). Per le zone costiere consigliamo fissaggi rinforzati."
+      "it": "Se installato secondo la nostra guida, i sistemi sopportano venti sostenuti fino a 120 km/h (tifone categoria 1). Per le zone costiere consigliamo fissaggi rinforzati.",
+      "id": "Jika dipasang sesuai panduan, sistem ini mampu bertahan terhadap angin terus-menerus hingga 120 km/jam (topan Kategori 1). Proyek resor pantai sebaiknya menggunakan kit penguat kami dengan titik jangkar tambahan.",
+      "ja": "当社の施工ガイドに従って設置した場合、風速120km/h（カテゴリー1の台風相当）までの持続風に対応します。海岸沿いのリゾート案件では、アンカーを増やした補強用固定キットをご使用ください。",
+      "fr": "Installés conformément à notre guide, les systèmes résistent à des vents soutenus jusqu'à 120 km/h (typhon de catégorie 1). Les projets de resorts côtiers doivent utiliser notre kit de fixation renforcé avec points d'ancrage supplémentaires.",
+      "de": "Bei Montage gemäß unserem Leitfaden sind die Systeme für Dauerwinde bis zu 120 km/h (Taifun der Kategorie 1) ausgelegt. Für Küstenresortprojekte empfehlen wir unser verstärktes Befestigungsset mit zusätzlichen Ankerpunkten."
     }
   },
   {
@@ -86,13 +126,21 @@
       "en": "How do you calculate CBM for sea freight?",
       "ru": "Как рассчитать CBM для морской перевозки?",
       "es": "¿Cómo calcular CBM para envío marítimo?",
-      "it": "Come si calcola il CBM per il trasporto marittimo?"
+      "it": "Come si calcola il CBM per il trasporto marittimo?",
+      "id": "Bagaimana cara menghitung CBM untuk pengiriman laut?",
+      "ja": "海上輸送のCBM（容積）はどう計算しますか？",
+      "fr": "Comment calculez-vous le CBM pour le fret maritime ?",
+      "de": "Wie berechnen Sie CBM für Seefracht?"
     },
     "answer": {
       "en": "Use our product page CBM calculator: enter tile quantity and we compute total volume, weight, and approximate 20ft/40ft container utilization. Our sales team can optimize mixed-SKU loading for your project.",
       "ru": "Используйте калькулятор CBM на странице товара: введите количество — получите объём, вес и загрузку 20/40 футовых контейнеров.",
       "es": "Use el calculador CBM en la página del producto: ingrese cantidad y obtenga volumen, peso y uso de contenedor 20/40 pies.",
-      "it": "Usa il calcolatore CBM nella pagina prodotto: inserisci la quantità di tegole e calcoliamo volume totale, peso e numero approssimativo di cartoni per la pianificazione del container."
+      "it": "Usa il calcolatore CBM nella pagina prodotto: inserisci la quantità di tegole e calcoliamo volume totale, peso e numero approssimativo di cartoni per la pianificazione del container.",
+      "id": "Gunakan kalkulator CBM di halaman produk: masukkan jumlah panel, dan kami akan menghitung total volume, berat, serta perkiraan pemuatan kontainer 20ft/40ft. Tim penjualan kami dapat mengoptimalkan pemuatan SKU campuran untuk proyek Anda.",
+      "ja": "製品ページのCBM計算ツールをご利用ください。パネル数量を入力すると、総容積・重量・20ft/40ftコンテナのおおよその積載率が算出されます。営業チームがプロジェクトに合わせた混載SKUの最適化も承ります。",
+      "fr": "Utilisez le calculateur CBM de la page produit : saisissez la quantité de tuiles et nous calculons le volume total, le poids et l'utilisation approximative des conteneurs 20 et 40 pieds. Notre équipe commerciale peut optimiser le chargement mixte de SKU pour votre projet.",
+      "de": "Nutzen Sie unseren CBM-Rechner auf der Produktseite: Geben Sie die Paneelmenge ein und wir berechnen Gesamtvolumen, Gewicht und die ungefähre Auslastung von 20-Fuß-/40-Fuß-Containern. Unser Vertriebsteam optimiert die gemischte SKU-Beladung für Ihr Projekt."
     }
   }
 ]
