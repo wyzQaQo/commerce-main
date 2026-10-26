@@ -1,13 +1,13 @@
 import Image from 'next/image';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
-import { Link } from '@/i18n/routing';
+import { Link, routing } from '@/i18n/routing';
 import { blogPosts, getLocalized } from '@/lib/data';
 import { buildMetadata } from '@/lib/metadata';
 import { IndexGuide } from '@/components/sections/index-guide';
 import type { Locale } from '@/lib/types';
 
 export function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'ru' }, { locale: 'es' }];
+  return routing.locales.map((locale) => ({ locale }));
 }
 
 export async function generateMetadata({

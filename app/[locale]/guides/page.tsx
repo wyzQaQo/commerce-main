@@ -4,7 +4,7 @@ import { getPillarBySlug, getAllPillarSlugs } from '@/lib/pillars';
 import type { Locale } from '@/lib/types';
 
 export function generateStaticParams() {
-  return (['en', 'ru', 'es', 'it'] as Locale[]).map((locale) => ({ locale }));
+  return (['en', 'ru', 'es', 'it', 'id', 'ja', 'fr', 'de'] as Locale[]).map((locale) => ({ locale }));
 }
 
 export async function generateMetadata({

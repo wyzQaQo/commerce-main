@@ -3,7 +3,7 @@ import { SITE_URL } from '@/lib/constants';
 import { getAllProductSlugs, getAllBlogSlugs, blogPosts } from '@/lib/data';
 import { getAllPillarSlugs } from '@/lib/pillars';
 
-const locales = ['en', 'ru', 'es', 'it'] as const;
+const locales = ['en', 'ru', 'es', 'it', 'id', 'ja', 'fr', 'de'] as const;
 
 const staticPages = ['', '/products', '/projects', '/blog', '/about', '/contact'];
 

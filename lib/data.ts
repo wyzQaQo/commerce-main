@@ -56,7 +56,11 @@ function defaultInstallationGuide(): Product['installationGuide'] {
     en: `## Installation Overview\n\n1. Ensure roof pitch is 25°–45° for optimal drainage.\n2. Install battens at 30 cm centers perpendicular to rafters.\n3. Fix tiles with stainless screws; overlap rows by 12 cm.\n4. Seal ridge caps with UV-resistant adhesive.\n\nFull PDF drawings available upon order confirmation.`,
     ru: `## Монтаж\n\n1. Уклон кровли 25°–45°\n2. Обрешётка с шагом 30 см.\n3. Крепление нержавеющими саморезами, нахлёст 12 см.\n4. Конёк с UV-клеем.\n\nPDF-чертежи после подтверждения заказа.`,
     es: `## Instalación\n\n1. Pendiente 25°–45°\n2. Rastreles cada 30 cm.\n3. Fijar con tornillos inox, solape 12 cm.\n4. Cumbrera con adhesivo UV.\n\nPlanos PDF tras confirmar pedido.`,
-    it: `## Panoramica dell\'installazione\n\n1. Pendenza 25°–45°\n2. Rastreles ogni 30 cm.\n3. Fissare con viti inox.\n\nPDF su richiesta.`
+    it: `## Panoramica dell\'installazione\n\n1. Pendenza 25°–45°\n2. Rastreles ogni 30 cm.\n3. Fissare con viti inox.\n\nPDF su richiesta.`,
+    id: `## Installation Overview\n\n1. Ensure roof pitch is 25°–45° for optimal drainage.\n2. Install battens at 30 cm centers perpendicular to rafters.\n3. Fix tiles with stainless screws; overlap rows by 12 cm.\n4. Seal ridge caps with UV-resistant adhesive.\n\nFull PDF drawings available upon order confirmation.`,
+    ja: `## Installation Overview\n\n1. Ensure roof pitch is 25°–45° for optimal drainage.\n2. Install battens at 30 cm centers perpendicular to rafters.\n3. Fix tiles with stainless screws; overlap rows by 12 cm.\n4. Seal ridge caps with UV-resistant adhesive.\n\nFull PDF drawings available upon order confirmation.`,
+    fr: `## Installation Overview\n\n1. Ensure roof pitch is 25°–45° for optimal drainage.\n2. Install battens at 30 cm centers perpendicular to rafters.\n3. Fix tiles with stainless screws; overlap rows by 12 cm.\n4. Seal ridge caps with UV-resistant adhesive.\n\nFull PDF drawings available upon order confirmation.`,
+    de: `## Installation Overview\n\n1. Ensure roof pitch is 25°–45° for optimal drainage.\n2. Install battens at 30 cm centers perpendicular to rafters.\n3. Fix tiles with stainless screws; overlap rows by 12 cm.\n4. Seal ridge caps with UV-resistant adhesive.\n\nFull PDF drawings available upon order confirmation.`,
   };
 }
 
@@ -68,13 +72,21 @@ function defaultCertifications(): Product['certifications'] {
         en: 'Fire-Retardant Class B1',
         ru: 'Огнестойкость B1',
         es: 'Ignífugo Clase B1',
-        it: 'Ignifugo Classe B1'
+        it: 'Ignifugo Classe B1',
+        id: 'Fire-Retardant Class B1',
+        ja: 'Fire-Retardant Class B1',
+        fr: 'Fire-Retardant Class B1',
+        de: 'Fire-Retardant Class B1',
       },
       description: {
         en: 'DIN 4102-1 Class B1 test report available. Suitable for commercial resort applications.',
         ru: 'Протокол DIN 4102-1 B1. Для коммерческих курортов.',
         es: 'Informe DIN 4102-1 B1. Para resorts comerciales.',
-        it: 'Rapporto di prova DIN 4102-1 Classe B1 disponibile. Adatto per resort commerciali.'
+        it: 'Rapporto di prova DIN 4102-1 Classe B1 disponibile. Adatto per resort commerciali.',
+        id: 'DIN 4102-1 Class B1 test report available. Suitable for commercial resort applications.',
+        ja: 'DIN 4102-1 Class B1 test report available. Suitable for commercial resort applications.',
+        fr: 'DIN 4102-1 Class B1 test report available. Suitable for commercial resort applications.',
+        de: 'DIN 4102-1 Class B1 test report available. Suitable for commercial resort applications.',
       }
     },
     {
@@ -83,23 +95,35 @@ function defaultCertifications(): Product['certifications'] {
         en: 'UV Resistance Certificate',
         ru: 'Сертификат UV-стойкости',
         es: 'Certificado resistencia UV',
-        it: 'Certificato di Resistenza UV'
+        it: 'Certificato di Resistenza UV',
+        id: 'UV Resistance Certificate',
+        ja: 'UV Resistance Certificate',
+        fr: 'UV Resistance Certificate',
+        de: 'UV Resistance Certificate',
       },
       description: {
         en: '5+ year accelerated UV aging test (ASTM G154). Color ΔE < 3 after 3000h.',
         ru: 'Ускоренное UV-старение 5+ лет (ASTM G154). ΔE < 3 после 3000 ч.',
         es: 'Envejecimiento UV 5+ años (ASTM G154). ΔE < 3 tras 3000h.',
-        it: 'Test di invecchiamento UV accelerato 5+ anni (ASTM G154). Colore ΔE < 3 dopo 3000h.'
+        it: 'Test di invecchiamento UV accelerato 5+ anni (ASTM G154). Colore ΔE < 3 dopo 3000h.',
+        id: '5+ year accelerated UV aging test (ASTM G154). Color ΔE < 3 after 3000h.',
+        ja: '5+ year accelerated UV aging test (ASTM G154). Color ΔE < 3 after 3000h.',
+        fr: '5+ year accelerated UV aging test (ASTM G154). Color ΔE < 3 after 3000h.',
+        de: '5+ year accelerated UV aging test (ASTM G154). Color ΔE < 3 after 3000h.',
       }
     },
     {
       id: 'cert-iso',
-      title: { en: 'ISO 9001:2015', ru: 'ISO 9001:2015', es: 'ISO 9001:2015', it: 'ISO 9001:2015' },
+      title: { en: 'ISO 9001:2015', ru: 'ISO 9001:2015', es: 'ISO 9001:2015', it: 'ISO 9001:2015', id: 'ISO 9001:2015', ja: 'ISO 9001:2015', fr: 'ISO 9001:2015', de: 'ISO 9001:2015' },
       description: {
         en: 'Factory quality management system certified.',
         ru: 'Сертифицированная система менеджмента качества.',
         es: 'Sistema de gestión de calidad certificado.',
-        it: 'Sistema di gestione della qualità certificato.'
+        it: 'Sistema di gestione della qualità certificato.',
+        id: 'Factory quality management system certified.',
+        ja: 'Factory quality management system certified.',
+        fr: 'Factory quality management system certified.',
+        de: 'Factory quality management system certified.',
       }
     }
   ];

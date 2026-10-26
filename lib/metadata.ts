@@ -9,7 +9,7 @@ import {
 } from '@/lib/constants';
 
 /** Locale list for hreflang alternates; mirrors i18n/routing.ts. */
-const LOCALES = ['en', 'ru', 'es'] as const;
+const LOCALES = ['en', 'ru', 'es', 'it', 'id', 'ja', 'fr', 'de'] as const;
 
 interface BuildMetadataOptions {
   title: string;

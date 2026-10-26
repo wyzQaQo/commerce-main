@@ -3,9 +3,10 @@ import { buildMetadata } from '@/lib/metadata';
 import { AboutHero } from '@/components/about/about-hero';
 import { AboutPageContent } from '@/components/about/about-page-content';
 import type { Locale } from '@/lib/types';
+import { routing } from '@/i18n/routing';
 
 export function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'ru' }, { locale: 'es' }];
+  return routing.locales.map((locale) => ({ locale }));
 }
 
 export async function generateMetadata({

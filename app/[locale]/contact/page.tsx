@@ -3,9 +3,10 @@ import { InquiryForm } from '@/components/inquiry-form';
 import { CONTACT_ADDRESS, CONTACT_EMAIL, CONTACT_PHONE } from '@/lib/constants';
 import { buildMetadata } from '@/lib/metadata';
 import { IndexGuide } from '@/components/sections/index-guide';
+import { routing } from '@/i18n/routing';
 
 export function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'ru' }, { locale: 'es' }];
+  return routing.locales.map((locale) => ({ locale }));
 }
 
 export async function generateMetadata({

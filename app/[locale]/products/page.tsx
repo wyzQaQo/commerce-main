@@ -6,9 +6,10 @@ import { IndexGuide } from '@/components/sections/index-guide';
 import { products } from '@/lib/data';
 import { buildMetadata } from '@/lib/metadata';
 import type { Locale } from '@/lib/types';
+import { routing } from '@/i18n/routing';
 
 export function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'ru' }, { locale: 'es' }];
+  return routing.locales.map((locale) => ({ locale }));
 }
 
 export async function generateMetadata({

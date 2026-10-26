@@ -18,6 +18,22 @@ const LABELS: Record<Locale, Record<string, string>> = {
   it: {
     'fire-retardant-thatch-treatment': 'Paglia ignifuga (B1 / Classe A)',
     'thatch-roofing-price-south-africa': 'Prezzi copertura in paglia'
+  },
+  id: {
+    'fire-retardant-thatch-treatment': 'Fire retardant thatch (B1 / Class A)',
+    'thatch-roofing-price-south-africa': 'Thatch roofing prices'
+  },
+  ja: {
+    'fire-retardant-thatch-treatment': 'Fire retardant thatch (B1 / Class A)',
+    'thatch-roofing-price-south-africa': 'Thatch roofing prices'
+  },
+  fr: {
+    'fire-retardant-thatch-treatment': 'Fire retardant thatch (B1 / Class A)',
+    'thatch-roofing-price-south-africa': 'Thatch roofing prices'
+  },
+  de: {
+    'fire-retardant-thatch-treatment': 'Fire retardant thatch (B1 / Class A)',
+    'thatch-roofing-price-south-africa': 'Thatch roofing prices'
   }
 };
 

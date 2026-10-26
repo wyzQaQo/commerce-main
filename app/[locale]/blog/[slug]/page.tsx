@@ -12,7 +12,7 @@ import { SITE_URL } from '@/lib/constants';
 import type { Locale } from '@/lib/types';
 
 export function generateStaticParams() {
-  const locales: Locale[] = ['en', 'ru', 'es', 'it'];
+  const locales: Locale[] = ['en', 'ru', 'es', 'it', 'id', 'ja', 'fr', 'de'];
   return locales.flatMap((locale) =>
     getAllBlogSlugs().map((slug) => ({ locale, slug }))
   );

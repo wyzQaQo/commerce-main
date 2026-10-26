@@ -9,7 +9,7 @@ import { SITE_URL } from '@/lib/constants';
 import type { Locale } from '@/lib/types';
 
 export function generateStaticParams() {
-  const locales: Locale[] = ['en', 'ru', 'es', 'it'];
+  const locales: Locale[] = ['en', 'ru', 'es', 'it', 'id', 'ja', 'fr', 'de'];
   return locales.flatMap((locale) =>
     getAllPillarSlugs().map((slug) => ({ locale, slug }))
   );
@@ -40,7 +40,11 @@ function PillarBody({ pillar, loc }: { pillar: PillarPage; loc: Locale }) {
     en: 'Enquire',
     ru: 'Запросить',
     es: 'Solicitar',
-    it: 'Richiedi'
+    it: 'Richiedi',
+    id: 'Minta Penawaran',
+    ja: '見積もり依頼',
+    fr: 'Demander un devis',
+    de: 'Angebot anfordern'
   };
 
   const faqLd = {
