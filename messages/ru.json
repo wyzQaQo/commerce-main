@@ -33,7 +33,8 @@
     "aboutTitle": "О PalmGrass Pro",
     "aboutText": "Производитель синтетической соломенной кровли из Гуанчжоу для отелей, курортов и эко-туризма.",
     "learnMore": "Подробнее",
-    "viewAllProducts": "Вся продукция"
+    "viewAllProducts": "Вся продукция",
+    "aboutLink": "About Link"
   },
   "products": {
     "title": "Панели искусственной соломенной кровли | PalmGrass Pro",
@@ -66,7 +67,43 @@
     "noSpecs": "No specifications listed.",
     "heading": "Панели искусственной соломенной кровли",
     "listHeading": "Ассортимент панелей синтетической соломы",
-    "buyerGuides": "Гиды для покупателей"
+    "buyerGuides": "Гиды для покупателей",
+    "specCartonSize": "Размер коробки",
+    "specCartonWeight": "Вес коробки",
+    "specPanelsPerCarton": "Панелей в коробке",
+    "specCartonVolume": "Объём коробки",
+    "specPriceBand": "Ценовой диапазон",
+    "priceUnit": "за м²",
+    "breadcrumbHome": "Главная",
+    "breadcrumbProducts": "Продукция",
+    "faqWhereUsed": "Где применяется этот продукт?",
+    "faqLifespan": "Какой срок службы?",
+    "faqFireRating": "Какой класс огнестойкости?",
+    "faqMoq": "Каков минимальный объём заказа?",
+    "faqInstall": "Как производится монтаж?",
+    "faqSample": "Можно заказать образец?",
+    "specMaterial": "Материал",
+    "specPanelSize": "Размер панели",
+    "specFireRating": "Класс огнестойкости",
+    "specUv": "УФ-стойкость",
+    "specWeight": "Вес",
+    "packagingTitle": "Упаковка и доставка",
+    "installTitle": "Монтаж",
+    "certTitle": "Сертификаты",
+    "compareTitle": "Синтетическая и натуральная солома",
+    "useCasesTitle": "Области применения",
+    "browseCategory": "Browse Category",
+    "comparisonLead": "Comparison Вступление",
+    "comparisonTitle": "Comparison Заголовок",
+    "containerTitle": "Container Заголовок",
+    "coreParameters": "Core Parameters",
+    "descriptionTitle": "Description Заголовок",
+    "environmentsLead": "Для прибрежных зон, высокого UV и влажности.",
+    "faqMaintenance": "Сколько обслуживания требуется?",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "relatedInCategory": "Related In Category",
+    "whereUsed": "Где применяется"
   },
   "cbm": {
     "title": "CBM & Shipping Calculator",
@@ -102,14 +139,20 @@
     "title": "Проекты соломенной кровли | PalmGrass Pro",
     "description": "Проекты соломенной кровли PalmGrass Pro по всему миру — резорты, отели, виллы над водой, тематические парки. Реальные кейсы установки.",
     "region": "Region",
-    "heading": "Проекты соломенной кровли"
+    "heading": "Проекты соломенной кровли",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "blog": {
     "title": "Блог об искусственной соломе | PalmGrass Pro",
     "description": "Блог об искусственной соломе — новости, руководства и советы по синтетической соломенной кровле и искусственным пальмам от PalmGrass Pro.",
     "readMore": "Read More",
     "backToList": "Back to Blog",
-    "heading": "Блог об искусственной соломе"
+    "heading": "Блог об искусственной соломе",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "about": {
     "title": "О производителе соломенной кровли | PalmGrass Pro",
@@ -155,7 +198,8 @@
     "emailLabel": "Sales Email",
     "phoneLabel": "Phone / WhatsApp",
     "contactCtaButton": "Contact Export Team",
-    "heading": "О производителе соломенной кровли"
+    "heading": "О производителе соломенной кровли",
+    "h1": "О производителе синтетической соломы"
   },
   "contact": {
     "title": "Связаться с производителем соломенной кровли | PalmGrass Pro",
@@ -183,13 +227,22 @@
     "phoneLabel": "Phone",
     "addressLabel": "Address",
     "chatWhatsApp": "Chat on WhatsApp",
-    "heading": "Связаться с производителем соломенной кровли"
+    "heading": "Связаться с производителем соломенной кровли",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "footer": {
     "quickLinks": "Quick Links",
     "contact": "Contact",
     "followUs": "Follow Us",
-    "rights": "All rights reserved."
+    "rights": "All rights reserved.",
+    "tagline": "Синтетическая соломенная кровля напрямую с завода для resorts, отелей и вилл.",
+    "readyTitle": "Готовы начать проект?",
+    "readyBody": "Пришлите площадь кровли и сроки — мы ответим расчётом FOB в течение 24 часов.",
+    "blurb": "Blurb",
+    "explore": "Explore",
+    "exportDesk": "Export Desk"
   },
   "whatsapp": {
     "tooltip": "Chat with us on WhatsApp",

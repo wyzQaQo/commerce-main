@@ -33,7 +33,8 @@
     "aboutTitle": "Informazioni su PalmGrass Pro",
     "aboutText": "Produttore con sede a Guangzhou specializzato in coperture in paglia sintetica per hotel, resort, parchi a tema ed eco-turismo. Forniamo profili ignifughi in palma, nipa, cadjan, canna e paglia ad appaltatori in oltre 50 paesi con dimensioni OEM, supporto tecnico e preventivi in 24 ore.",
     "learnMore": "Scopri di più",
-    "viewAllProducts": "Vedi tutti i prodotti"
+    "viewAllProducts": "Vedi tutti i prodotti",
+    "aboutLink": "About Link"
   },
   "products": {
     "title": "Pannelli e coperture in paglia sintetica | PalmGrass Pro",
@@ -66,7 +67,43 @@
     "noSpecs": "Nessuna specifica elencata.",
     "heading": "Pannelli e coperture in paglia sintetica",
     "listHeading": "Gamma di pannelli in paglia sintetica",
-    "buyerGuides": "Guide per gli acquirenti"
+    "buyerGuides": "Guide per gli acquirenti",
+    "specCartonSize": "Dimensione cartone",
+    "specCartonWeight": "Peso cartone",
+    "specPanelsPerCarton": "Pannelli per cartone",
+    "specCartonVolume": "Volume cartone",
+    "specPriceBand": "Fascia di prezzo",
+    "priceUnit": "per m²",
+    "breadcrumbHome": "Home",
+    "breadcrumbProducts": "Prodotti",
+    "faqWhereUsed": "Dove si usa questo prodotto?",
+    "faqLifespan": "Quanto dura?",
+    "faqFireRating": "Quale classe di resistenza al fuoco?",
+    "faqMoq": "Qual è l'ordine minimo?",
+    "faqInstall": "Come si installa?",
+    "faqSample": "Posso ordinare un campione?",
+    "specMaterial": "Materiale",
+    "specPanelSize": "Dimensione pannello",
+    "specFireRating": "Resistenza al fuoco",
+    "specUv": "Resistenza UV",
+    "specWeight": "Peso",
+    "packagingTitle": "Imballaggio e spedizione",
+    "installTitle": "Installazione",
+    "certTitle": "Certificazioni",
+    "compareTitle": "Paglia sintetica vs naturale",
+    "useCasesTitle": "Applicazioni tipiche",
+    "browseCategory": "Browse Category",
+    "comparisonLead": "Comparison Introduzione",
+    "comparisonTitle": "Comparison Titolo",
+    "containerTitle": "Container Titolo",
+    "coreParameters": "Core Parameters",
+    "descriptionTitle": "Description Titolo",
+    "environmentsLead": "Per ambienti costieri, alto UV e umidità.",
+    "faqMaintenance": "Quanta manutenzione richiede?",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "relatedInCategory": "Related In Category",
+    "whereUsed": "Dove si usa"
   },
   "cbm": {
     "title": "Calcolatore CBM e spedizione",
@@ -102,14 +139,20 @@
     "title": "Progetti di installazione in paglia sintetica | PalmGrass Pro",
     "description": "Esplora progetti di installazione in paglia sintetica in tutto il mondo: resort, hotel, ville sull'acqua e parchi a tema. Vedi casi reali di coperture in paglia.",
     "region": "Regione",
-    "heading": "Progetti di installazione in paglia sintetica"
+    "heading": "Progetti di installazione in paglia sintetica",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "blog": {
     "title": "Blog sulla paglia artificiale | PalmGrass Pro",
     "description": "Blog sulla paglia artificiale: approfondimenti sul settore della paglia sintetica, guide all'acquisto, resistenza ai raggi UV e suggerimenti per ordini all'ingrosso da PalmGrass Pro.",
     "readMore": "Leggi di più",
     "backToList": "Torna al blog",
-    "heading": "Blog e news sulla paglia artificiale"
+    "heading": "Blog e news sulla paglia artificiale",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "about": {
     "title": "Informazioni sul produttore di paglia sintetica | PalmGrass Pro",
@@ -155,7 +198,8 @@
     "emailLabel": "Email vendite",
     "phoneLabel": "Telefono / WhatsApp",
     "contactCtaButton": "Contatta il team export",
-    "heading": "Informazioni sul produttore di paglia sintetica"
+    "heading": "Informazioni sul produttore di paglia sintetica",
+    "h1": "Informazioni sul produttore di paglia sintetica"
   },
   "contact": {
     "title": "Contatta il produttore di coperture in paglia | PalmGrass Pro",
@@ -183,13 +227,22 @@
     "phoneLabel": "Telefono",
     "addressLabel": "Indirizzo",
     "chatWhatsApp": "Chatta su WhatsApp",
-    "heading": "Contatta il produttore di coperture in paglia"
+    "heading": "Contatta il produttore di coperture in paglia",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "footer": {
     "quickLinks": "Collegamenti rapidi",
     "contact": "Contatti",
     "followUs": "Seguici",
-    "rights": "Tutti i diritti riservati."
+    "rights": "Tutti i diritti riservati.",
+    "tagline": "Coperture in paglia sintetica direttamente dalla fabbrica per resort, hotel e ville.",
+    "readyTitle": "Pronto per avviare il tuo progetto?",
+    "readyBody": "Inviaci superficie del tetto e tempistiche: rispondiamo con un preventivo FOB entro 24 ore.",
+    "blurb": "Blurb",
+    "explore": "Explore",
+    "exportDesk": "Export Desk"
   },
   "whatsapp": {
     "tooltip": "Chatta con noi su WhatsApp",

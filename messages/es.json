@@ -33,7 +33,8 @@
     "aboutTitle": "Sobre PalmGrass Pro",
     "aboutText": "Más de 10 años fabricando palmeras artificiales premium. Servimos mayoristas y minoristas en más de 50 países con soporte OEM/ODM, MOQ competitivo y envío global rápido.",
     "learnMore": "Saber más",
-    "viewAllProducts": "Ver todos"
+    "viewAllProducts": "Ver todos",
+    "aboutLink": "About Link"
   },
   "products": {
     "title": "Paneles Sintéticos de Paja | PalmGrass Pro",
@@ -66,7 +67,43 @@
     "noSpecs": "Sin especificaciones.",
     "heading": "Paneles Sintéticos de Paja",
     "listHeading": "Catálogo de Paneles de Paja Sintética",
-    "buyerGuides": "Guías para compradores"
+    "buyerGuides": "Guías para compradores",
+    "specCartonSize": "Tamaño del cartón",
+    "specCartonWeight": "Peso del cartón",
+    "specPanelsPerCarton": "Paneles por cartón",
+    "specCartonVolume": "Volumen del cartón",
+    "specPriceBand": "Rango de precio",
+    "priceUnit": "por m²",
+    "breadcrumbHome": "Inicio",
+    "breadcrumbProducts": "Productos",
+    "faqWhereUsed": "¿Dónde se usa este producto?",
+    "faqLifespan": "¿Cuánto dura?",
+    "faqFireRating": "¿Qué clasificación ignífuga aplica?",
+    "faqMoq": "¿Cuál es el pedido mínimo?",
+    "faqInstall": "¿Cómo se instala?",
+    "faqSample": "¿Puedo pedir una muestra?",
+    "specMaterial": "Material",
+    "specPanelSize": "Tamaño del panel",
+    "specFireRating": "Clasificación ignífuga",
+    "specUv": "Resistencia UV",
+    "specWeight": "Peso",
+    "packagingTitle": "Embalaje y envío",
+    "installTitle": "Instalación",
+    "certTitle": "Certificaciones",
+    "compareTitle": "Paja sintética vs natural",
+    "useCasesTitle": "Aplicaciones típicas",
+    "browseCategory": "Browse Category",
+    "comparisonLead": "Comparison Introducción",
+    "comparisonTitle": "Comparison Título",
+    "containerTitle": "Container Título",
+    "coreParameters": "Core Parameters",
+    "descriptionTitle": "Description Título",
+    "environmentsLead": "Para entornos costeros, alto UV y humedad.",
+    "faqMaintenance": "¿Cuánto mantenimiento requiere?",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "relatedInCategory": "Related In Category",
+    "whereUsed": "Dónde se usa"
   },
   "cbm": {
     "title": "Calculadora CBM y envío",
@@ -102,14 +139,20 @@
     "title": "Proyectos de Instalación de Paja | PalmGrass Pro",
     "description": "Proyectos de instalación de paja en todo el mundo — resorts, hoteles, villas sobre el agua y parques temáticos. Casos reales de cubiertas de paja.",
     "region": "Región",
-    "heading": "Proyectos de Instalación de Paja"
+    "heading": "Proyectos de Instalación de Paja",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "blog": {
     "title": "Blog sobre Paja Artificial | PalmGrass Pro",
     "description": "Blog sobre paja artificial — noticias, guías y consejos sobre cubiertas de paja sintética y palmeras artificiales de PalmGrass Pro.",
     "readMore": "Leer más",
     "backToList": "Volver al blog",
-    "heading": "Blog sobre Paja Artificial"
+    "heading": "Blog sobre Paja Artificial",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "about": {
     "title": "Sobre el Fabricante de Paja Sintética | PalmGrass Pro",
@@ -155,7 +198,8 @@
     "emailLabel": "Email comercial",
     "phoneLabel": "Teléfono / WhatsApp",
     "contactCtaButton": "Contactar exportación",
-    "heading": "Sobre el Fabricante de Paja Sintética"
+    "heading": "Sobre el Fabricante de Paja Sintética",
+    "h1": "Sobre el fabricante de paja sintética"
   },
   "contact": {
     "title": "Contactar Fabricante de Cubiertas de Paja | PalmGrass Pro",
@@ -183,13 +227,22 @@
     "phoneLabel": "Teléfono",
     "addressLabel": "Dirección",
     "chatWhatsApp": "WhatsApp",
-    "heading": "Contactar Fabricante de Cubiertas de Paja"
+    "heading": "Contactar Fabricante de Cubiertas de Paja",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "footer": {
     "quickLinks": "Enlaces",
     "contact": "Contacto",
     "followUs": "Síguenos",
-    "rights": "Todos los derechos reservados."
+    "rights": "Todos los derechos reservados.",
+    "tagline": "Cubiertas de paja sintética directas de fábrica para resorts, hoteles y villas.",
+    "readyTitle": "¿Listo para empezar tu proyecto?",
+    "readyBody": "Envíenos el área de cubierta y el calendario: respondemos con presupuesto FOB en 24 horas.",
+    "blurb": "Blurb",
+    "explore": "Explore",
+    "exportDesk": "Export Desk"
   },
   "whatsapp": {
     "tooltip": "Chatear por WhatsApp",

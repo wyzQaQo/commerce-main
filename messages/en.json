@@ -33,7 +33,8 @@
     "aboutTitle": "About PalmGrass Pro",
     "aboutText": "Guangzhou-based manufacturer specializing in synthetic thatch roofing for hotels, resorts, theme parks and eco-tourism. We supply fire-retardant palm, nipa, cadjan, reed and straw profiles to contractors in 50+ countries with OEM sizing, technical support and 24h quotations.",
     "learnMore": "Learn More",
-    "viewAllProducts": "View All Products"
+    "viewAllProducts": "View All Products",
+    "aboutLink": "About Link"
   },
   "products": {
     "title": "Synthetic Thatch Panels & Roofing | PalmGrass Pro",
@@ -66,7 +67,43 @@
     "noSpecs": "No specifications listed.",
     "heading": "Synthetic Thatch Panels & Roofing",
     "listHeading": "Synthetic Thatch Panel Range",
-    "buyerGuides": "Buyer guides"
+    "buyerGuides": "Buyer guides",
+    "specCartonSize": "Carton size",
+    "specCartonWeight": "Carton weight",
+    "specPanelsPerCarton": "Panels per carton",
+    "specCartonVolume": "Carton volume",
+    "specPriceBand": "Price band",
+    "priceUnit": "per m²",
+    "breadcrumbHome": "Home",
+    "breadcrumbProducts": "Products",
+    "faqWhereUsed": "Where is this product used?",
+    "faqLifespan": "How long does it last?",
+    "faqFireRating": "What fire rating applies?",
+    "faqMoq": "What is the minimum order quantity?",
+    "faqInstall": "How is it installed?",
+    "faqSample": "Can I order a sample?",
+    "specMaterial": "Material",
+    "specPanelSize": "Panel size",
+    "specFireRating": "Fire rating",
+    "specUv": "UV resistance",
+    "specWeight": "Weight",
+    "packagingTitle": "Packaging & shipping",
+    "installTitle": "Installation",
+    "certTitle": "Certifications",
+    "compareTitle": "Synthetic vs natural thatch",
+    "useCasesTitle": "Typical applications",
+    "browseCategory": "Browse Category",
+    "comparisonLead": "Comparison Lead",
+    "comparisonTitle": "Comparison Title",
+    "containerTitle": "Container Title",
+    "coreParameters": "Core Parameters",
+    "descriptionTitle": "Description Title",
+    "environmentsLead": "Built for coastal, high-UV and high-humidity environments.",
+    "faqMaintenance": "How much maintenance does it need?",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "relatedInCategory": "Related In Category",
+    "whereUsed": "Where it is used"
   },
   "cbm": {
     "title": "CBM & Shipping Calculator",
@@ -102,14 +139,20 @@
     "title": "Synthetic Thatch Installation Projects | PalmGrass Pro",
     "description": "Explore synthetic thatch installation projects worldwide — resorts, hotels, water villas and theme parks. See real thatch roofing case studies.",
     "region": "Region",
-    "heading": "Synthetic Thatch Installation Projects"
+    "heading": "Synthetic Thatch Installation Projects",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "blog": {
     "title": "Artificial Thatch Blog | PalmGrass Pro",
     "description": "Artificial thatch blog — synthetic thatch industry insights, buying guides, UV resistance and wholesale ordering tips from PalmGrass Pro.",
     "readMore": "Read More",
     "backToList": "Back to Blog",
-    "heading": "Artificial Thatch Blog & News"
+    "heading": "Artificial Thatch Blog & News",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "about": {
     "title": "About Synthetic Thatch Manufacturer | PalmGrass Pro",
@@ -155,7 +198,8 @@
     "emailLabel": "Sales Email",
     "phoneLabel": "Phone / WhatsApp",
     "contactCtaButton": "Contact Export Team",
-    "heading": "About Synthetic Thatch Manufacturer"
+    "heading": "About Synthetic Thatch Manufacturer",
+    "h1": "About Synthetic Thatch Manufacturer"
   },
   "contact": {
     "title": "Contact Thatch Roof Manufacturer | PalmGrass Pro",
@@ -183,13 +227,22 @@
     "phoneLabel": "Phone",
     "addressLabel": "Address",
     "chatWhatsApp": "Chat on WhatsApp",
-    "heading": "Contact Thatch Roof Manufacturer"
+    "heading": "Contact Thatch Roof Manufacturer",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "footer": {
     "quickLinks": "Quick Links",
     "contact": "Contact",
     "followUs": "Follow Us",
-    "rights": "All rights reserved."
+    "rights": "All rights reserved.",
+    "tagline": "Factory-direct synthetic thatch roofing for resorts, hotels and villas.",
+    "readyTitle": "Ready to start your project?",
+    "readyBody": "Send us your roof area and timeline — we reply with an FOB quotation within 24 hours.",
+    "blurb": "Blurb",
+    "explore": "Explore",
+    "exportDesk": "Export Desk"
   },
   "whatsapp": {
     "tooltip": "Chat with us on WhatsApp",

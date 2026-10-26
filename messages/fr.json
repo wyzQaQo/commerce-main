@@ -33,7 +33,8 @@
     "aboutTitle": "À propos de PalmGrass Pro",
     "aboutText": "Fabricant basé à Guangzhou, spécialisé dans les toitures en chaume synthétique pour hôtels, resorts, parcs à thème et écotourisme. Nous fournissons des profils palmier, nipa, cadjan, roseau et paille ignifuges aux contractors de plus de 50 pays, avec tailles OEM, support technique et devis sous 24 h.",
     "learnMore": "En savoir plus",
-    "viewAllProducts": "Voir tous les produits"
+    "viewAllProducts": "Voir tous les produits",
+    "aboutLink": "About Link"
   },
   "products": {
     "title": "Panneaux & toitures en chaume synthétique | PalmGrass Pro",
@@ -66,7 +67,43 @@
     "noSpecs": "Aucune spécification répertoriée.",
     "heading": "Panneaux & toitures en chaume synthétique",
     "listHeading": "Gamme de panneaux en chaume synthétique",
-    "buyerGuides": "Guides d'achat"
+    "buyerGuides": "Guides d'achat",
+    "specCartonSize": "Taille du carton",
+    "specCartonWeight": "Poids du carton",
+    "specPanelsPerCarton": "Panneaux par carton",
+    "specCartonVolume": "Volume du carton",
+    "specPriceBand": "Fourchette de prix",
+    "priceUnit": "par m²",
+    "breadcrumbHome": "Accueil",
+    "breadcrumbProducts": "Produits",
+    "faqWhereUsed": "Où ce produit est-il utilisé ?",
+    "faqLifespan": "Quelle est sa durée de vie ?",
+    "faqFireRating": "Quel classement au feu s'applique ?",
+    "faqMoq": "Quelle est la quantité minimale de commande ?",
+    "faqInstall": "Comment s'installe-t-il ?",
+    "faqSample": "Puis-je commander un échantillon ?",
+    "specMaterial": "Matériau",
+    "specPanelSize": "Taille du panneau",
+    "specFireRating": "Classement au feu",
+    "specUv": "Résistance aux UV",
+    "specWeight": "Poids",
+    "packagingTitle": "Emballage et expédition",
+    "installTitle": "Installation",
+    "certTitle": "Certifications",
+    "compareTitle": "Chaume synthétique vs naturel",
+    "useCasesTitle": "Applications courantes",
+    "browseCategory": "Browse Category",
+    "comparisonLead": "Comparison Introduction",
+    "comparisonTitle": "Comparison Titre",
+    "containerTitle": "Container Titre",
+    "coreParameters": "Core Parameters",
+    "descriptionTitle": "Description Titre",
+    "environmentsLead": "Conçu pour les environnements côtiers, à fort UV et humides.",
+    "faqMaintenance": "Quel entretien nécessite-t-il ?",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "relatedInCategory": "Related In Category",
+    "whereUsed": "Où il est utilisé"
   },
   "cbm": {
     "title": "Calculateur CBM & expédition",
@@ -102,14 +139,20 @@
     "title": "Projets d'installation en chaume synthétique | PalmGrass Pro",
     "description": "Explorez les projets d'installation en chaume synthétique dans le monde — resorts, hôtels, villas sur l'eau et parcs à thème. Études de cas réelles.",
     "region": "Région",
-    "heading": "Projets d'installation en chaume synthétique"
+    "heading": "Projets d'installation en chaume synthétique",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "blog": {
     "title": "Blog du chaume artificiel | PalmGrass Pro",
     "description": "Blog chaume artificiel — actualités du secteur, guides d'achat, résistance UV et conseils de commande en gros par PalmGrass Pro.",
     "readMore": "Lire la suite",
     "backToList": "Retour au blog",
-    "heading": "Blog & actualités du chaume artificiel"
+    "heading": "Blog & actualités du chaume artificiel",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "about": {
     "title": "À propos du fabricant de chaume synthétique | PalmGrass Pro",
@@ -155,7 +198,8 @@
     "emailLabel": "E-mail commercial",
     "phoneLabel": "Téléphone / WhatsApp",
     "contactCtaButton": "Contacter l'équipe export",
-    "heading": "À propos du fabricant de chaume synthétique"
+    "heading": "À propos du fabricant de chaume synthétique",
+    "h1": "À propos du fabricant de chaume synthétique"
   },
   "contact": {
     "title": "Contact fabricant de toitures en chaume | PalmGrass Pro",
@@ -183,13 +227,22 @@
     "phoneLabel": "Téléphone",
     "addressLabel": "Adresse",
     "chatWhatsApp": "Discuter sur WhatsApp",
-    "heading": "Contact fabricant de toitures en chaume"
+    "heading": "Contact fabricant de toitures en chaume",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "footer": {
     "quickLinks": "Liens rapides",
     "contact": "Contact",
     "followUs": "Nous suivre",
-    "rights": "Tous droits réservés."
+    "rights": "Tous droits réservés.",
+    "tagline": "Toitures en chaume synthétique en direct usine pour resorts, hôtels et villas.",
+    "readyTitle": "Prêt à démarrer votre projet ?",
+    "readyBody": "Envoyez-nous la surface de toiture et le calendrier : nous répondons avec un devis FOB sous 24 heures.",
+    "blurb": "Blurb",
+    "explore": "Explore",
+    "exportDesk": "Export Desk"
   },
   "whatsapp": {
     "tooltip": "Discutez avec nous sur WhatsApp",

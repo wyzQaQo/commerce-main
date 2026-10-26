@@ -33,7 +33,8 @@
     "aboutTitle": "Tentang PalmGrass Pro",
     "aboutText": "Produsen berbasis di Guangzhou yang berspesialisasi dalam atap jerami sintetis untuk hotel, resor, taman tema dan ekowisata. Kami memasok profil palm, nipa, cadjan, reed dan straw tahan api kepada kontraktor di 50+ negara dengan ukuran OEM, dukungan teknis dan penawaran 24 jam.",
     "learnMore": "Pelajari Lebih Lanjut",
-    "viewAllProducts": "Lihat Semua Produk"
+    "viewAllProducts": "Lihat Semua Produk",
+    "aboutLink": "About Link"
   },
   "products": {
     "title": "Panel & Atap Jerami Sintetis | PalmGrass Pro",
@@ -66,7 +67,43 @@
     "noSpecs": "Tidak ada spesifikasi.",
     "heading": "Panel & Atap Jerami Sintetis",
     "listHeading": "Rangkaian Panel Jerami Sintetis",
-    "buyerGuides": "Panduan pembeli"
+    "buyerGuides": "Panduan pembeli",
+    "specCartonSize": "Ukuran Karton",
+    "specCartonWeight": "Berat Karton",
+    "specPanelsPerCarton": "Panel per Karton",
+    "specCartonVolume": "Volume Karton",
+    "specPriceBand": "Kisaran Harga",
+    "priceUnit": "per m²",
+    "breadcrumbHome": "Beranda",
+    "breadcrumbProducts": "Produk",
+    "faqWhereUsed": "Di mana produk ini digunakan?",
+    "faqLifespan": "Berapa lama masa pakainya?",
+    "faqFireRating": "Berating api apa yang berlaku?",
+    "faqMoq": "Berapa jumlah pesanan minimum?",
+    "faqInstall": "Bagaimana cara pemasangannya?",
+    "faqSample": "Bisakah saya memesan sampel?",
+    "specMaterial": "Material",
+    "specPanelSize": "Ukuran panel",
+    "specFireRating": "Berating api",
+    "specUv": "Ketahanan UV",
+    "specWeight": "Berat",
+    "packagingTitle": "Pengemasan & pengiriman",
+    "installTitle": "Pemasangan",
+    "certTitle": "Sertifikasi",
+    "compareTitle": "Jerami sintetis vs alami",
+    "useCasesTitle": "Aplikasi umum",
+    "browseCategory": "Browse Category",
+    "comparisonLead": "Comparison Pengantar",
+    "comparisonTitle": "Comparison Judul",
+    "containerTitle": "Container Judul",
+    "coreParameters": "Core Parameters",
+    "descriptionTitle": "Description Judul",
+    "environmentsLead": "Dirancang untuk lingkungan pesisir, UV tinggi, dan lembap.",
+    "faqMaintenance": "Berapa banyak perawatan yang dibutuhkan?",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "relatedInCategory": "Related In Category",
+    "whereUsed": "Di mana digunakan"
   },
   "cbm": {
     "title": "Kalkulator CBM & Pengiriman",
@@ -102,14 +139,20 @@
     "title": "Proyek Instalasi Jerami Sintetis | PalmGrass Pro",
     "description": "Jelajahi proyek instalasi jerami sintetis di seluruh dunia — resor, hotel, vila air dan taman tema. Lihat studi kasus atap jerami nyata.",
     "region": "Wilayah",
-    "heading": "Proyek Instalasi Jerami Sintetis"
+    "heading": "Proyek Instalasi Jerami Sintetis",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "blog": {
     "title": "Blog Jerami Artifisial | PalmGrass Pro",
     "description": "Blog jerami artifisial — wawasan industri, panduan pembelian, ketahanan UV dan tips pemesanan grosir dari PalmGrass Pro.",
     "readMore": "Baca Selengkapnya",
     "backToList": "Kembali ke Blog",
-    "heading": "Blog & Berita Jerami Artifisial"
+    "heading": "Blog & Berita Jerami Artifisial",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "about": {
     "title": "Tentang Produsen Jerami Sintetis | PalmGrass Pro",
@@ -155,7 +198,8 @@
     "emailLabel": "Email Penjualan",
     "phoneLabel": "Telepon / WhatsApp",
     "contactCtaButton": "Hubungi Tim Ekspor",
-    "heading": "Tentang Produsen Jerami Sintetis"
+    "heading": "Tentang Produsen Jerami Sintetis",
+    "h1": "Tentang Produsen Jerami Sintetis"
   },
   "contact": {
     "title": "Kontak Produsen Atap Jerami | PalmGrass Pro",
@@ -183,13 +227,22 @@
     "phoneLabel": "Telepon",
     "addressLabel": "Alamat",
     "chatWhatsApp": "Chat via WhatsApp",
-    "heading": "Kontak Produsen Atap Jerami"
+    "heading": "Kontak Produsen Atap Jerami",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "footer": {
     "quickLinks": "Tautan Cepat",
     "contact": "Kontak",
     "followUs": "Ikuti Kami",
-    "rights": "Hak cipta dilindungi."
+    "rights": "Hak cipta dilindungi.",
+    "tagline": "Atap jerami sintetis langsung dari pabrik untuk resor, hotel, dan vila.",
+    "readyTitle": "Siap memulai proyek Anda?",
+    "readyBody": "Kirimkan luas atap dan jadwal Anda — kami balas dengan penawaran FOB dalam 24 jam.",
+    "blurb": "Blurb",
+    "explore": "Explore",
+    "exportDesk": "Export Desk"
   },
   "whatsapp": {
     "tooltip": "Chat dengan kami di WhatsApp",

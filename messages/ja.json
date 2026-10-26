@@ -33,7 +33,8 @@
     "aboutTitle": "PalmGrass Proについて",
     "aboutText": "広州に拠点を置く合成茅葺き屋根専門メーカー。ホテル、リゾート、テーマパーク、エコツーリズム向けに、防炎仕様のパーム・ニッパ・カジャン・リード・ストロー各プロファイルを、OEMサイズ、技術サポート、24時間以内の見積もり付きで50カ国以上の施工会社に供給しています。",
     "learnMore": "詳しく見る",
-    "viewAllProducts": "全製品を見る"
+    "viewAllProducts": "全製品を見る",
+    "aboutLink": "About Link"
   },
   "products": {
     "title": "合成茅葺きパネル・屋根材 | PalmGrass Pro",
@@ -66,7 +67,43 @@
     "noSpecs": "記載された仕様はありません。",
     "heading": "合成茅葺きパネル・屋根材",
     "listHeading": "合成茅葺きパネル ラインアップ",
-    "buyerGuides": "購入ガイド"
+    "buyerGuides": "購入ガイド",
+    "specCartonSize": "カートンサイズ",
+    "specCartonWeight": "カートン重量",
+    "specPanelsPerCarton": "カートンあたりパネル数",
+    "specCartonVolume": "カートン容積",
+    "specPriceBand": "価格帯",
+    "priceUnit": "1m²あたり",
+    "breadcrumbHome": "ホーム",
+    "breadcrumbProducts": "製品",
+    "faqWhereUsed": "この製品はどこで使用されますか？",
+    "faqLifespan": "耐用年数はどのくらいですか？",
+    "faqFireRating": "防火等級はどれに該当しますか？",
+    "faqMoq": "最小発注数量はいくらですか？",
+    "faqInstall": "どのように施工しますか？",
+    "faqSample": "サンプルを注文できますか？",
+    "specMaterial": "材質",
+    "specPanelSize": "パネルサイズ",
+    "specFireRating": "防火等級",
+    "specUv": "耐UV性",
+    "specWeight": "重量",
+    "packagingTitle": "梱包と配送",
+    "installTitle": "施工",
+    "certTitle": "認証",
+    "compareTitle": "合成茅葺きと天然茅葺きの比較",
+    "useCasesTitle": "主な用途",
+    "browseCategory": "Browse Category",
+    "comparisonLead": "Comparison 導入",
+    "comparisonTitle": "Comparison タイトル",
+    "containerTitle": "Container タイトル",
+    "coreParameters": "Core Parameters",
+    "descriptionTitle": "Description タイトル",
+    "environmentsLead": "海岸部・強UV・多湿環境向けに設計。",
+    "faqMaintenance": "メンテナンスはどの程度必要ですか？",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "relatedInCategory": "Related In Category",
+    "whereUsed": "使用箇所"
   },
   "cbm": {
     "title": "CBM・輸送計算ツール",
@@ -102,14 +139,20 @@
     "title": "合成茅葺き施工事例 | PalmGrass Pro",
     "description": "世界中の合成茅葺き施工事例 — リゾート、ホテル、水上ヴィラ、テーマパーク。実際の茅葺き屋根の施工ケースをご紹介。",
     "region": "地域",
-    "heading": "合成茅葺き施工事例"
+    "heading": "合成茅葺き施工事例",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "blog": {
     "title": "人工茅ブログ | PalmGrass Pro",
     "description": "人工茅ブログ — PalmGrass Proによる合成茅業界のインサイト、購入ガイド、耐UV性、卸売発注のコツ。",
     "readMore": "続きを読む",
     "backToList": "ブログ一覧へ",
-    "heading": "人工茅ブログ＆ニュース"
+    "heading": "人工茅ブログ＆ニュース",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "about": {
     "title": "合成茅葺きメーカーについて | PalmGrass Pro",
@@ -155,7 +198,8 @@
     "emailLabel": "営業メール",
     "phoneLabel": "電話 / WhatsApp",
     "contactCtaButton": "輸出チームに連絡",
-    "heading": "合成茅葺きメーカーについて"
+    "heading": "合成茅葺きメーカーについて",
+    "h1": "合成茅葺きメーカーについて"
   },
   "contact": {
     "title": "茅葺き屋根メーカーへのお問い合わせ | PalmGrass Pro",
@@ -183,13 +227,22 @@
     "phoneLabel": "電話",
     "addressLabel": "住所",
     "chatWhatsApp": "WhatsAppでチャット",
-    "heading": "茅葺き屋根メーカーへのお問い合わせ"
+    "heading": "茅葺き屋根メーカーへのお問い合わせ",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "footer": {
     "quickLinks": "クイックリンク",
     "contact": "お問い合わせ",
     "followUs": "フォローする",
-    "rights": "All rights reserved."
+    "rights": "All rights reserved.",
+    "tagline": "リゾート、ホテル、別荘向けの工場直販合成茅葺き屋根。",
+    "readyTitle": "プロジェクトを始める準備はできましたか？",
+    "readyBody": "屋根面積とスケジュールをお送りください。24時間以内にFOB見積もりをご返信します。",
+    "blurb": "Blurb",
+    "explore": "Explore",
+    "exportDesk": "Export Desk"
   },
   "whatsapp": {
     "tooltip": "WhatsAppでチャット",

@@ -33,7 +33,8 @@
     "aboutTitle": "Über PalmGrass Pro",
     "aboutText": "Guangzhou-basierter Hersteller, spezialisiert auf synthetische Reetdächer für Hotels, Resorts, Freizeitparks und Ökotourismus. Wir liefern feuerhemmende Palmen-, Nipa-, Cadjan-, Reet- und Strohprofile an Bauunternehmen in über 50 Ländern — mit OEM-Maßen, technischem Support und Angebot innerhalb von 24 Stunden.",
     "learnMore": "Mehr erfahren",
-    "viewAllProducts": "Alle Produkte ansehen"
+    "viewAllProducts": "Alle Produkte ansehen",
+    "aboutLink": "About Link"
   },
   "products": {
     "title": "Synthetische Reetpaneele & Dächer | PalmGrass Pro",
@@ -66,7 +67,43 @@
     "noSpecs": "Keine Spezifikationen hinterlegt.",
     "heading": "Synthetische Reetpaneele & Dächer",
     "listHeading": "Sortiment synthetischer Reetpaneele",
-    "buyerGuides": "Einkaufsführer"
+    "buyerGuides": "Einkaufsführer",
+    "specCartonSize": "Kartongröße",
+    "specCartonWeight": "Kartonggewicht",
+    "specPanelsPerCarton": "Paneele pro Karton",
+    "specCartonVolume": "Kartonvolumen",
+    "specPriceBand": "Preisspanne",
+    "priceUnit": "pro m²",
+    "breadcrumbHome": "Start",
+    "breadcrumbProducts": "Produkte",
+    "faqWhereUsed": "Wo wird dieses Produkt eingesetzt?",
+    "faqLifespan": "Wie lange hält es?",
+    "faqFireRating": "Welche Brandschutzklasse gilt?",
+    "faqMoq": "Wie hoch ist die Mindestbestellmenge?",
+    "faqInstall": "Wie wird es montiert?",
+    "faqSample": "Kann ich ein Muster bestellen?",
+    "specMaterial": "Material",
+    "specPanelSize": "Paneelgröße",
+    "specFireRating": "Brandschutzklasse",
+    "specUv": "UV-Beständigkeit",
+    "specWeight": "Gewicht",
+    "packagingTitle": "Verpackung & Versand",
+    "installTitle": "Montage",
+    "certTitle": "Zertifizierungen",
+    "compareTitle": "Synthetisches vs natürliches Reet",
+    "useCasesTitle": "Typische Anwendungen",
+    "browseCategory": "Browse Category",
+    "comparisonLead": "Comparison Einleitung",
+    "comparisonTitle": "Comparison Titel",
+    "containerTitle": "Container Titel",
+    "coreParameters": "Core Parameters",
+    "descriptionTitle": "Description Titel",
+    "environmentsLead": "Für Küsten-, Hoch-UV- und Feuchtklima-Umgebungen.",
+    "faqMaintenance": "Wie viel Wartung ist nötig?",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "relatedInCategory": "Related In Category",
+    "whereUsed": "Einsatzbereiche"
   },
   "cbm": {
     "title": "CBM- & Versandrechner",
@@ -102,14 +139,20 @@
     "title": "Synthetische Reetdach-Projekte | PalmGrass Pro",
     "description": "Synthetische Reetdach-Installationen weltweit — Resorts, Hotels, Wasservillen und Freizeitparks. Echte Fallstudien zu Reetdächern.",
     "region": "Region",
-    "heading": "Synthetische Reetdach-Projekte"
+    "heading": "Synthetische Reetdach-Projekte",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "blog": {
     "title": "Kunstreet-Blog | PalmGrass Pro",
     "description": "Kunstreet-Blog — Brancheneinblicke, Einkaufsführer, UV-Beständigkeit und Tipps zur Großhandelsbestellung von PalmGrass Pro.",
     "readMore": "Weiterlesen",
     "backToList": "Zurück zum Blog",
-    "heading": "Kunstreet-Blog & News"
+    "heading": "Kunstreet-Blog & News",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "about": {
     "title": "Über den Synthetik-Reet Hersteller | PalmGrass Pro",
@@ -155,7 +198,8 @@
     "emailLabel": "Vertriebs-E-Mail",
     "phoneLabel": "Telefon / WhatsApp",
     "contactCtaButton": "Exportteam kontaktieren",
-    "heading": "Über den Synthetik-Reet Hersteller"
+    "heading": "Über den Synthetik-Reet Hersteller",
+    "h1": "Über den Hersteller von synthetischem Reet"
   },
   "contact": {
     "title": "Kontakt Reetdach-Hersteller | PalmGrass Pro",
@@ -183,13 +227,22 @@
     "phoneLabel": "Telefon",
     "addressLabel": "Adresse",
     "chatWhatsApp": "Per WhatsApp chatten",
-    "heading": "Kontakt Reetdach-Hersteller"
+    "heading": "Kontakt Reetdach-Hersteller",
+    "guide": "Guide",
+    "guide2": "Guide2",
+    "h1": "H1"
   },
   "footer": {
     "quickLinks": "Schnelllinks",
     "contact": "Kontakt",
     "followUs": "Folgen Sie uns",
-    "rights": "Alle Rechte vorbehalten."
+    "rights": "Alle Rechte vorbehalten.",
+    "tagline": "Synthetische Reetdächer direkt ab Werk für Resorts, Hotels und Villen.",
+    "readyTitle": "Bereit, Ihr Projekt zu starten?",
+    "readyBody": "Senden Sie uns Dachfläche und Zeitplan — wir antworten innerhalb von 24 Stunden mit einem FOB-Angebot.",
+    "blurb": "Blurb",
+    "explore": "Explore",
+    "exportDesk": "Export Desk"
   },
   "whatsapp": {
     "tooltip": "Mit uns auf WhatsApp chatten",
