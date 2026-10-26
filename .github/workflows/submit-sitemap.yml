@@ -1,0 +1,47 @@
+name: Submit Sitemap to Google Search Console
+
+# Re-submits the dynamic sitemap to GSC after every deploy so new URLs get
+# crawled. The legacy /ping endpoint is deprecated, so we use the Search Console
+# API v3 with a service-account JWT. Runs in GitHub's environment (egress to
+# googleapis.com is allowed) — unlike the build box which is firewalled off.
+
+on:
+  workflow_run:
+    workflows: ["Deploy to Cloudflare Workers"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Submit sitemap
+        env:
+          GSC_SERVICE_ACCOUNT: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          SITE_URL: https://100tiki.com
+        run: |
+          npm install --no-save googleapis@latest
+          node -e '
+          const {google} = require("googleapis");
+          const serviceAccount = JSON.parse(process.env.GSC_SERVICE_ACCOUNT);
+          const site = "sc-domain:100tiki.com";
+          const sitemap = process.env.SITE_URL + "/sitemap.xml";
+          (async () => {
+            const auth = new google.auth.JWT({
+              email: serviceAccount.client_email,
+              key: serviceAccount.private_key,
+              scopes: ["https://www.googleapis.com/auth/webmasters"],
+            });
+            const sc = google.webmasters({version: "v3", auth});
+            await sc.sitemaps.submit({site, feedpath: sitemap});
+            console.log("Submitted", sitemap, "to", site);
+          })().catch(e => { console.error(e.message); process.exit(1); });
+          '
